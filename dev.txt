@@ -1,0 +1,4155 @@
+use_cuda: True
+('/ssd_scratch/cvit/seshadri_c/phoenix_features/dev', '/ssd_scratch/cvit/seshadri_c/PHOENIX-2014-T-release-v3/PHOENIX-2014-T/annotations/manual/PHOENIX-2014-T.dev.corpus.csv')
+Model loaded succesfully from :  /ssd_scratch/cvit/seshadri_c/TRAIN_1/checkpoints/checkpoint_latest.pt
+
+
+ Pair : 1
+ Target : [['IM', 'SÜDEN', 'OBERHALB', 'VON', 'VIERHUNDERT', 'BIS', 'SIEBENHUNDERT', 'METERN', 'ZUM', 'TEIL', 'KRÄFTIGER', 'SCHNEEFALL']] 
+ Predicted : ['RICHTUNG', 'SÜDEN', 'IST', 'ES', 'MEIST', 'TROCKEN', 'UND', 'TROCKEN']
+The BLEU Score :  0.0 
+
+
+
+
+ Pair : 2
+ Target : [['SAMSTAG', 'UND', 'SONNTAG', 'VERLAUFEN', 'UNBESTÄNDIG', 'VOR', 'ALLEM', 'AM', 'SONNTAG', 'KANN', 'ES', 'STÜRMISCH', 'WERDEN']] 
+ Predicted : ['AM', 'MITTWOCH', 'UND', 'DONNERSTAG', 'IST', 'ES', 'INSGESAMT', 'ETWAS', 'FREUNDLICHER']
+The BLEU Score :  0.0 
+
+
+
+
+ Pair : 3
+ Target : [['HEUTE', 'NACHT', 'SOWIE', 'AB', 'MORGEN', 'NACHMITTAG', 'AN', 'DER', 'KÜSTE', 'UND', 'IN', 'DEN', 'HOCHLAGEN', 'VON', 'HARZ', 'UND', 'ERZGEBIRGE', 'SCHWERE', 'STURMBÖEN']] 
+ Predicted : ['HEUTE', 'NACHT', 'IM', 'SÜDEN', 'NOCH', 'EINZELNE', 'SCHAUER', 'SONST', 'WEHT', 'DER', 'WIND', 'SCHWACH', 'BIS', 'MÄSSIG']
+The BLEU Score :  0.0 
+
+
+
+
+ Pair : 4
+ Target : [['UND', 'WIR', 'HABEN', 'ERSTE', 'SCHWERE', 'STURMBÖEN', 'AN', 'DER', 'NORDSEE', 'AUS', 'DEM', 'SÜDEN']] 
+ Predicted : ['UND', 'DAS', 'SIND', 'WIR', 'HABEN', 'NOCH', 'SEHR', 'MILDE', 'LUFT', 'ABER', 'AUCH', 'NOCH', 'DEN', 'KÜSTEN']
+The BLEU Score :  0.0 
+
+
+
+
+ Pair : 5
+ Target : [['DAS', 'HOCH', 'ÜBER', 'DEN', 'AZOREN', 'DEHNT', 'SICH', 'ÜBER', 'MITTELEUROPA', 'NACH', 'OSTEN', 'AUS', 'UND', 'SORGT', 'MORGEN', 'KURZZEITIG', 'FÜR', 'MEIST', 'FREUNDLICHES', 'WETTER']] 
+ Predicted : ['DAS', 'TIEF', 'DAS', 'VON', 'GROSSBRITANNIEN', 'NACH', 'DEM', 'ATLANTIK', 'IN', 'DEN', 'KOMMENDEN', 'TAGEN', 'UNSER', 'WETTER']
+The BLEU Score :  0.0 
+
+
+
+
+ Pair : 6
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'DIENSTAG', 'DEN', 'DREISSIGSTEN', 'MÄRZ']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'DIENSTAG', 'DEN', 'DREISSIGSTEN', 'MÄRZ']
+The BLEU Score :  14.45570313327353 
+
+
+
+
+ Pair : 7
+ Target : [['ES', 'BLEIBT', 'KALT', 'IN', 'DEN', 'NÄCHSTEN', 'TAGEN', 'BEI', 'UNS', 'IN', 'MITTELEUROPA', 'SO', 'UM', 'DIE', 'NULL', 'GRAD', 'AM', 'MITTELMEER', 'ZEHN', 'BIS', 'FÜNFZEHN']] 
+ Predicted : ['UND', 'AUCH', 'IN', 'DEN', 'NÄCHSTEN', 'TAGEN', 'WIRD', 'ES', 'DEUTLICH', 'MILDER', 'ALS', 'HEUTE', 'IM', 'NORDEN']
+The BLEU Score :  13.948957676838347 
+
+
+
+
+ Pair : 8
+ Target : [['DIE', 'AUSSICHTEN', 'AUCH', 'AM', 'MITTWOCH', 'GIBT', 'ES', 'VIELE', 'WOLKEN', 'UND', 'GEBIETSWEISE', 'REGEN', 'IM', 'WESTEN', 'ZEIGT', 'SICH', 'AB', 'UND', 'ZU', 'DIE', 'SONNE']] 
+ Predicted : ['AM', 'MITTWOCH', 'UND', 'DIENSTAG', 'WIEDER', 'MEHR', 'WOLKEN', 'ALS', 'SONNE', 'UND', 'GEBIETSWEISE', 'REGEN', 'AM', 'MITTWOCH', 'AUCH', 'EIN', 'WENIG', 'REGEN']
+The BLEU Score :  13.347557374227643 
+
+
+
+
+ Pair : 9
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'DIENSTAG', 'DEN', 'SECHSTEN', 'APRIL']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'DIENSTAG', 'DEN', 'IM', 'FEBRUAR']
+The BLEU Score :  17.969242384869013 
+
+
+
+
+ Pair : 10
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'SONNTAG', 'DEN', 'SECHSTEN', 'SEPTEMBER']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'SONNTAG', 'DEN']
+The BLEU Score :  21.870201302095733 
+
+
+
+
+ Pair : 11
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'MONTAG', 'DEN', 'EINUNDDREISSIGSTEN', 'JANUAR']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'DIENSTAG', 'DEN', 'IM']
+The BLEU Score :  23.845680496656797 
+
+
+
+
+ Pair : 12
+ Target : [['DABEI', 'ERREICHT', 'DER', 'REGEN', 'ERST', 'AM', 'FREITAG', 'ABEND', 'DEN', 'SÜDOSTEN']] 
+ Predicted : ['ERST', 'NEBEL', 'SONNE', 'UND', 'WOLKEN', 'UND', 'REGEN', 'IM', 'BERGLAND', 'GEHT', 'DER', 'REGEN', 'WEITER', 'IN', 'DEN', 'NÄCHSTEN', 'TAGEN']
+The BLEU Score :  23.09024764851614 
+
+
+
+
+ Pair : 13
+ Target : [['NUR', 'IM', 'SÜDEN', 'DA', 'SIEHT', 'ES', 'EIN', 'BISSCHEN', 'FREUNDLICHER', 'AUS']] 
+ Predicted : ['UND', 'AUCH', 'IN', 'SÜDDEUTSCHLAND', 'DA', 'KOMMT', 'DIE', 'SONNE', 'WIEDER', 'ETWAS', 'MILDERE', 'LUFT']
+The BLEU Score :  21.947647670275703 
+
+
+
+
+ Pair : 14
+ Target : [['SONST', 'NEBEN', 'DICHTEN', 'WOLKEN', 'HIER', 'UND', 'DA', 'ETWAS', 'SONNE']] 
+ Predicted : ['SONST', 'ZEIGT', 'SICH', 'TEILWEISE', 'DIE', 'SONNE']
+The BLEU Score :  21.135132852666512 
+
+
+
+
+ Pair : 15
+ Target : [['UND', 'DIE', 'NÄCHSTEN', 'TAGE', 'DIE', 'WERDEN', 'EIGENTLICH', 'EHER', 'NOCH', 'KÜHLER', 'UND', '<BLANK>', 'SEHR', 'WINDIG']] 
+ Predicted : ['UND', 'AUCH', 'IN', 'DEN', 'NÄCHSTEN', 'TAGEN', 'WIRD', 'ES', 'EHER', 'NOCH', 'SEHR', 'GLATT', 'WERDEN']
+The BLEU Score :  20.205487482898317 
+
+
+
+
+ Pair : 16
+ Target : [['ABGESEHEN', 'VON', 'SCHAUER', 'UND', 'GEWITTERBÖEN', 'WEHT', 'DER', 'WIND', 'IM', 'NORDEN', 'SCHWACH', 'BIS', 'MÄSSIG', 'SONST', 'SCHWACH', 'AUS', 'NORDWEST']] 
+ Predicted : ['DER', 'WIND', 'WEHT', 'SCHWACH', 'BIS', 'MÄSSIG', 'AUS', 'UNTERSCHIEDLICHEN', 'RICHTUNGEN']
+The BLEU Score :  19.546779407475874 
+
+
+
+
+ Pair : 17
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'SONNTAG', 'DEN', 'SIEBENUNDZWANZIGSTEN', 'SEPTEMBER']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'SONNTAG', 'DEN', 'IM', 'BERGLAND', 'SEPTEMBER']
+The BLEU Score :  22.16056088637292 
+
+
+
+
+ Pair : 18
+ Target : [['AM', 'SONNTAG', 'IST', 'ES', 'ZUNÄCHST', 'MITUNTER', 'FREUNDLICH', 'SPÄTER', 'IM', 'NORDEN', 'UND', 'WESTEN', 'SCHNEE', 'UND', 'REGEN']] 
+ Predicted : ['AM', 'SONNTAG', 'IST', 'ES', 'SEHR', 'WINDIG', 'UND', 'VON', 'WESTEN', 'REGEN', 'FÄLLT', 'REGEN', 'AUF']
+The BLEU Score :  22.001984471280522 
+
+
+
+
+ Pair : 19
+ Target : [['AUCH', 'AM', 'DIENSTAG', 'VIELE', 'WOLKEN', 'DIE', 'ETWAS', 'MEHR', 'REGEN', 'ODER', 'SCHNEE', 'FALLEN', 'LASSEN']] 
+ Predicted : ['AM', 'DIENSTAG', 'MEHR', 'WOLKEN', 'ALS', 'SONNE', 'UND', 'GEBIETSWEISE', 'FÄLLT', 'REGEN']
+The BLEU Score :  21.258203662676223 
+
+
+
+
+ Pair : 20
+ Target : [['AM', 'MONTAG', 'IST', 'ES', 'VIELERORTS', 'FREUNDLICH', 'AN', 'DEN', 'KÜSTEN', 'UND', 'IM', 'SÜDOSTEN', 'KOMPAKTERE', 'WOLKEN', 'DIE', 'STELLENWEISE', 'REGEN', 'BRINGEN']] 
+ Predicted : ['AM', 'MONTAG', 'IM', 'NORDEN', 'UND', 'SÜDEN', 'VIEL', 'SONNE', 'AUCH', 'SCHAUER', 'IM', 'SÜDEN', 'UND', 'GANZ', 'IM', 'SÜDEN']
+The BLEU Score :  20.095223344165376 
+
+
+
+
+ Pair : 21
+ Target : [['ERST', 'IN', 'DER', 'KOMMENDEN', 'WOCHE', 'MACHT', 'SICH', 'WIEDER', 'WÄRMERE', 'LUFT', 'BEMERKBAR']] 
+ Predicted : ['DIE', 'AUSSICHTEN', 'VON', 'DER', 'NORDSEE', 'BIS', 'NACH', 'MITTELEUROPA', 'ZEHN', 'GRAD']
+The BLEU Score :  19.394601302362695 
+
+
+
+
+ Pair : 22
+ Target : [['HALLO', 'UND', 'GUTEN', 'ABEND']] 
+ Predicted : ['LIEBE', 'ZUSCHAUER', 'GUTEN', 'ABEND']
+The BLEU Score :  19.408763820132467 
+
+
+
+
+ Pair : 23
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'FREITAG', 'DEN', 'SIEBENUNDZWANZIGSTEN', 'AUGUST']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'DIENSTAG', 'DEN', 'DREISSIGSTEN', 'AUGUST']
+The BLEU Score :  20.613230383558882 
+
+
+
+
+ Pair : 24
+ Target : [['MORGEN', 'MEIST', 'SCHWACHER', 'BIS', 'MÄSSIGER', 'WIND', 'AUS', 'SÜDWEST', 'BIS', 'WEST']] 
+ Predicted : ['MORGEN', 'MEIST', 'NUR', 'ZWEI', 'BIS', 'MÄSSIGER', 'WIND', 'AUS', 'WEST', 'BIS', 'SÜDWEST']
+The BLEU Score :  21.111537201834132 
+
+
+
+
+ Pair : 25
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'DONNERSTAG', 'DEN', 'ZWANZIGSTEN', 'JANUAR']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'DONNERSTAG', 'DEN', 'IM']
+The BLEU Score :  22.919033832708273 
+
+
+
+
+ Pair : 26
+ Target : [['DER', 'SCHWERPUNKT', 'DER', 'GEWITTER', 'MORGEN', 'DANN', 'HAUPTSÄCHLICH', 'IM', 'SÜDOSTEN', 'RICHTUNG', 'BRANDENBURG', 'AUCH', 'UND', 'IM', 'NORDEN', 'ZUM', 'TEIL', 'DAUERREGEN']] 
+ Predicted : ['UND', 'MORGEN', 'AM', 'DONNERSTAG', 'IM', 'OSTEN', 'UND', 'AUCH', 'IM', 'SÜDOSTEN', 'NOCH', 'REGEN', 'SONST', 'VIEL', 'REGEN']
+The BLEU Score :  21.95459755769913 
+
+
+
+
+ Pair : 27
+ Target : [['ABER', 'IM', 'OSTEN', 'HABEN', 'WIR', 'NOCH', 'ANFANGS', 'DIE', 'WÄRME', 'VIERUNDZWANZIG', 'GRAD', 'GENAUSO', 'WIE', 'IM', 'ÖSTLICHEN', 'BAYERN']] 
+ Predicted : ['DIE', 'NÄCHSTEN', 'TAGE', 'WERDEN', 'AUCH', 'IN', 'SÜDDEUTSCHLAND', 'NOCH', 'IM', 'SÜDEN', 'UND', 'AUCH', 'IM', 'SÜDEN', 'DEUTSCHLANDS', 'NOCH', 'IM', 'SÜDEN', 'FREUNDLICHER']
+The BLEU Score :  21.06763136793933 
+
+
+
+
+ Pair : 28
+ Target : [['MORGEN', 'TEMPERATUREN', 'VON', 'DREI', 'GRAD', 'IM', 'BAYERISCHEN', 'WALD', 'BIS', 'ZWÖLF', 'IN', 'DER', 'KÖLNER', 'BUCHT']] 
+ Predicted : ['MORGEN', 'ZEHN', 'GRAD', 'IM', 'WESTEN', 'UND', 'SÜDEN', 'BIS', 'ZEHN', 'GRAD', 'IN', 'DER', 'LAUSITZ']
+The BLEU Score :  20.60470199184395 
+
+
+
+
+ Pair : 29
+ Target : [['AB', 'MONTAG', 'SORGT', 'ES', 'DANN', 'AUCH', 'IN', 'DEUTSCHLAND', 'FÜR', 'TEILWEISE', 'KRÄFTIGEN', 'REGEN']] 
+ Predicted : ['MORGEN', 'KOMMT', 'ES', 'KOMMT', 'ES', 'VON', 'UNS', 'EIN', 'TIEF', 'DAS', 'NACH', 'DEUTSCHLAND']
+The BLEU Score :  20.024889031987637 
+
+
+
+
+ Pair : 30
+ Target : [['SPÄTER', '<BLANK>', 'DER', 'REGEN', 'AUF', 'DEN', 'WESTEN', 'ÜBER']] 
+ Predicted : ['AM', 'TAG', 'SCHNEIT', 'ES', 'IN', 'DER', 'MITTE', 'UND', 'IM', 'SÜDEN']
+The BLEU Score :  19.67722983124525 
+
+
+
+
+ Pair : 31
+ Target : [['VON', 'FRANKREICH', 'BREITEN', 'SICH', 'HEUTE', 'NACHT', 'DICHTE', 'WOLKEN', 'OSTWÄRTS', 'BIS', 'NACH', 'NIEDERSACHSEN', 'UND', 'BAYERN', 'AUS', 'IM', 'WESTEN', 'UND', 'SÜDWESTEN', 'FÄLLT', 'REGEN']] 
+ Predicted : ['MORGEN', 'WIRD', 'ES', 'IM', 'SÜDEN', 'UND', 'SÜDOSTEN', 'ZUM', 'TEIL', 'KRÄFTIGE', 'REGENFÄLLE']
+The BLEU Score :  18.67974849952998 
+
+
+
+
+ Pair : 32
+ Target : [['DIE', 'WOLKEN', 'DES', 'TIEFS', 'ÜBER', '<BLANK>', 'ÜBERQUEREN', 'BIS', 'MORGEN', 'AUCH', 'DIE', 'ÖSTLICHEN', 'TEILE', 'DEUTSCHLANDS']] 
+ Predicted : ['DAS', 'HOCH', 'ÜBER', 'DER', 'NORDSEE', 'LENKT', 'EIN', 'TIEF', 'ÜBER', 'DEM', 'NORDEN', 'DEUTSCHLANDS']
+The BLEU Score :  18.112547353832177 
+
+
+
+
+ Pair : 33
+ Target : [['AUCH', 'AKTUELL', 'UND', 'IN', 'DEN', 'KOMMENDEN', 'STUNDEN', 'GIBT', 'ES', 'HIER', 'UND', 'DA', 'KRÄFTIGE', 'GEWITTER']] 
+ Predicted : ['DIE', 'SCHNEEFALLGRENZE', 'SINKT', 'AUF', 'ETWA', 'EIN']
+The BLEU Score :  17.53068176125478 
+
+
+
+
+ Pair : 34
+ Target : [['DER', 'SOMMER', '<BLANK>', 'FAST', 'VORBEI', 'ER', 'WAR', 'DEUTSCHLANDWEIT', 'LEICHT', 'ZU', 'WARM', '<BLANK>', 'ETWAS', 'ZU', 'WENIG', 'SONNE', 'WAR', 'ABER', 'DEUTLICH', 'ZU', 'NASS']] 
+ Predicted : ['MORGEN', 'WIRD', 'ES', 'DANN', 'IM', 'OSTEN', 'NOCH', 'REGEN', 'SEIN', 'UND', 'AUCH', 'IM', 'BERGLAND', 'WIRD', 'ES', 'DEUTLICH', 'REGEN']
+The BLEU Score :  16.704678690140113 
+
+
+
+
+ Pair : 35
+ Target : [['UND', 'MIT', '<BLANK>', 'KOMMT', 'AUCH', 'NOCH', 'WÄRMERE', 'LUFT', 'IN', 'DIESER', 'WOCHE', 'DA', 'WIRD', 'RICHTIG', 'SCHWÜL', 'HEISS', 'KÜHLER', 'BLEIBT', 'ES', 'IN', 'DER', 'WOCHE', 'IN', 'DEN', 'NÄCHSTEN', 'TAGEN', 'VOR', 'ALLEM', 'HIER', 'ÜBER', 'WESTEUROPA']] 
+ Predicted : ['UND', 'AUCH', 'IN', 'DEN', 'NÄCHSTEN', 'TAGEN', 'WIRD', 'ES', 'EHER', 'DIE', 'SONNE', 'MAL', 'EIN', 'BISSCHEN', 'KÜHLER', 'UND', 'ES', 'WIRD', 'ES', 'DANN', 'AUCH', 'GANZ', 'FREUNDLICH', 'WERDEN']
+The BLEU Score :  16.202127065076937 
+
+
+
+
+ Pair : 36
+ Target : [['HOHER', 'LUFTDRUCK', 'SORGT', 'BEI', 'UNS', 'MORGEN', 'FÜR', 'VIEL', 'SONNENSCHEIN']] 
+ Predicted : ['DAS', 'HOCH', 'ÜBER', 'SKANDINAVIEN', 'SORGT', 'MORGEN', 'IM', 'NORDEN', 'DEUTSCHLANDS', 'FÜR', 'FREUNDLICHES', 'WETTER']
+The BLEU Score :  16.00529035299127 
+
+
+
+
+ Pair : 37
+ Target : [['DER', 'WIND', 'WEHT', 'MORGEN', 'SCHWACH', 'BIS', 'MÄSSIG', 'AUS', 'WESTLICHEN', 'RICHTUNGEN']] 
+ Predicted : ['DER', 'WIND', 'WEHT', 'SCHWACH', 'BIS', 'MÄSSIG', 'AN', 'DEN', 'KÜSTEN', 'AUCH', 'FRISCH']
+The BLEU Score :  16.20710597357993 
+
+
+
+
+ Pair : 38
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'DIENSTAG', 'DEN', 'NEUNTEN', 'FEBRUAR']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'MITTWOCH', 'DEN', 'IM', 'FEBRUAR']
+The BLEU Score :  16.96754133026627 
+
+
+
+
+ Pair : 39
+ Target : [['SONST', 'REGNET', 'ES', 'TEILWEISE', 'KRÄFTIG']] 
+ Predicted : ['SONST', 'REGNET', 'ES', 'TEILWEISE', 'KRÄFTIG']
+The BLEU Score :  17.596721670487263 
+
+
+
+
+ Pair : 40
+ Target : [['IN', 'DER', 'MITTE', 'DAGEGEN', 'IST', 'ES', 'STARK', 'BEWÖLKT', 'BIS', 'BEDECKT', 'UND', 'DA', 'FÄLLT', 'AUCH', 'IMMER', 'NOCH', 'ETWAS', 'REGEN']] 
+ Predicted : ['UND', 'DIE', 'SCHNEEFALLGRENZE', 'SINKT', 'AUF', 'ETWA', 'EIN', 'BISSCHEN', 'SCHNEE', 'UND', 'REGEN', 'VON', 'SÜDWESTEN']
+The BLEU Score :  17.032711249137954 
+
+
+
+
+ Pair : 41
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'DIENSTAG', 'DEN', 'SIEBENUNDZWANZIGSTEN', 'JULI']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'MONTAG', 'DEN', 'IM', 'NORDEN', 'DEN', 'IM', 'SCHAUER']
+The BLEU Score :  17.707477104627785 
+
+
+
+
+ Pair : 42
+ Target : [['AM', 'SONNTAG', 'VIEL', 'SONNE', 'AN', 'DEN', 'ALPEN', 'SIND', 'EINZELNE', 'SCHAUER', 'MÖGLICH']] 
+ Predicted : ['AM', 'SONNTAG', 'IST', 'ES', 'IM', 'SÜDEN', 'FREUNDLICH', 'UND', 'WINDIG']
+The BLEU Score :  17.462531921160213 
+
+
+
+
+ Pair : 43
+ Target : [['AM', 'TAG', 'ZWEI', 'GRAD', 'GANZ', 'IM', 'OSTEN', 'UND', 'DREIZEHN', 'GRAD', 'IM', 'NORDWESTEN']] 
+ Predicted : ['MORGEN', 'TEMPERATUREN', 'VON', 'FÜNF', 'GRAD', 'IM', 'SAUERLAND', 'BIS', 'VIERZEHN', 'GRAD', 'IM', 'SAUERLAND']
+The BLEU Score :  17.232238266027014 
+
+
+
+
+ Pair : 44
+ Target : [['JA', 'SCHNEE', 'DESHALB', 'WEIL', 'ES', 'HEUTE', 'NACHT', 'ZIEMLICH', 'KALT', 'WIRD', 'ÜBERALL', 'LEICHTER', 'FROST', 'MIT', 'MINUS', 'EIN', 'BIS', 'MINUS', 'VIER', 'GRAD', 'NUR', 'HIER', 'IM', 'WESTEN', 'BLEIBT', 'ES', 'FROSTFREI']] 
+ Predicted : ['UND', 'DAZU', 'WIRD', 'ES', 'DANN', 'AUCH', 'IM', 'NORDEN', 'WIEDER', 'ETWAS', 'KÜHLER', 'UND', 'ES', 'GIBT', 'ES', 'GIBT', 'ES', 'WIRD', 'ES', 'WIRD', 'ES', 'WIEDER', 'NACH', 'AM', 'ALPENRAND']
+The BLEU Score :  16.475671751223313 
+
+
+
+
+ Pair : 45
+ Target : [['AM', 'TAG', 'BREITET', 'SICH', 'DER', 'REGEN', 'WEITER', 'NACH', 'OSTEN', 'AUS', 'VOM', 'SCHWARZWALD', 'BIS', 'INS', 'ALLGÄU', 'SINKT', 'DIE', 'SCHNEEFALLGRENZE', 'IM', 'LAUFE', 'DES', 'TAGES', 'AUF', 'SIEBENHUNDERT', 'BIS', 'FÜNFHUNDERT', 'METER', 'AB']] 
+ Predicted : ['AM', 'TAG', 'IM', 'OSTEN', 'UND', 'NORDWESTEN', 'ZIEHEN', 'EINIGE', 'WOLKEN', 'IN', 'DER', 'MITTE', 'REGNET', 'ES', 'ETWAS']
+The BLEU Score :  15.821430819309779 
+
+
+
+
+ Pair : 46
+ Target : [['MORGEN', 'WERTE', 'VON', 'ZWANZIG', 'GRAD', 'AN', 'DER', 'DÄNISCHEN', 'GRENZE', 'BIS', 'DREISSIG', 'GRAD', 'AM', 'OBERRHEIN']] 
+ Predicted : ['MORGEN', 'TEMPERATUREN', 'VON', 'EINUNDZWANZIG', 'GRAD', 'AN', 'DER', 'NORDSEE', 'BIS', 'ACHTUNDZWANZIG', 'AM', 'OBERRHEIN']
+The BLEU Score :  15.801038425332365 
+
+
+
+
+ Pair : 47
+ Target : [['IM', 'NORDWESTEN', 'KÖNNEN', 'EIN', 'PAAR', 'SCHNEEFLOCKEN', 'FALLEN']] 
+ Predicted : ['IM', 'NORDEN', 'UND', 'WESTEN', 'MAL', 'SONNE', 'MAL', 'WOLKEN']
+The BLEU Score :  15.674211170564112 
+
+
+
+
+ Pair : 48
+ Target : [['ES', 'GELTEN', 'ENTSPRECHENDE', 'WARNUNGEN', 'DES', 'DEUTSCHEN', 'WETTERDIENSTES']] 
+ Predicted : ['ES', 'GELTEN', 'ENTSPRECHENDE', 'WARNUNGEN', 'DES', 'DEUTSCHEN', 'WETTERDIENSTES']
+The BLEU Score :  16.532485458204434 
+
+
+
+
+ Pair : 49
+ Target : [['GEGEN', 'ABEND', 'KANN', 'ES', 'WESTLICH', 'DES', 'RHEINS', 'LEICHT', 'REGNEN']] 
+ Predicted : ['IN', 'DER', 'NACHT', 'IST', 'ES', 'IM', 'WESTEN', 'UND', 'WESTEN', 'MEIST', 'KLAR']
+The BLEU Score :  16.34364726597238 
+
+
+
+
+ Pair : 50
+ Target : [['<BLANK>', 'IN', 'NORDDEUTSCHLAND', 'IN', 'DER', 'KLAREN', 'LUFT', 'AUCH', 'EIN', 'PAAR', 'NEBELFELDER', 'UND', 'ES', 'WIRD', 'ZEITWEISE', 'IMMER', 'WIEDER', 'ETWAS', 'REGNEN', 'AM', 'ERZGEBIRGE', 'UND', 'IM', 'ÖSTLICHEN', 'BAYERN']] 
+ Predicted : ['SONST', 'HABEN', 'WIR', 'DEN', 'REGEN', 'VON', 'NORDEN', 'UND', 'DIE', 'SONNE', 'MEIST', 'UNTER', 'DEN', 'MITTELGEBIRGEN', 'SIND', 'ES', 'FÜNFZEHN', 'BIS', 'SECHZEHN', 'GRAD']
+The BLEU Score :  15.744777233582658 
+
+
+
+
+ Pair : 51
+ Target : [['UND', 'MORGEN', 'HABEN', 'WIR', 'SONNIGES', 'WETTER', 'AN', 'DEN', 'KÜSTEN', 'SIND', 'DIE', 'WOLKEN', 'VORÜBERGEHEND', 'ETWAS', 'DICHTER', 'DA', 'KÖNNTE', 'ES', 'HIER', 'UND', 'DA', 'EIN', 'PAAR', 'SPRITZER', 'REGEN', 'GEBEN']] 
+ Predicted : ['UND', 'MORGEN', 'HABEN', 'WIR', 'DANN', 'EINE', 'MEIST', 'SONNIG', 'UND', 'WOLKEN', 'IM', 'NORDEN', 'UND', 'AUCH', 'NOCH', 'EIN', 'PAAR', 'REGENTROPFEN']
+The BLEU Score :  15.592773572445878 
+
+
+
+
+ Pair : 52
+ Target : [['AUCH', 'AM', 'SONNTAG', 'IST', 'ES', 'NEBEN', 'WOLKENFELDERN', 'TEILWEISE', 'FREUNDLICH', 'UND', 'TROCKEN', 'BEI', 'MINUS', 'FÜNF', 'BIS', 'PLUS', 'ZWEI', 'GRAD']] 
+ Predicted : ['AM', 'SONNTAG', 'IM', 'NORDEN', 'NUR', 'NOCH', 'WENIG', 'REGEN', 'SONST', 'NEBEN', 'DICHTEN', 'WOLKEN', 'UND', 'AM', 'DONNERSTAG', 'SCHEINT', 'DIE', 'SONNE']
+The BLEU Score :  15.295391859188602 
+
+
+
+
+ Pair : 53
+ Target : [['UND', 'IHNEN', 'NOCH', 'EINEN', 'SCHÖNEN', 'ABEND', 'JETZT']] 
+ Predicted : ['UND', 'JETZT', 'WÜNSCHE', 'ICH', 'IHNEN', 'NOCH', 'EINEN', 'SCHÖNEN', 'ABEND']
+The BLEU Score :  15.730130476588283 
+
+
+
+
+ Pair : 54
+ Target : [['AM', 'FREITAG', 'WIRD', 'ES', 'IM', 'NORDEN', 'UND', 'NORDWESTEN', 'WINDIGER', 'MIT', 'STURMBÖEN', 'AN', 'DER', 'NORDSEE', 'UND', 'VON', 'DORT', 'ZIEHT', 'SPÄTER', 'ETWAS', 'REGEN', 'HERAN', 'SONST', 'ÄNDERT', 'SICH', 'WENIG']] 
+ Predicted : ['AM', 'MITTWOCH', 'ZIEHEN', 'VON', 'NORDEN', 'WIEDER', 'NEUE', 'WOLKEN', 'MIT', 'REGEN', 'UND', 'WINDIG']
+The BLEU Score :  15.24921024873114 
+
+
+
+
+ Pair : 55
+ Target : [['IM', 'ÜBRIGEN', 'LAND', 'DOMINIEREN', 'WOLKEN', 'VOR', 'ALLEM', 'RICHTUNG', 'KÜSTEN', 'REGNET', 'ES']] 
+ Predicted : ['SONST', 'IST', 'ES', 'HEUTE', 'NACHT', 'MEIST', 'STARK', 'BEWÖLKT', 'HIER', 'UND', 'DA', 'FÄLLT', 'ETWAS', 'REGEN']
+The BLEU Score :  15.058569925667397 
+
+
+
+
+ Pair : 56
+ Target : [['IN', 'DER', 'NACHT', 'TEMPERATUREN', 'VON', 'NULL', 'BIS', 'FÜNF', 'AM', 'MAIN', 'BIS', 'SIEBEN', 'GRAD']] 
+ Predicted : ['DORT', 'HEUTE', 'NACHT', 'SIEBEN', 'BIS', 'NULL', 'GRAD', 'IM', 'BERGLAND']
+The BLEU Score :  14.885301767463188 
+
+
+
+
+ Pair : 57
+ Target : [['ES', 'WIRD', 'WÄRMER', 'AUS', 'DEM', 'SÜDWESTEN', 'MORGEN', 'HABEN', 'WIR', 'SCHON', 'ÜBER', 'FRANKREICH', 'DIE', 'FÜNFZEHN', 'BIS', 'ZWANZIG', 'GRAD', 'UND', 'AM', 'WOCHENENDE', 'KOMMT', 'DIESE', 'WÄRME', 'LANGSAM', 'AUCH', 'ZU', 'UNS']] 
+ Predicted : ['UND', 'DIE', 'TEMPERATUREN', 'WERDEN', 'SICH', 'NOCH', 'SO', 'ETWA', 'ZEHN', 'BIS', 'ZWANZIG', 'GRAD', 'ERREICHT']
+The BLEU Score :  14.534225035640508 
+
+
+
+
+ Pair : 58
+ Target : [['JETZT', 'WÜNSCHE', 'ICH', 'IHNEN', 'NOCH', 'EINEN', 'SCHÖNEN', 'ABEND']] 
+ Predicted : ['IHNEN', 'NOCH', 'EINEN', 'SCHÖNEN', 'ABEND']
+The BLEU Score :  14.882029354228473 
+
+
+
+
+ Pair : 59
+ Target : [['DAS', 'AZORENHOCH', 'SCHICKT', 'UNS', 'EINEN', 'ABLEGER', 'DER', 'ZUMINDEST', 'AM', 'WOCHENENDE', 'FÜR', 'MEHR', 'SONNE', 'UND', 'STEIGENDE', 'TEMPERATUREN', 'SORGT']] 
+ Predicted : ['DAS', 'HOCH', 'ÜBER', 'DEM', 'ATLANTIK', 'NACH', 'SKANDINAVIEN', 'ZIEHT', 'SORGT', 'DAFÜR', 'DASS', 'SICH', 'ABER', 'WIEDER', 'ETWAS', 'MILDERE', 'LUFT']
+The BLEU Score :  14.602487855362744 
+
+
+
+
+ Pair : 60
+ Target : [['AUCH', 'IN', 'DEN', 'NÄCHSTEN', 'TAGEN', 'BESCHERT', 'UNS', 'HOHER', 'LUFTDRUCK', 'EINE', 'HERBSTLICHE', 'MISCHUNG', 'AUS', 'ZÄHEM', 'HOCHNEBEL', 'WOLKEN', 'UND', 'SONNENSCHEIN']] 
+ Predicted : ['EIN', 'TIEF', 'ÜBER', 'DEM', 'ÖSTLICHEN', 'MITTELEUROPA', 'BRINGT', 'UNS', 'HEUTE', 'NACHT', 'UND', 'ZUM', 'TEIL', 'AUCH', 'EIN', 'PAAR', 'TROPFEN']
+The BLEU Score :  14.327317528349276 
+
+
+
+
+ Pair : 61
+ Target : [['UND', 'STURM', 'HABEN', 'WIR', 'JEDEN', 'TAG', 'AUCH', 'DABEI']] 
+ Predicted : ['DAS', 'WAR', 'ES', 'VOM', 'WETTER', 'IHNEN', 'NOCH', 'HEUTE']
+The BLEU Score :  14.211726017305065 
+
+
+
+
+ Pair : 62
+ Target : [['HEUTE', 'NACHT', 'DREIZEHN', 'BIS', 'DREI', 'GRAD', 'AN', 'DEN', 'ALPEN', 'WERTE', 'UM', 'DEN', 'GEFRIERPUNKT']] 
+ Predicted : ['HEUTE', 'NACHT', 'FÜNF', 'GRAD', 'IM', 'ALLGÄU', 'BIS', 'MINUS', 'FÜNFZEHN', 'GRAD']
+The BLEU Score :  14.083959191046915 
+
+
+
+
+ Pair : 63
+ Target : [['UND', 'MORGEN', 'FRÜH', 'IST', 'ES', 'MILD', 'IN', 'GANZ', 'DEUTSCHLAND', 'ACHT', 'BIS', 'SECHZEHN', 'GRAD']] 
+ Predicted : ['UND', 'MORGEN', 'FRÜH', 'IST', 'ES', 'GANZ', 'FREUNDLICH']
+The BLEU Score :  14.32993847861606 
+
+
+
+
+ Pair : 64
+ Target : [['IHNEN', 'EINEN', 'SCHÖNEN', 'ABEND', 'UND', 'MACHEN', 'SIE', 'ES', 'GUT']] 
+ Predicted : ['IHNEN', 'NOCH', 'EINEN', 'SCHÖNEN', 'ABEND', 'UND', 'MACHEN', 'SIE', 'ES', 'GUT']
+The BLEU Score :  15.085992694774058 
+
+
+
+
+ Pair : 65
+ Target : [['IM', 'NORDEN', 'IST', 'ES', 'HEUTE', 'NACHT', 'FÜR', 'LÄNGERE', 'ZEIT', 'KLAR', 'IM', 'SÜDEN', 'UND', 'WESTEN', 'FALLEN', 'HIER', 'UND', 'DA', 'SCHAUER', 'STELLENWEISE', 'BILDET', 'SICH', 'NEBEL']] 
+ Predicted : ['IM', 'SÜDEN', 'IST', 'ES', 'MEIST', 'KLAR', 'SONST', 'GEBIETSWEISE', 'KLAR', 'SONST', 'AUCH', 'NEBEL', 'ODER', 'NEBLIG', 'ÖRTLICH', 'BILDET', 'SICH', 'NEBEL']
+The BLEU Score :  14.939572609947074 
+
+
+
+
+ Pair : 66
+ Target : [['AM', 'TAG', 'DANN', 'REGENFÄLLE', 'IM', 'SÜDEN', 'UND', 'SÜDOSTEN', 'AM', 'NACHMITTAG', 'ÖRTLICH', 'AUCH', 'GEWITTER']] 
+ Predicted : ['AUCH', 'IN', 'DER', 'MITTE', 'UND', 'IM', 'SÜDEN', 'REGNET', 'ES', 'GEBIETSWEISE', 'TEILWEISE', 'KRÄFTIG', 'IM', 'SÜDEN']
+The BLEU Score :  14.8122565920789 
+
+
+
+
+ Pair : 67
+ Target : [['IM', 'NORDWESTEN', 'SORGT', 'DAS', 'HOCH', 'ÜBER', 'DEM', 'ATLANTIK', 'IMMER', 'MEHR', 'FÜR', 'SONNE']] 
+ Predicted : ['IM', 'WESTEN', 'UND', 'SÜDWESTEN', 'SORGT', 'EIN', 'TIEF', 'FÜR', 'MEIST', 'FREUNDLICHES', 'WETTER']
+The BLEU Score :  14.666527338031047 
+
+
+
+
+ Pair : 68
+ Target : [['HEUTE', 'NACHT', 'ACHT', 'GRAD', 'AM', 'NIEDERRHEIN', 'UND', 'MINUS', 'SECHS', 'GRAD', 'AM', 'ALPENRAND']] 
+ Predicted : ['HEUTE', 'NACHT', 'SIEBEN', 'GRAD', 'IM', 'ALLGÄU', 'BIS', 'MINUS', 'EIN', 'GRAD']
+The BLEU Score :  14.572990922428385 
+
+
+
+
+ Pair : 69
+ Target : [['UND', 'ES', 'KÖNNTE', 'DANN', 'AM', 'ABEND', 'VIELLEICHT', 'MAL', 'EIN', 'REGENSCHAUER', 'ODER', 'GEWITTER', 'IN', 'DEN', 'ALPEN', 'GEBEN']] 
+ Predicted : ['UND', 'MORGEN', 'WIRD', 'ES', 'IM', 'NORDEN', 'NOCH', 'EIN', 'BISSCHEN', 'KÜHLER', 'SEIN']
+The BLEU Score :  14.363762523500878 
+
+
+
+
+ Pair : 70
+ Target : [['DER', 'WIND', 'AUS', 'OST', 'WEHT', 'MÄSSIG', 'IM', 'NORDOSTEN', 'ZUM', 'TEIL', 'FRISCH']] 
+ Predicted : ['DER', 'WIND', 'WEHT', 'SCHWACH', 'BIS', 'MÄSSIG', 'AN', 'DER', 'SEE', 'FRISCH']
+The BLEU Score :  14.292478297779992 
+
+
+
+
+ Pair : 71
+ Target : [['AUCH', 'ÜBER', 'RHEINLAND', 'PFALZ', 'DAS', 'SAARLAND', 'UND', 'NORDRHEIN', 'WESTFALEN', '<BLANK>', 'HEFTIGE', 'GEWITTER']] 
+ Predicted : ['IM', 'WESTEN', 'UND', 'SÜDWESTEN', 'DEUTSCHLANDS', 'MUSS', 'UNTER', 'HOCHDRUCKEINFLUSS', 'GERECHNET', 'WERDEN']
+The BLEU Score :  14.136993068542761 
+
+
+
+
+ Pair : 72
+ Target : [['DAHINTER', 'KOMMT', 'ZWAR', 'AUCH', 'WIEDER', 'ETWAS', 'REGEN', 'ABER', 'AUCH', 'DEUTLICH', '<BLANK>', 'LUFT']] 
+ Predicted : ['DA', 'KOMMT', 'DIE', 'SONNE', 'UND', 'ES', 'AUCH', 'NOCH', 'EINE', 'UND', 'ES', 'WIRD']
+The BLEU Score :  13.99638810379577 
+
+
+
+
+ Pair : 73
+ Target : [['IM', 'ÜBRIGEN', 'LAND', 'NEBEN', 'SONNE', 'EINZELNE', 'SCHAUER', 'UND', 'GEWITTER', 'DIE', 'IM', 'SÜDEN', 'UND', 'SÜDOSTEN', 'VON', 'HAGEL', 'STARKREGEN', 'UND', 'STURMBÖEN', 'BEGLEITET', 'WERDEN', 'KÖNNEN']] 
+ Predicted : ['IM', 'SÜDEN', 'UND', 'SÜDWESTEN', 'MORGEN', 'TEILWEISE', 'KRÄFTIGE', 'SCHAUER', 'SONST', 'MEIST', 'TROCKEN', 'SONST', 'BLEIBT', 'ES', 'MEIST', 'TROCKEN']
+The BLEU Score :  13.811506781086406 
+
+
+
+
+ Pair : 74
+ Target : [['SPÄTER', 'BEGINNT', 'ES', 'DORT', 'AUCH', 'AUFZULOCKERN']] 
+ Predicted : ['ANSONSTEN', 'SCHEINT', 'VERBREITET', 'DIE', 'SONNE', 'UND', 'ES', 'BLEIBT', 'TROCKEN']
+The BLEU Score :  13.760370471599284 
+
+
+
+
+ Pair : 75
+ Target : [['UND', 'ES', 'KANN', 'AUCH', 'ÖRTLICH', 'ZUM', 'TEIL', 'AUCH', 'GEFÄHRLICH', 'GLATT', 'WERDEN', 'DENN', 'VOR', 'ALLEN', 'DINGEN', 'IN', 'DER', 'MITTE', 'UND', 'AUCH', 'IM', 'SÜDEN', 'WIRD', 'ES', 'FROSTIG']] 
+ Predicted : ['UND', 'AUCH', 'IN', 'DER', 'NACHT', 'ZUM', 'TEIL', 'FROSTIG', 'ABER', 'AUCH', 'HIER', 'IM', 'WESTEN', 'UND', 'DA', 'KANN', 'ES', 'DANN', 'AUCH', 'IM', 'SÜDEN', 'DEUTSCHLANDS', 'EIN', 'PAAR', 'REGENTROPFEN']
+The BLEU Score :  13.712771854585442 
+
+
+
+
+ Pair : 76
+ Target : [['AUCH', 'IN', 'DER', 'NEUEN', 'WOCHE', 'GEHT', 'ES', 'MEIST', 'SONNIG', 'UND', 'WARM', 'WEITER']] 
+ Predicted : ['IM', 'SÜDEN', 'SCHEINT', 'MEIST', 'DIE', 'SONNE', 'UND', 'ES', 'WIRD', 'WARM']
+The BLEU Score :  13.603577328462354 
+
+
+
+
+ Pair : 77
+ Target : [['IM', 'WESTEN', 'HEUTE', 'NACHT', 'BIS', 'PLUS', 'FÜNF', 'GRAD', 'SONST', 'VERBREITET', 'LEICHTER', 'FROST', 'STELLENWEISE', 'IST', 'REIFGLÄTTE', 'MÖGLICH']] 
+ Predicted : ['IM', 'OSTEN', 'UND', 'SÜDEN', 'HEUTE', 'NACHT', 'ÖRTLICH', 'NUR', 'SIEBEN', 'GRAD', 'IM', 'RHEIN', 'MAIN', 'GEBIET']
+The BLEU Score :  13.462513741057405 
+
+
+
+
+ Pair : 78
+ Target : [['DIE', 'AUSSICHTEN', 'AM', 'SONNTAG', 'VOR', 'ALLEM', 'IM', 'OSTEN', 'NOCH', 'SCHNEEFÄLLE', 'AN', 'DEN', 'KÜSTEN', 'BLEIBT', 'ES', 'WINDIG']] 
+ Predicted : ['AM', 'SONNTAG', 'UND', 'AM', 'MONTAG', 'IST', 'ES', 'RECHT', 'FREUNDLICH', 'IM', 'NORDEN', 'UND', 'WEITGEHEND', 'TROCKEN']
+The BLEU Score :  13.32527293596181 
+
+
+
+
+ Pair : 79
+ Target : [['HEFTIGE', 'GEWITTER', 'TRENNEN', 'DEUTSCHLAND', 'IN', 'ZWEI', '<BLANK>', 'EINE', 'SCHWÜL', 'HEISSE', 'UND', 'EINE', 'ETWAS', 'FRISCHERE', 'UND', 'KÜHLERE']] 
+ Predicted : ['IM', 'NORDWESTEN', 'DEUTSCHLANDS', 'SIND', 'ES', 'EIN', 'PAAR', 'REGENTROPFEN']
+The BLEU Score :  13.13172675292712 
+
+
+
+
+ Pair : 80
+ Target : [['SELBST', 'AM', '<BLANK>', 'UND', 'AM', 'HOCHRHEIN', 'GIBT', 'ES', 'DAHER', 'DAUERFROST']] 
+ Predicted : ['AM', 'TAG', 'IM', 'NORDEN', 'UND', 'SÜDWESTEN', 'DEUTSCHLANDS', 'BEMERKBAR']
+The BLEU Score :  13.04181111093179 
+
+
+
+
+ Pair : 81
+ Target : [['AN', 'DER', 'GROSSWETTERLAGE', 'ÄNDERT', 'SICH', 'WENIG', 'UND', 'SO', 'BLEIBT', 'ES', 'AUCH', 'BEI', 'DEN', 'MEIST', 'TRÜBEN', 'UND', 'WEITGEHEND', '<BLANK>', 'WETTER']] 
+ Predicted : ['AUCH', 'MORGEN', 'VIELE', 'WOLKEN', 'DIE', 'STERNE', 'ABER', 'SCHNEE', 'ABER', 'BEI', 'UNS', 'ZU', 'UNS']
+The BLEU Score :  12.836220320894451 
+
+
+
+
+ Pair : 82
+ Target : [['MORGEN', 'IM', 'VOGTLAND', 'ZWEI', 'AN', 'RHEIN', 'UND', 'EMS', 'BIS', 'NEUN', 'GRAD']] 
+ Predicted : ['MORGEN', 'TEMPERATUREN', 'VON', 'FÜNF', 'GRAD', 'IM', 'VOGTLAND', 'BIS', 'ZWÖLF', 'GRAD', 'IM', 'BREISGAU']
+The BLEU Score :  12.786594104831112 
+
+
+
+
+ Pair : 83
+ Target : [['MORGEN', 'TEILS', 'DICHT', 'BEWÖLKT', 'TEILS', 'SONNIG', 'WOBEI', 'SICH', 'DIE', 'SONNE', 'IM', 'OSTEN', 'AM', 'HÄUFIGSTEN', 'ZEIGT']] 
+ Predicted : ['MORGEN', 'IM', 'NORDEN', 'UND', 'OSTEN', 'UND', 'SÜDEN', 'VIEL', 'SONNE', 'AUCH', 'FÜR', 'LÄNGERE', 'ZEIT']
+The BLEU Score :  12.6574511372366 
+
+
+
+
+ Pair : 84
+ Target : [['HEUTE', 'NACHT', 'DREIZEHN', 'GRAD', 'AN', 'DEN', 'KÜSTEN', 'VIER', 'GRAD', 'AN', 'DEN', 'ALPEN']] 
+ Predicted : ['HEUTE', 'NACHT', 'EINUNDZWANZIG', 'GRAD', 'AN', 'DER', 'OSTSEE', 'SECHZEHN', 'GRAD', 'AM', 'ALPENRAND']
+The BLEU Score :  12.617814292856789 
+
+
+
+
+ Pair : 85
+ Target : [['IM', 'SÜDOSTEN', 'NOCH', 'MEIST', 'TROCKEN']] 
+ Predicted : ['IM', 'SÜDOSTEN', 'NOCH', 'EINZELNE', 'SCHAUER']
+The BLEU Score :  12.681546165368696 
+
+
+
+
+ Pair : 86
+ Target : [['DER', 'TAG', 'BEGINNT', 'TEILWEISE', 'NOCH', 'FREUNDLICH', 'ABER', 'DIE', 'WOLKEN', 'BREITEN', 'SICH', 'WEITER', 'RICHTUNG', 'OSTEN', 'AUS']] 
+ Predicted : ['MORGEN', 'ZIEHEN', 'SICH', 'VON', 'WESTEN', 'WIEDER', 'REGENWOLKEN', 'HERAN', 'DIE', 'MITTE', 'RICHTUNG', 'NORDOSTEN']
+The BLEU Score :  12.548034582850786 
+
+
+
+
+ Pair : 87
+ Target : [['DORT', 'ÄNDERT', 'SICH', 'WENIG', 'BEIM', 'WETTER', 'ALSO', 'ÄHNLICH', 'WIE', 'HEUTE', 'SONNE', 'ODER', 'HOCHNEBEL']] 
+ Predicted : ['UND', 'IM', 'WO', 'ES', 'AUFKLART', 'GIBT', 'ES', 'AUF', 'JEDEN', 'FALL', 'ES', 'DORT', 'NOCH', 'EIN', 'BISSCHEN', 'KÜHLER']
+The BLEU Score :  12.426058841258895 
+
+
+
+
+ Pair : 88
+ Target : [['ABER', 'MORGEN', 'WIRD', 'ES', 'FÜR', 'UNS', 'ALLE', 'WÄRMER', 'ALS', 'HEUTE']] 
+ Predicted : ['UND', 'MORGEN', 'GIBT', 'ES', 'IM', 'NORDOSTEN', 'AUCH', 'EIN', 'BISSCHEN', 'SONNE']
+The BLEU Score :  12.348287578615881 
+
+
+
+
+ Pair : 89
+ Target : [['MORGEN', 'UNBESTÄNDIGES', 'WETTER', 'WOBEI', 'SICH', 'DAS', 'WETTER', 'IM', 'NORDEN', 'SPÄTER', 'ETWAS', 'BERUHIGT']] 
+ Predicted : ['MORGEN', 'ERWARTET', 'UNS', 'UNTER', 'HOCHDRUCKEINFLUSS', 'RECHT', 'FREUNDLICHER']
+The BLEU Score :  12.240285828828824 
+
+
+
+
+ Pair : 90
+ Target : [['HEUTE', 'NACHT', 'EIN', 'GRAD', 'IM', 'SÜDEN', 'UND', 'MINUS', 'SIEBEN', 'GRAD', 'IM', 'MITTELGEBIRGSRAUM']] 
+ Predicted : ['HEUTE', 'NACHT', 'SIEBEN', 'GRAD', 'IM', 'UND', 'MINUS', 'EIN', 'GRAD', 'IM', 'SÜDEN']
+The BLEU Score :  12.500089728295954 
+
+
+
+
+ Pair : 91
+ Target : [['IN', 'DER', 'NACHT', 'SECHS', 'GRAD', 'AN', 'DER', 'NORDSEE', 'UND', 'MINUS', 'DREI', 'GRAD', 'AN', 'DER', '<BLANK>', 'DONAU']] 
+ Predicted : ['HEUTE', 'NACHT', 'FÜNF', 'GRAD', 'IM', 'NORDEN', 'UND', 'MINUS', 'ZWEI', 'GRAD', 'AN', 'DEN', 'ALPEN']
+The BLEU Score :  12.42503207839594 
+
+
+
+
+ Pair : 92
+ Target : [['MORGEN', 'WERTE', 'VON', 'ZWANZIG', 'GRAD', 'AN', 'DER', 'KÜSTE', 'BIS', 'ACHTUNDZWANZIG', 'AM', 'OBERRHEIN']] 
+ Predicted : ['MORGEN', 'TEMPERATUREN', 'VON', 'ZWANZIG', 'GRAD', 'AN', 'DER', 'KÜSTE', 'BIS', 'ACHTUNDZWANZIG', 'GRAD', 'IM', 'BREISGAU']
+The BLEU Score :  12.955593669137006 
+
+
+
+
+ Pair : 93
+ Target : [['IM', 'WESTEN', 'UND', 'NORDWESTEN', 'BERUHIGT', 'SICH', 'SPÄTER', 'DAS', 'WETTER']] 
+ Predicted : ['IM', 'WESTEN', 'DEUTSCHLANDS', 'MACHT', 'SICH', 'ALLERDINGS', 'EIN', 'TIEF']
+The BLEU Score :  12.915878988919104 
+
+
+
+
+ Pair : 94
+ Target : [['HEUTE', 'NACHT', 'ZWÖLF', 'GRAD', 'AN', 'DER', 'NORDSEE', 'VIER', 'GRAD', 'IN', 'DER', 'EIFEL']] 
+ Predicted : ['HEUTE', 'NACHT', 'SIEBZEHN', 'GRAD', 'AN', 'DER', 'OSTSEE', 'UND', 'VIER', 'GRAD', 'IM', 'SÜDWESTEN']
+The BLEU Score :  12.961108196265256 
+
+
+
+
+ Pair : 95
+ Target : [['AM', 'DONNERSTAG', 'IM', 'GANZEN', 'LAND', 'UNBESTÄNDIGES', 'WETTER', 'VERBREITET', 'REGNET', 'ES', 'UND', 'ES', 'KANN', 'SEHR', 'WINDIG', 'WERDEN']] 
+ Predicted : ['AM', 'DIENSTAG', 'IM', 'NORDEN', 'UND', 'OSTEN', 'DICHTE', 'WOLKEN', 'SONST', 'IST', 'ES', 'MEIST', 'FREUNDLICH', 'UND', 'GEBIETSWEISE', 'REGEN', 'UND', 'TROCKEN']
+The BLEU Score :  12.832276894157735 
+
+
+
+
+ Pair : 96
+ Target : [['IN', 'DIE', 'SÜDWESTLICHEN', 'TEILE', 'DEUTSCHLANDS', '<BLANK>', 'ETWAS', '<BLANK>', 'LUFT', 'DAMIT', 'STEIGT', 'DORT', 'DAS', 'SCHAUER', 'UND', 'GEWITTERRISIKO', 'LEICHT']] 
+ Predicted : ['IN', 'DER', 'NACHT', 'ERREICHEN', 'UNS', 'IN', 'DEN', 'KOMMENDEN', 'TAGEN', 'DEUTSCHLANDS', 'ERWARTET', 'UNS', 'NOCH', 'FÜR', 'RUHIGES', 'UND', 'TEILWEISE', 'UNWETTERARTIGE', 'GEWITTER']
+The BLEU Score :  12.68793829081893 
+
+
+
+
+ Pair : 97
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'MITTWOCH', 'DEN', 'EINUNDZWANZIGSTEN', 'OKTOBER']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'MITTWOCH', 'DEN', 'DREISSIGSTEN', 'AUGUST']
+The BLEU Score :  13.204158524429326 
+
+
+
+
+ Pair : 98
+ Target : [['IN', 'DER', 'NORDHÄLFTE', 'MÄSSIGER', 'RICHTUNG', 'SÜDEN', 'AUCH', 'FRISCHER', 'WIND', 'MIT', 'STARKEN', 'VEREINZELT', 'MIT', 'STÜRMISCHEN', 'BÖEN', 'AUF', 'DEN', 'BERGEN', 'STURMBÖEN', 'ZUM', 'TEIL', 'AUCH', 'ORKANARTIGE', 'BÖEN']] 
+ Predicted : ['HEUTE', 'NACHT', 'GIBT', 'ES', 'NOCH', 'EIN', 'PAAR', 'SCHAUER', 'ODER', 'GEWITTER', 'SONST', 'WEHT', 'DER', 'WIND', 'SCHWACH', 'BIS', 'MÄSSIG', 'IM', 'NORDEN', 'NUR', 'SCHWACH', 'AUS', 'UNTERSCHIEDLICHEN', 'RICHTUNGEN']
+The BLEU Score :  12.974387778166522 
+
+
+
+
+ Pair : 99
+ Target : [['UND', 'SIE', 'ZIEHEN', 'JETZT', 'RICHTUNG', 'NORDOSTEN', 'AB', 'DIE', 'GEWITTER']] 
+ Predicted : ['HEUTE', 'NACHT', 'ABER', 'IM', 'OSTEN', 'DA', 'HABEN', 'WIR', 'NOCH', 'EIN', 'PAAR', 'WOLKEN', 'UND', 'REGEN', 'DER', 'MORGEN', 'FRÜH']
+The BLEU Score :  12.904312688274242 
+
+
+
+
+ Pair : 100
+ Target : [['AM', 'MONTAG', 'BESTIMMEN', 'MEIST', 'NOCH', 'TIEFDRUCKGEBIETE', 'UND', 'KÜHLE', 'MEERESLUFT', 'UNSER', 'WETTER']] 
+ Predicted : ['DEUTSCHLAND', 'LIEGT', 'IN', 'DER', 'NACHT', 'UND', 'MORGEN']
+The BLEU Score :  12.814423532996758 
+
+
+
+
+ Pair : 101
+ Target : [['FREITAG', 'UND', 'SAMSTAG', 'IM', 'NORDEN', 'SEHR', 'WINDIGES', 'REGENWETTER', 'IM', 'SÜDEN', 'FREUNDLICHER', 'UND', 'MEIST', 'TROCKEN']] 
+ Predicted : ['AM', 'MITTWOCH', 'IM', 'SÜDEN', 'ZUM', 'TEIL', 'KRÄFTIGE', 'REGENFÄLLE', 'IM', 'NORDWESTEN', 'UND', 'SEHR', 'WINDIG']
+The BLEU Score :  12.740457525927967 
+
+
+
+
+ Pair : 102
+ Target : [['DANACH', 'ERWARTET', 'UNS', 'IM', 'GANZEN', 'LAND', 'UNBESTÄNDIGES', 'WETTER', 'MIT', 'WEITEREN', 'SCHNEEFÄLLEN']] 
+ Predicted : ['VOR', 'ALLEM', 'IM', 'SÜDEN', 'REGNET', 'ES', 'GEBIETSWEISE', 'IM', 'WESTEN', 'IST', 'ES', 'TEILWEISE', 'KLAR', 'UND', 'TROCKEN']
+The BLEU Score :  12.65257967416938 
+
+
+
+
+ Pair : 103
+ Target : [['ES', 'WIRD', 'AUCH', 'LANGSAM', 'WÄRMER', 'AM', 'RHEIN', 'DANN', 'SCHON', 'MAL', 'SO', 'ACHTZEHN', 'BIS', 'ZWANZIG', 'GRAD', 'IM', 'ÜBRIGEN', 'DEUTSCHLAND', 'SO', 'MIT', 'ZWÖLF', 'BIS', 'MAXIMAL', 'ACHTZEHN', 'GRAD', 'NOCH', 'EIN', 'BISSCHEN', 'KÜHLER']] 
+ Predicted : ['UND', 'DIE', 'TEMPERATUREN', 'NUR', 'AM', 'RHEIN', 'GEHT', 'ES', 'AUF', 'VIERZEHN', 'BIS', 'ZWEIUNDZWANZIG', 'GRAD', 'ERREICHT']
+The BLEU Score :  12.432213862533821 
+
+
+
+
+ Pair : 104
+ Target : [['GLEICHZEITIG', 'STRÖMT', 'MILDERE', 'LUFT', 'ZU', 'UNS']] 
+ Predicted : ['HIER', 'UND', 'DA', 'BILDET', 'SICH', 'NEBEL']
+The BLEU Score :  12.391515069387363 
+
+
+
+
+ Pair : 105
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'SONNTAG', 'DEN', 'VIERZEHNTEN', 'FEBRUAR']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'SONNTAG', 'DEN', 'DREISSIGSTEN', 'FEBRUAR']
+The BLEU Score :  12.874770915372919 
+
+
+
+
+ Pair : 106
+ Target : [['ANSONSTEN', 'REISST', 'DIE', 'WOLKENDECKE', 'AUF', 'WIR', 'HABEN', 'JA', 'EINEN', 'STÜRMISCHEN', 'WESTWIND', 'DANN', 'AM', 'VORMITTAG', 'NOCH']] 
+ Predicted : ['UND', 'WIR', 'HABEN', 'AUCH', 'NUR', 'EIN', 'PAAR', 'NEBELFELDER', 'WIRD', 'ES', 'IM', 'WESTEN', 'UND', 'AUCH', 'IM', 'WESTEN', 'GIBT', 'ES', 'AUCH', 'AM', 'RHEIN', 'MAIN', 'GEBIET']
+The BLEU Score :  12.779785610184627 
+
+
+
+
+ Pair : 107
+ Target : [['DENN', 'ES', 'SIEHT', 'FAST', 'SO', 'AUS', 'ALS', '<BLANK>', 'DAS', '<BLANK>', 'TIEF', 'DAS', '<BLANK>', 'TIEF', '<BLANK>']] 
+ Predicted : ['ABER', 'IM', 'WESTEN', 'WERDEN', 'DIE', 'SONNE', 'KOMMT', 'DANN', 'MORGEN', 'WIEDER', 'DICHTER', 'WERDEN']
+The BLEU Score :  12.650638854053703 
+
+
+
+
+ Pair : 108
+ Target : [['AUCH', 'MORGEN', 'BESCHERT', 'UNS', 'HOHER', 'LUFTDRUCK', 'VIEL', 'SONNENSCHEIN']] 
+ Predicted : ['AM', 'SONNTAG', 'ERREICHT', 'UNS', 'DANN', 'DIE', 'SCHAUER', 'UND', 'GEWITTER']
+The BLEU Score :  12.59760050078748 
+
+
+
+
+ Pair : 109
+ Target : [['MORGEN', 'SCHWACHER', 'BIS', 'MÄSSIGER', 'WIND', 'AUS', 'SÜDWEST', 'BIS', 'WEST', 'AN', 'DER', 'OSTSEE', 'BLÄST', 'ER', 'AUCH', 'FRISCH']] 
+ Predicted : ['AM', 'TAG', 'IM', 'NORDOSTEN', 'WEHT', 'DER', 'WIND', 'MÄSSIG', 'BIS', 'FRISCH', 'AN', 'DER', 'OSTSEE', 'UND', 'AUF', 'DEN', 'BERGEN', 'STÜRMISCHE', 'BÖEN']
+The BLEU Score :  12.56195504905994 
+
+
+
+
+ Pair : 110
+ Target : [['HEUTE', 'NACHT', 'TEMPERATUREN', 'VON', 'MINUS', 'FÜNF', 'GRAD', 'IM', 'NORDOSTEN', 'BIS', 'PLUS', 'DREI', 'GRAD', 'AM', 'RHEIN']] 
+ Predicted : ['HEUTE', 'NACHT', 'DREI', 'GRAD', 'IM', 'NORDOSTEN', 'UND', 'ZWEI', 'GRAD', 'IM', 'NORDOSTEN']
+The BLEU Score :  12.575540025946982 
+
+
+
+
+ Pair : 111
+ Target : [['DER', 'WIND', 'WEHT', 'SCHWACH', 'BIS', 'MÄSSIG', 'AUS', 'SÜDOSTEN']] 
+ Predicted : ['DER', 'WIND', 'WEHT', 'SCHWACH', 'BIS', 'MÄSSIG', 'AN', 'DEN', 'KÜSTEN', 'AUCH', 'FRISCH']
+The BLEU Score :  12.865530519128923 
+
+
+
+
+ Pair : 112
+ Target : [['HEUTE', 'NACHT', 'SIEBEN', 'GRAD', 'AM', 'NIEDERRHEIN', 'SONST', 'SECHS', 'BIS', 'EIN', 'GRAD']] 
+ Predicted : ['HEUTE', 'NACHT', 'ZEHN', 'BIS', 'EIN', 'GRAD', 'AM', 'ALPENRAND', 'BIS', 'ZEHN', 'GRAD', 'IM', 'SÜDEN', 'ÖRTLICH']
+The BLEU Score :  12.912995884473979 
+
+
+
+
+ Pair : 113
+ Target : [['GELEGENTLICH', 'SCHNEIT', 'ES', 'LEICHT', 'RICHTUNG', 'NORDOSTEN', 'KANN', 'ES', 'AUCH', 'NOCH', 'KRÄFTIGER', 'SCHNEIEN']] 
+ Predicted : ['AM', 'TAG', 'IM', 'NORDOSTEN', 'MAL', 'SONNE', 'MAL', 'WOLKEN', 'UND', 'NEBEL']
+The BLEU Score :  12.823141944543954 
+
+
+
+
+ Pair : 114
+ Target : [['DORT', 'WIRD', 'ES', 'AUCH', 'WINDIG', '<BLANK>', 'DIE', 'HÖCHSTEN', 'TEMPERATUREN', 'BEWEGEN', 'SICH', 'ZWISCHEN', 'FÜNF', 'GRAD', 'IN', 'VORPOMMERN', 'UND', 'DREIZEHN', 'GRAD', 'IM', 'BREISGAU']] 
+ Predicted : ['AM', 'TAG', 'ZEHN', 'GRAD', 'IN', 'DER', 'LAUSITZ', 'UND', 'IN', 'DER', 'LAUSITZ']
+The BLEU Score :  12.680699916639979 
+
+
+
+
+ Pair : 115
+ Target : [['DIE', 'TEMPERATUREN', 'EIGENTLICH', '<BLANK>']] 
+ Predicted : ['ES', 'BIS', 'ZU', 'DEN', 'STRÖMT', 'AUCH', 'DIE', 'NACHT']
+The BLEU Score :  12.666548207908242 
+
+
+
+
+ Pair : 116
+ Target : [['WOLKEN', 'DER', 'TIEFS', 'ÜBER', 'DEM', 'ATLANTIK', '<BLANK>', 'ES', 'WENN', 'ÜBERHAUPT', 'DANN', 'HÖCHSTENS', 'IN', 'DEN', 'NORDWESTEN', 'DEUTSCHLANDS']] 
+ Predicted : ['DAS', 'TIEF', 'DAS', 'SICH', 'VON', 'GROSSBRITANNIEN', 'BIS', 'NACH', 'SKANDINAVIEN', 'UND', 'BRINGT', 'UNS', 'MORGEN', 'VIELE', 'WOLKEN', 'DEUTSCHLANDS']
+The BLEU Score :  12.550312355568574 
+
+
+
+
+ Pair : 117
+ Target : [['IN', 'DER', 'NACHT', 'BREITET', 'SICH', 'VON', 'WESTEN', 'REGEN', 'AUS', 'DER', 'TEILWEISE', 'KRÄFTIG', 'SEIN', 'KANN', 'WÄHREND', 'SICH', 'IM', 'OSTEN', 'UND', 'SÜDOSTEN', 'NOCH', 'DIE', 'STERNE', 'ZEIGEN']] 
+ Predicted : ['IN', 'DER', 'NACHT', 'MUSS', 'VON', 'WESTEN', 'UND', 'WESTEN', 'UND', 'OSTEN', 'MIT', 'EINZELNEN', 'SCHAUERN', 'UND', 'GEWITTERN', 'GERECHNET', 'WERDEN', 'DIE', 'WOLKEN', 'VON', 'WESTEN', 'IST', 'ES', 'AUCH', 'REGEN', 'ÖRTLICH', 'MIT', 'BLITZ', 'UND', 'DONNER']
+The BLEU Score :  12.47828326978537 
+
+
+
+
+ Pair : 118
+ Target : [['EIN', 'TIEFAUSLÄUFER', 'BRINGT', 'MORGEN', 'VOR', 'ALLEM', 'DEM', 'SÜDEN', 'DEUTSCHLANDS', 'NOCH', 'REGEN']] 
+ Predicted : ['EIN', 'TIEF', 'ÜBER', 'DEM', 'ÖSTLICHEN', 'MITTELEUROPA', 'BRINGT', 'DEM', 'SÜDEN', 'DEUTSCHLANDS', 'MORGEN', 'VOR', 'ALLEM', 'DEM', 'SÜDEN', 'DEUTSCHLANDS']
+The BLEU Score :  12.737216576278884 
+
+
+
+
+ Pair : 119
+ Target : [['IM', 'SÜDEN', 'BLÄST', 'DER', 'WIND', 'MÄSSIG', 'IM', 'NORDEN', 'FRISCH', 'BIS', 'STARK', 'MIT', 'STÜRMISCHEN', 'BÖEN', 'AN', 'DER', 'SEE', 'UND', 'AUF', 'DEN', 'BERGEN', 'SCHWERE', 'STURMBÖEN', 'IN', 'DEN', 'GIPFELLAGEN', 'VON', 'HARZ', 'UND', 'ERZGEBIRGE', 'AUCH', 'ORKANBÖEN']] 
+ Predicted : ['DER', 'WIND', 'WEHT', 'SCHWACH', 'IM', 'NORDEN', 'UND', 'AN', 'DEN', 'KÜSTEN', 'TEILWEISE', 'FRISCH']
+The BLEU Score :  12.553904976923208 
+
+
+
+
+ Pair : 120
+ Target : [['DORT', 'KANN', 'ES', 'AUCH', 'MORGEN', 'IN', 'EINIGEN', 'REGIONEN', 'REGNEN', 'WÄHREND', 'NÖRDLICH', 'DES', 'MAINS', 'NACH', 'NEBELAUFLÖSUNG', 'HÄUFIG', 'DIE', 'SONNE', 'SCHEINT']] 
+ Predicted : ['AM', 'TAG', 'VIEL', 'SONNE', 'GANZ', 'IM', 'ÄUSSERSTEN', 'NORDEN', 'UND', 'NORDWESTEN', 'EINIGE', 'SCHAUER']
+The BLEU Score :  12.41428404548333 
+
+
+
+
+ Pair : 121
+ Target : [['IN', 'DER', 'MITTE', 'UND', 'IM', 'NORDEN', 'REGNET', 'ES', 'HEUTE', 'NACHT', 'VEREINZELT', 'ETWAS']] 
+ Predicted : ['ANSONSTEN', 'NUR', 'ÖRTLICH', 'KÖNNEN', 'SICH', 'DIE', 'STERNE', 'FALLEN', 'EIN', 'PAAR', 'TROPFEN', 'FALLEN']
+The BLEU Score :  12.329147793875448 
+
+
+
+
+ Pair : 122
+ Target : [['MORGEN', 'REICHEN', 'DIE', 'WERTE', 'VON', 'ACHTZEHN', 'GRAD', 'IN', 'DER', 'EIFEL', 'BIS', 'SECHSUNDZWANZIG', 'GRAD', 'IN', 'DER', 'LAUSITZ']] 
+ Predicted : ['MORGEN', 'TEMPERATUREN', 'VON', 'ZWEIUNDZWANZIG', 'GRAD', 'IM', 'SAUERLAND', 'BIS', 'ZWEIUNDZWANZIG', 'GRAD', 'AN', 'DER', 'SPREE']
+The BLEU Score :  12.24751526986476 
+
+
+
+
+ Pair : 123
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'FREITAG', 'DEN', 'ZEHNTEN', 'JULI']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'FREITAG', 'DEN']
+The BLEU Score :  12.652855945675586 
+
+
+
+
+ Pair : 124
+ Target : [['AN', 'DEN', 'KÜSTEN', 'IST', 'ES', 'WINDIG']] 
+ Predicted : ['IM', 'NORDEN', 'IST', 'ES', 'WINDIG']
+The BLEU Score :  12.687639892041178 
+
+
+
+
+ Pair : 125
+ Target : [['AN', 'DEN', 'ALPEN', 'SCHNEIT', 'ES', 'FÜR', 'LÄNGERE', 'ZEIT']] 
+ Predicted : ['SIE', 'BREITEN', 'SICH', 'MORGEN', 'WEITER', 'NACH', 'NORDEN', 'AUS']
+The BLEU Score :  12.635997367410196 
+
+
+
+
+ Pair : 126
+ Target : [['AM', 'TAG', 'DREIZEHN', 'GRAD', 'BEI', 'DAUERREGEN', 'UND', 'EINUNDZWANZIG', 'GRAD', 'AM', 'OBERRHEIN']] 
+ Predicted : ['AM', 'TAG', 'DREIZEHN', 'GRAD', 'IM', 'VOGTLAND', 'UND', 'ZWEIUNDZWANZIG', 'GRAD', 'AM', 'OBERRHEIN']
+The BLEU Score :  12.782399804138244 
+
+
+
+
+ Pair : 127
+ Target : [['AM', 'SONNTAG', 'BERUHIGT', 'SICH', 'DAS', 'WETTER', 'VON', 'WESTEN', 'WIEDER']] 
+ Predicted : ['DABEI', 'GIBT', 'ES', 'AUCH', 'NOCH', 'KRÄFTIGE', 'SCHAUER']
+The BLEU Score :  12.722818615203025 
+
+
+
+
+ Pair : 128
+ Target : [['DADURCH', 'WIRD', 'ES', 'VON', 'TAG', 'ZU', 'TAG', 'ETWAS', 'WÄRMER']] 
+ Predicted : ['AB', 'MITTWOCH', 'WIRD', 'ES', 'DANN', 'WIEDER', 'FREUNDLICHER']
+The BLEU Score :  12.688930998206388 
+
+
+
+
+ Pair : 129
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'DIENSTAG', 'DEN', 'ZWANZIGSTEN', 'OKTOBER']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'MITTWOCH', 'DEN', 'VIERTEN', 'JULI']
+The BLEU Score :  12.929096130326789 
+
+
+
+
+ Pair : 130
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'FREITAG', 'DEN', 'DREISSIGSTEN', 'OKTOBER']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'MITTWOCH', 'DEN', 'DREISSIGSTEN', 'AUGUST']
+The BLEU Score :  13.185303121081885 
+
+
+
+
+ Pair : 131
+ Target : [['ICH', 'WÜNSCHE', 'IHNEN', 'EINEN', 'SCHÖNEN', 'ABEND', 'UND', 'MACHEN', 'SIE', 'ES', 'GUT']] 
+ Predicted : ['ICH', 'WÜNSCHE', 'IHNEN', 'NOCH', 'EINEN', 'SCHÖNEN', 'ABEND', 'UND', 'MACHEN', 'SIE', 'ES', 'GUT']
+The BLEU Score :  13.62406976208083 
+
+
+
+
+ Pair : 132
+ Target : [['IN', 'DER', 'NACHT', 'REGNET', 'ES', 'IM', 'SÜDEN', 'HIER', 'UND', 'DA', 'IN', 'DEN', 'HOCHLAGEN', 'SCHNEIT', 'ES']] 
+ Predicted : ['GEBIETSWEISE', 'BREITET', 'SICH', 'NEBEL', 'AUS']
+The BLEU Score :  13.511728375831053 
+
+
+
+
+ Pair : 133
+ Target : [['HEUTE', 'NACHT', 'TEMPERATUREN', 'ZWISCHEN', 'VIER', 'UND', 'NEUN', 'GRAD']] 
+ Predicted : ['IM', 'SÜDEN', 'HEUTE', 'NACHT', 'ÖRTLICH', 'LEICHTER', 'FROST', 'IM', 'NORDWESTEN', 'BIS', 'PLUS', 'SIEBEN', 'GRAD']
+The BLEU Score :  13.489113559812822 
+
+
+
+
+ Pair : 134
+ Target : [['AM', 'DONNERSTAG', 'BIS', 'SECHSUNDZWANZIG', 'GRAD', 'BEI', 'VIEL', 'SONNE']] 
+ Predicted : ['AM', 'SAMSTAG', 'BIS', 'ZU', 'ZWEIUNDZWANZIG', 'GRAD', 'IM', 'NORDEN']
+The BLEU Score :  13.454045779902174 
+
+
+
+
+ Pair : 135
+ Target : [['MORGEN', 'FÄLLT', 'DANN', 'VOR', 'ALLEN', 'DINGEN', 'IN', 'DER', 'NORDHÄLFTE', 'ALSO', 'IM', 'NORDOSTEN', 'UND', 'AUCH', 'IM', 'WESTEN', 'GELEGENTLICH', 'ETWAS', 'SCHNEE']] 
+ Predicted : ['UND', 'AM', 'FREITAG', 'DA', 'KOMMT', 'DANN', 'EIN', 'BISSCHEN', 'SCHNEE', 'UND', 'VOR', 'ALLEN', 'DINGEN', 'IN', 'DEN', 'MITTELGEBIRGEN']
+The BLEU Score :  13.46747980316327 
+
+
+
+
+ Pair : 136
+ Target : [['MORGEN', 'IM', 'NORDEN', 'KAUM', 'GEWITTER', 'BESONDERS', 'RICHTUNG', 'KÜSTE', 'AUCH', 'SONNIG']] 
+ Predicted : ['MORGEN', 'IM', 'NORDOSTEN', 'UND', 'NORDOSTEN', 'NOCH', 'EINZELNE', 'SCHAUER']
+The BLEU Score :  13.423975583729824 
+
+
+
+
+ Pair : 137
+ Target : [['AM', 'KÜHLSTEN', 'IM', 'SÜDOSTEN', 'VIER', 'GRAD']] 
+ Predicted : ['SONST', 'BLEIBT', 'ES', 'AUF', 'AUCH', 'SONNIG']
+The BLEU Score :  13.389401146222191 
+
+
+
+
+ Pair : 138
+ Target : [['HEUTE', 'NACHT', 'ZWÖLF', 'BIS', 'FÜNF', 'GRAD', 'AM', 'TAG', 'DANN', 'DREIZEHN', 'GRAD', 'IN', 'EINIGEN', 'MITTELGEBIRGEN', 'BIS', 'NEUNZEHN', 'GRAD', 'AM', 'OBERRHEIN']] 
+ Predicted : ['HEUTE', 'NACHT', 'VIERZEHN', 'GRAD', 'IM', 'SAUERLAND', 'UND', 'FÜNF', 'GRAD', 'AM', 'OBERRHEIN']
+The BLEU Score :  13.383776178049 
+
+
+
+
+ Pair : 139
+ Target : [['SONST', 'IST', 'ES', 'TEILWEISE', 'KLAR', 'AN', 'DEN', 'KÜSTEN', 'GIBT', 'ES', 'EINZELNE', 'SCHAUER']] 
+ Predicted : ['SONST', 'IST', 'ES', 'TEILS', 'KLAR', 'TEILS', 'WOLKIG', 'TEILS', 'KLAR', 'TEILWEISE', 'ABER', 'AUCH', 'MAL', 'EIN', 'PAAR', 'TROPFEN', 'ODER', 'NEBLIG']
+The BLEU Score :  13.374783768010337 
+
+
+
+
+ Pair : 140
+ Target : [['IM', 'SÜDOSTEN', 'IST', 'ES', 'TEILWEISE', 'NOCH', 'FREUNDLICH']] 
+ Predicted : ['IM', 'SÜDEN', 'NOCH', 'ETWAS', 'FREUNDLICHER']
+The BLEU Score :  13.344228449806069 
+
+
+
+
+ Pair : 141
+ Target : [['SOVIEL', 'SCHNEE', 'ANFANG', 'DEZEMBER', 'HAT', 'ES', 'IN', 'DEUTSCHLAND', 'SELTEN', 'GEGEBEN', 'UND', 'WENN', 'WIR', 'NICHTS', '<BLANK>', 'HABEN', 'DANN', 'HABEN', 'WIR', 'EINE', '<BLANK>', '<BLANK>', 'ÜBERALL', 'IN', 'DEUTSCHLAND']] 
+ Predicted : ['UND', 'DAZU', 'HABEN', 'WIR', 'NOCH', 'EIN', 'BISSCHEN', 'REGEN', 'IN', 'NORDDEUTSCHLAND', 'UND', 'IM', 'SÜDEN', 'UND', 'SÜDEN', 'UND', 'SÜDEN', 'UND', 'IM', 'NORDOSTEN']
+The BLEU Score :  13.194302767411134 
+
+
+
+
+ Pair : 142
+ Target : [['SOBALD', 'SICH', 'AM', 'DONNERSTAG', 'DER', 'NEBEL', '<BLANK>', 'HAT', 'LIEGEN', 'DIE', 'WOLKEN', 'UNTERSCHIEDLICH', 'DICHT', 'BEIEINANDER']] 
+ Predicted : ['AM', 'MITTWOCH', 'SCHNEIT', 'ES', 'IN', 'DER', 'NORDHÄLFTE', 'GEBIETSWEISE', 'RICHTUNG', 'NORDWESTEN', 'LOCKERT', 'ES', 'ETWAS', 'AUF']
+The BLEU Score :  13.10975790519957 
+
+
+
+
+ Pair : 143
+ Target : [['ANSONSTEN', 'WIRD', 'ES', 'ABSEITS', 'ZÄHER', 'NEBELFELDER', 'RECHT', 'FREUNDLICH']] 
+ Predicted : ['AM', 'TAG', 'IST', 'ES', 'TEILS', 'FREUNDLICH', 'TEILS', 'WOLKIG']
+The BLEU Score :  13.072596901317471 
+
+
+
+
+ Pair : 144
+ Target : [['IM', 'EMSLAND', 'MORGEN', 'SECHS', 'GRAD', 'ÜBER', 'NULL', 'IM', 'ALLGÄU', 'FROSTIGE', 'MINUS', 'VIER', 'GRAD']] 
+ Predicted : ['IM', 'NORDEN', 'HEUTE', 'NACHT', 'ÖRTLICH', 'FROSTIG', 'IM', 'SAUERLAND', 'BIS', 'PLUS', 'VIER', 'GRAD']
+The BLEU Score :  13.02031756646605 
+
+
+
+
+ Pair : 145
+ Target : [['UND', 'DIESE', 'GEFAHR', 'BLEIBT', 'MORGEN', '<BLANK>', 'IM', 'SÜDWESTEN', 'WEIL', 'ES', 'DORT', 'IMMER', 'WIEDER', 'MAL', 'SCHNEIEN', 'WIRD']] 
+ Predicted : ['UND', 'AM', 'DONNERSTAG', 'KOMMT', 'DANN', 'EINE', 'SEHR', 'VIEL', 'REGEN', 'VOM', 'BIS', 'IN', 'DEN', 'NÄCHSTEN', 'TAGEN']
+The BLEU Score :  12.918218969486109 
+
+
+
+
+ Pair : 146
+ Target : [['DEM', 'NORDEN', 'UND', 'NORDOSTEN', 'DEUTSCHLANDS', 'BESCHERT', 'DER', 'AUSLÄUFER', 'EINES', 'ATLANTIKTIEFS', 'WOLKENNACHSCHUB', 'UND', 'AUCH', 'REGEN']] 
+ Predicted : ['EIN', 'TIEF', 'ÜBER', 'DEM', 'NORDEN', 'DEUTSCHLANDS', 'BRINGT', 'DEM', 'NORDEN', 'DEUTSCHLANDS', 'MORGEN', 'VIELE', 'WOLKEN', 'UND', 'ETWAS', 'REGEN']
+The BLEU Score :  12.864802461526548 
+
+
+
+
+ Pair : 147
+ Target : [['IM', 'SÜDEN', 'KANN', 'SICH', 'DER', 'NEBEL', 'IN', 'DEN', 'NIEDERUNGEN', 'LÄNGER', 'HALTEN']] 
+ Predicted : ['SONST', 'IST', 'ES', 'MEIST', 'NOCH', 'EIN', 'BISSCHEN', 'FREUNDLICHER', 'TAG']
+The BLEU Score :  12.797244160042059 
+
+
+
+
+ Pair : 148
+ Target : [['SCHWACHER', 'BIS', 'MÄSSIGER', 'AN', 'DER', 'NORDSEE', 'TEILWEISE', 'FRISCHER', 'WIND', 'AUS', 'SÜDOST']] 
+ Predicted : ['DER', 'WIND', 'WEHT', 'SCHWACH', 'BIS', 'MÄSSIG', 'IM', 'NORDWESTEN', 'AUCH', 'FRISCH']
+The BLEU Score :  12.74547648153578 
+
+
+
+
+ Pair : 149
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'MITTWOCH', 'DEN', 'ZWÖLFTEN', 'MAI']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'MITTWOCH', 'DEN', 'DREISSIGSTEN', 'MAI']
+The BLEU Score :  13.093434499867355 
+
+
+
+
+ Pair : 150
+ Target : [['LIEBE', 'ZUSCHAUER', 'GUTEN', 'ABEND']] 
+ Predicted : ['LIEBE', 'ZUSCHAUER', 'GUTEN', 'ABEND']
+The BLEU Score :  13.204980789386175 
+
+
+
+
+ Pair : 151
+ Target : [['DA', 'ES', 'ABER', 'WIEDER', 'MILDER', 'WIRD', 'STEIGT', 'AUCH', 'DIE', 'SCHNEEFALLGRENZE']] 
+ Predicted : ['AB', 'SONNTAG', 'UND', 'ZU', 'ETWAS', 'KÜHLER', 'UND', 'REGEN', 'AM', 'SONNTAG']
+The BLEU Score :  13.143837799460881 
+
+
+
+
+ Pair : 152
+ Target : [['MEIST', 'WEHT', 'NUR', 'EIN', 'SCHWACHER', 'WIND', 'AUS', 'UNTERSCHIEDLICHEN', 'RICHTUNGEN', 'DER', 'BEI', 'SCHAUERN', 'UND', 'GEWITTERN', 'STARK', 'BÖIG', 'SEIN', 'KANN']] 
+ Predicted : ['DER', 'WIND', 'WEHT', 'SCHWACH', 'BIS', 'MÄSSIG', 'IM', 'NORDWESTEN', 'TEILWEISE', 'AUCH', 'FRISCH']
+The BLEU Score :  13.040975323360616 
+
+
+
+
+ Pair : 153
+ Target : [['DIESE', 'BREITEN', 'SICH', 'OSTWÄRTS', 'AUS', 'UND', 'SIND', 'TEILWEISE', 'KRÄFTIG', 'UND', 'GEWITTRIG']] 
+ Predicted : ['VON', 'WESTEN', 'ZIEHEN', 'KRÄFTIGE', 'SCHAUER', 'UND', 'GEWITTER', 'HERAN', 'DIE', 'STELLENWEISE', 'AUCH', 'UNWETTERARTIG', 'SEIN', 'KÖNNEN']
+The BLEU Score :  12.978682168511178 
+
+
+
+
+ Pair : 154
+ Target : [['UND', 'MORGEN', 'HABEN', 'WIR', 'MEIST', 'ZWISCHEN', 'ZWEI', 'UND', 'SECHS', 'GRAD', 'ZU', 'ERWARTEN', 'ABER', 'IN', 'BAYERN', 'BLEIBT', 'ES', 'EBEN', 'EIN', 'BISSCHEN', 'KÄLTER', 'UND', 'IN', 'DEN', 'MITTELGEBIRGEN']] 
+ Predicted : ['UND', 'DIE', 'TEMPERATUREN', 'DORT', 'MORGEN', 'FRÜH', 'IM', 'WESTEN', 'SO', 'UM', 'DIE', 'NULL', 'GRAD', 'AM', 'RHEIN', 'IST', 'ES', 'SCHON', 'MAL', 'IM', 'NORDEN']
+The BLEU Score :  12.833387588382594 
+
+
+
+
+ Pair : 155
+ Target : [['DIE', 'AUSSICHTEN', 'AM', 'SAMSTAG', 'HIER', 'UND', 'DER', 'SCHNEE', 'VOR', 'ALLEM', 'IM', 'NORDEN', 'ZEIGT', 'SICH', 'AUCH', 'MAL', 'DIE', 'SONNE']] 
+ Predicted : ['AM', 'SAMSTAG', 'IM', 'SÜDEN', 'UND', 'IM', 'SÜDEN', 'ETWAS', 'FREUNDLICHER', 'SONST', 'IST', 'ES', 'MEIST', 'SONNIG']
+The BLEU Score :  12.75166222041732 
+
+
+
+
+ Pair : 156
+ Target : [['LIEBE', 'ZUSCHAUER', 'GUTEN', 'ABEND']] 
+ Predicted : ['LIEBE', 'ZUSCHAUER', 'GUTEN', 'ABEND']
+The BLEU Score :  12.859204714094503 
+
+
+
+
+ Pair : 157
+ Target : [['IM', 'SÜDOSTEN', 'SCHNEIT', 'ES', 'ETWAS', 'SONST', 'IST', 'ES', 'TROCKEN', 'BEI', 'MINUS', 'ACHT', 'BIS', 'PLUS', 'EIN', 'GRAD']] 
+ Predicted : ['IM', 'SÜDEN', 'UND', 'SÜDOSTEN', 'BLEIBT', 'ES', 'RECHT', 'FREUNDLICH', 'UND', 'TROCKEN']
+The BLEU Score :  12.780810038772053 
+
+
+
+
+ Pair : 158
+ Target : [['AM', 'DIENSTAG', 'BREITET', 'SICH', 'VON', 'WESTEN', 'REGEN', 'AUS', 'LOKAL', 'SIND', 'AUCH', 'GEWITTRIGE', 'UNWETTER', 'MIT', 'STARKREGEN', 'HAGEL', 'UND', 'SCHWEREN', 'STURMBÖEN', 'DABEI']] 
+ Predicted : ['AM', 'MITTWOCH', 'ZIEHEN', 'VON', 'WESTEN', 'WIEDER', 'REGEN', 'UND', 'GEWITTER', 'DIE', 'BESONDERS', 'IN', 'DER', 'MITTE', 'REGNET', 'ES', 'ZUM', 'TEIL', 'KRÄFTIG']
+The BLEU Score :  12.69152944075074 
+
+
+
+
+ Pair : 159
+ Target : [['IM', 'SÜDEN', 'FÄLLT', 'ZEITWEISE', 'KRÄFTIGER', 'REGEN', 'VEREINZELT', 'MIT', 'BLITZ', 'UND', 'DONNER']] 
+ Predicted : ['AUCH', 'AM', 'TAG', 'REGNET', 'ES', 'ZUM', 'TEIL', 'KRÄFTIG', 'IM', 'BERGLAND', 'KANN', 'ES', 'TEILWEISE', 'KRÄFTIG']
+The BLEU Score :  12.63368568216893 
+
+
+
+
+ Pair : 160
+ Target : [['AM', 'TAG', 'PLUS', 'ZWEI', 'GRAD', 'IM', 'NORDWESTEN', 'SONST', 'MINUS', 'FÜNF', 'BIS', 'PLUS', 'EIN', 'GRAD']] 
+ Predicted : ['AM', 'TAG', 'MINUS', 'ZWEI', 'GRAD', 'IM', 'BREISGAU', 'BIS', 'PLUS', 'SIEBEN', 'GRAD']
+The BLEU Score :  12.658265090072817 
+
+
+
+
+ Pair : 161
+ Target : [['IM', 'SÜDEN', 'SCHWACHER', 'WIND', 'IM', 'NORDEN', 'WEHT', 'ER', 'MÄSSIG', 'AN', 'DER', 'KÜSTE', 'FRISCH', 'MIT', 'STARKEN', 'BÖEN', 'AN', 'DER', 'OSTSEE', 'STURMBÖEN']] 
+ Predicted : ['DER', 'WIND', 'WEHT', 'SCHWACH', 'BIS', 'MÄSSIG', 'AN', 'DER', 'OSTSEE', 'FRISCH', 'MIT', 'EINZELNEN', 'STÜRMISCHEN', 'BÖEN']
+The BLEU Score :  12.666070991583547 
+
+
+
+
+ Pair : 162
+ Target : [['AM', 'TAG', 'MINUS', 'ACHT', 'GRAD', 'IM', 'VOGTLAND', 'UND', 'PLUS', 'DREI', 'GRAD', 'AN', 'DER', 'NORDSEE']] 
+ Predicted : ['AM', 'TAG', 'MINUS', 'SIEBEN', 'GRAD', 'IM', 'NORDOSTEN', 'PLUS', 'EIN', 'GRAD', 'AN', 'DER', 'NORDSEE']
+The BLEU Score :  12.781936996535226 
+
+
+
+
+ Pair : 163
+ Target : [['AN', 'SCHNEE', 'UND', 'KÄLTE', 'ÄNDERT', 'SICH', 'AUCH', 'IN', 'DEN', 'KOMMENDEN', 'TAGEN', 'NICHTS']] 
+ Predicted : ['SONST', 'BLEIBT', 'ES', 'TROCKEN']
+The BLEU Score :  12.715496799664233 
+
+
+
+
+ Pair : 164
+ Target : [['DABEI', 'WIRD', 'ES', 'KÜHLER', 'UND', 'DIE', 'SCHNEEFALLGRENZE', 'SINKT']] 
+ Predicted : ['DAS', 'WETTER', 'ÄNDERT', 'SICH', 'REGENWOLKEN', 'NUR', 'WENIG']
+The BLEU Score :  12.675053961484952 
+
+
+
+
+ Pair : 165
+ Target : [['IM', 'SÜDEN', 'BLEIBT', 'ES', 'MEIST', 'TROCKEN', 'ZWISCHEN', 'EINIGEN', 'WOLKEN', 'UND', 'NEBELFELDERN', 'ZEIGT', 'SICH', 'HIER', 'UND', 'DA', 'DIE', 'SONNE']] 
+ Predicted : ['RICHTUNG', 'SÜDEN', 'SCHEINT', 'NEBEN', 'EIN', 'PAAR', 'WOLKEN', 'UND', 'MEIST', 'DIE', 'SONNE']
+The BLEU Score :  12.618900236183272 
+
+
+
+
+ Pair : 166
+ Target : [['DER', 'WIND', 'WEHT', 'IM', 'NORDEN', 'SCHWACH', 'IM', 'SÜDEN', 'MÄSSIG', 'MITUNTER', 'AUCH', 'FRISCH']] 
+ Predicted : ['DER', 'WIND', 'WEHT', 'SCHWACH', 'BIS', 'MÄSSIG', 'IM', 'NORDEN', 'FRISCH', 'AN', 'DER', 'OSTSEE', 'AUCH', 'FRISCH']
+The BLEU Score :  12.653727206490254 
+
+
+
+
+ Pair : 167
+ Target : [['ICH', 'WÜNSCHE', 'IHNEN', 'EINEN', 'SCHÖNEN', 'ABEND', 'UND', 'MACHEN', 'SIE', 'ES', 'GUT']] 
+ Predicted : ['UND', 'JETZT', 'WÜNSCHE', 'ICH', 'IHNEN', 'NOCH', 'EINEN', 'SCHÖNEN', 'ABEND']
+The BLEU Score :  12.665102582155141 
+
+
+
+
+ Pair : 168
+ Target : [['DAZU', 'BLÄST', 'EIN', 'BÖIGER', 'NORDOSTWIND', 'AN', 'DER', 'OSTSEE', 'IST', 'ER', 'AUCH', 'FRISCH', 'IM', 'HÖHEREN', 'BERGLAND', 'SIND', 'STÜRMISCHE', 'BÖEN', 'MÖGLICH']] 
+ Predicted : ['IM', 'NORDEN', 'FRISCHER', 'BIS', 'STARKER', 'STARKER', 'WIND', 'MIT', 'STARKEN', 'AN', 'DER', 'SEE', 'AUCH', 'STURMBÖEN']
+The BLEU Score :  12.58387792346799 
+
+
+
+
+ Pair : 169
+ Target : [['IM', 'SÜDWESTEN', 'WEHT', 'DER', 'WIND', 'SCHWACH', 'IM', 'NORDEN', 'UND', 'OSTEN', 'FRISCH', 'MIT', 'EINZELNEN', 'STURMBÖEN', 'AN', 'DER', 'OSTSEE', 'AUCH', 'SCHWERE', 'STURMBÖEN']] 
+ Predicted : ['IM', 'SÜDEN', 'WEHT', 'DER', 'WIND', 'SCHWACH', 'BIS', 'MÄSSIG', 'AN', 'DEN', 'KÜSTEN', 'TEILWEISE', 'FRISCH']
+The BLEU Score :  12.595931571339811 
+
+
+
+
+ Pair : 170
+ Target : [['IM', 'OSTEN', 'UND', 'SÜDOSTEN', 'SCHEINT', 'MORGEN', 'VERBREITET', 'DIE', 'SONNE', 'IN', 'DER', 'NORDWESTHÄLFTE', 'DAGEGEN', 'VIELE', 'WOLKEN', 'UND', 'STELLENWEISE', 'ETWAS', 'REGEN', 'RICHTUNG', 'SÜDEN', 'AUCH', 'EIN', 'PAAR', 'SCHAUER']] 
+ Predicted : ['IM', 'SÜDEN', 'UND', 'OSTEN', 'GIBT', 'ES', 'HEUTE', 'NACHT', 'NOCH', 'MAL', 'SONNE', 'MAL', 'WOLKEN', 'DIE', 'IM', 'SÜDEN', 'UND', 'SÜDWESTEN', 'SOWIE', 'IN', 'DER', 'SÜDHÄLFTE', 'AUCH', 'MAL', 'DICHTER', 'SEIN', 'KÖNNEN']
+The BLEU Score :  12.50859552487928 
+
+
+
+
+ Pair : 171
+ Target : [['AM', 'TAG', 'ZIEHT', 'DANN', 'AUCH', 'DIESER', 'REGEN', 'RICHTUNG', 'OSTEN']] 
+ Predicted : ['RICHTUNG', 'OSTEN', 'DAGEGEN', 'DEUTSCHLANDS', 'NOCH', 'TEILWEISE', 'NOCH', 'SCHAUER']
+The BLEU Score :  12.483131895610056 
+
+
+
+
+ Pair : 172
+ Target : [['AUCH', 'IN', 'DEN', 'NÄCHSTEN', 'STUNDEN', 'WIEDER', 'KRÄFTIGER', 'REGEN', 'ZUNÄCHST', 'IM', 'WESTEN', 'DANN', 'AUCH', 'AN', 'DEN', 'KÜSTEN']] 
+ Predicted : ['UND', 'AM', 'VORMITTAG', 'WIRD', 'ES', 'DANN', 'NOCH', 'EIN', 'PAAR', 'SCHNEESCHAUER', 'IM', 'NORDEN', 'UND', 'IN', 'DER', 'MITTE']
+The BLEU Score :  12.409294092140339 
+
+
+
+
+ Pair : 173
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'DIENSTAG', 'DEN', 'SECHSUNDZWANZIGSTEN', 'JANUAR']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'DIENSTAG', 'DEN', 'ZWEITEN', 'DEZEMBER']
+The BLEU Score :  12.708360279094011 
+
+
+
+
+ Pair : 174
+ Target : [['AM', 'FREITAG', 'KOMMEN', 'VON', 'WESTEN', 'NEUE', 'REGENFÄLLE', 'AUF', 'DABEI', 'IST', 'ES', 'TEILWEISE', 'WINDIG']] 
+ Predicted : ['AM', 'FREITAG', 'VON', 'WESTEN', 'REGENWOLKEN', 'UND', 'TEILWEISE', 'WINDIG']
+The BLEU Score :  12.695175051818012 
+
+
+
+
+ Pair : 175
+ Target : [['AM', 'TAG', 'ZEHN', 'GRAD', 'IM', 'VOGTLAND', 'UND', 'SIEBZEHN', 'GRAD', 'AM', 'OBERRHEIN']] 
+ Predicted : ['MORGEN', 'IM', 'VOGTLAND', 'MORGEN', 'BIS', 'SIEBZEHN', 'GRAD', 'IM', 'BREISGAU', 'BIS', 'SIEBZEHN', 'GRAD']
+The BLEU Score :  12.68937760290965 
+
+
+
+
+ Pair : 176
+ Target : [['<BLANK>', '<BLANK>', 'DIE', 'WÄRME', 'DERZEIT', 'AUCH', 'KOMMEN']] 
+ Predicted : ['DIE', 'LUFT', 'IST', 'NOCH', 'SEHR', 'KÜHL', 'UND', 'DIE', 'NACHT']
+The BLEU Score :  12.661822732405046 
+
+
+
+
+ Pair : 177
+ Target : [['RICHTUNG', 'OSTEN', 'KANN', 'SICH', 'AB', 'UND', 'ZU', 'AUCH', 'DIE', 'SONNE', 'BLICKEN', 'LASSEN', 'BEVOR', 'DER', 'REGEN', 'AM', 'ABEND', 'AUCH', 'DORT', '<BLANK>']] 
+ Predicted : ['IM', 'NORDOSTEN', 'UND', 'OSTEN', 'MUSS', 'MIT', 'EINZELNEN', 'SCHAUERN', 'UND', 'GEWITTERN', 'GERECHNET', 'WERDEN']
+The BLEU Score :  12.561248565822764 
+
+
+
+
+ Pair : 178
+ Target : [['IN', 'DER', 'OSTHÄLFTE', 'HÄLT', 'SICH', 'DIE', 'HITZE', 'UND', 'VOR', 'ALLEM', 'DORT', 'KANN', 'ES', 'IN', 'DEN', 'FOLGENDEN', 'TAGEN', 'ZUM', 'TEIL', 'HEFTIG', 'GEWITTERN']] 
+ Predicted : ['AM', 'TAG', 'MUSS', 'IM', 'SÜDEN', 'UND', 'OSTEN', 'MIT', 'TEILWEISE', 'MIT', 'TEILWEISE', 'AUCH', 'MIT', 'SCHNEEVERWEHUNGEN', 'GERECHNET', 'WERDEN']
+The BLEU Score :  12.452095037902723 
+
+
+
+
+ Pair : 179
+ Target : [['UND', 'DA', 'BLEIBT', 'ES', 'AUCH', 'TAGSÜBER', 'KÜHL', 'SECHS', 'GRAD', 'HÖCHSTTEMPERATUR', 'IN', 'BAYERN', 'TEILWEISE', 'GENAUSO', 'WIE', 'IN', 'SCHLESWIG', 'HOLSTEIN']] 
+ Predicted : ['DAS', 'IST', 'JA', 'DIE', 'SONNE', 'KOMMT', 'AUCH', 'MORGEN', 'GANZ', 'GUT', 'IM', 'SÜDEN', 'UND', 'AUCH', 'GANZ', 'FREUNDLICH']
+The BLEU Score :  12.366008746917236 
+
+
+
+
+ Pair : 180
+ Target : [['AM', 'TAG', 'BLEIBT', 'ES', 'BEI', 'VIELEN', 'WOLKEN', 'UND', 'NEBEL', 'WEITGEHEND', 'TROCKEN', 'MANCHERORTS', 'ZEIGT', 'SICH', 'AUCH', 'DIE', 'SONNE']] 
+ Predicted : ['SONST', 'MAL', 'SONNE', 'MAL', 'WOLKEN', 'UND', 'MEIST', 'TROCKEN', 'UND', 'NUR', 'HIER', 'UND', 'DA', 'FÄLLT', 'REGEN']
+The BLEU Score :  12.30436824676586 
+
+
+
+
+ Pair : 181
+ Target : [['TROTZDEM', 'BLEIBT', 'ES', 'BEI', 'SCHAUERN', 'UND', 'GEWITTERN']] 
+ Predicted : ['AUCH', 'IN', 'DER', 'NACHT', 'IST', 'ES', 'MEIST', 'TROCKEN']
+The BLEU Score :  12.278795619290623 
+
+
+
+
+ Pair : 182
+ Target : [['ES', 'WIRD', 'AUCH', 'KAUM', 'REGNEN', 'ABER', 'ES', 'BLEIBT', 'EBEN', 'AUCH', 'KÜHL']] 
+ Predicted : ['ES', 'WIRD', 'AUCH', 'NICHT', 'NUR', 'EIN', 'BISSCHEN', 'SCHNEIEN']
+The BLEU Score :  12.27461629814483 
+
+
+
+
+ Pair : 183
+ Target : [['AM', 'SAMSTAG', 'IM', 'NORDEN', 'UND', 'SÜDOSTEN', 'REGEN', 'DABEI', 'IST', 'ES', 'TEILWEISE', 'WINDIG']] 
+ Predicted : ['AM', 'DIENSTAG', 'WEITERHIN', 'UNBESTÄNDIGES', 'WETTER', 'DAZU', 'IST', 'ES', 'WINDIG']
+The BLEU Score :  12.242532964833538 
+
+
+
+
+ Pair : 184
+ Target : [['DABEI', 'MUSS', 'MANCHERORTS', 'AUCH', 'MIT', 'GEWITTERN', 'GERECHNET', 'WERDEN']] 
+ Predicted : ['AUCH', 'IN', 'DER', 'MITTE']
+The BLEU Score :  12.212162501184393 
+
+
+
+
+ Pair : 185
+ Target : [['DER', 'WIND', 'WEHT', 'MÄSSIG', 'BIS', 'FRISCH', 'IN', 'DEN', 'HOCHLAGEN', 'MUSS', 'MIT', 'STURMBÖEN', 'GERECHNET', 'WERDEN']] 
+ Predicted : ['IM', 'SÜDEN', 'SCHWACHER', 'BIS', 'MÄSSIGER', 'WIND', 'AUS', 'WEST', 'BIS', 'SÜDWEST']
+The BLEU Score :  12.1524579903318 
+
+
+
+
+ Pair : 186
+ Target : [['ABER', 'NACH', 'SÜDEN', 'HIN', 'BERUHIGT', 'SICH', 'DAS', 'GANZE', 'ES', 'WIRD', 'TROCKENER', 'UND', 'VOR', 'ALLEN', 'DINGEN', 'AUCH', 'MAL', 'WIEDER', 'SONNIGER']] 
+ Predicted : ['DA', 'KOMMT', 'DIE', 'SONNE', 'AUCH', 'MORGEN', 'BIS', 'ZU', 'UNS']
+The BLEU Score :  12.062471004741202 
+
+
+
+
+ Pair : 187
+ Target : [['IM', 'VOGTLAND', 'MORGEN', 'FRISCHE', 'DREIZEHN', 'AM', 'OBERRHEIN', 'FAST', 'SOMMERLICHE', 'VIERUNDZWANZIG', 'GRAD']] 
+ Predicted : ['AM', 'TAG', 'SIEBEN', 'GRAD', 'IM', 'VOGTLAND', 'UND', 'FÜNFZEHN', 'GRAD', 'AM', 'OBERRHEIN']
+The BLEU Score :  12.050137643703591 
+
+
+
+
+ Pair : 188
+ Target : [['IHNEN', 'EINEN', 'SCHÖNEN', 'ABEND', 'UND', 'MACHEN', 'SIE', 'ES', 'GUT']] 
+ Predicted : ['IHNEN', 'EINEN', 'SCHÖNEN', 'ABEND', 'UND', 'MACHEN', 'SIE', 'ES', 'GUT']
+The BLEU Score :  12.389424618810214 
+
+
+
+
+ Pair : 189
+ Target : [['BIS', 'AUF', 'EIN', 'PAAR', 'HARMLOSE', 'SCHLEIERWOLKEN', 'IST', 'ES', 'DANN', 'KLAR']] 
+ Predicted : ['SONST', 'ZEIGEN', 'SICH', 'NEBEN', 'DICHTEN', 'WOLKEN', 'UND', 'NEBELFELDERN', 'AUCH', 'MAL', 'DIE', 'STERNE']
+The BLEU Score :  12.344090444095123 
+
+
+
+
+ Pair : 190
+ Target : [['AM', 'MITTWOCH', 'UNBESTÄNDIGES', 'WETTER']] 
+ Predicted : ['AM', 'MITTWOCH', 'UNBESTÄNDIGES', 'WETTER']
+The BLEU Score :  12.433169509807211 
+
+
+
+
+ Pair : 191
+ Target : [['AUCH', 'AM', 'TAG', 'IM', 'SÜDEN', 'NOCH', 'SCHNEE', 'AM', 'RHEIN', 'AUCH', 'SCHNEEREGEN']] 
+ Predicted : ['AUCH', 'IN', 'DER', 'SÜDHÄLFTE', 'BLEIBT', 'ES', 'NOCH', 'TROCKEN']
+The BLEU Score :  12.390365542601142 
+
+
+
+
+ Pair : 192
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'SONNTAG', 'DEN', 'SECHSUNDZWANZIGSTEN', 'SEPTEMBER']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'SONNTAG', 'DEN', 'IM', 'SÜDWESTEN', 'AUGUST']
+The BLEU Score :  12.662261305003739 
+
+
+
+
+ Pair : 193
+ Target : [['AM', 'SONNTAG', 'NUR', 'NOCH', 'WENIG', 'SCHNEE', 'IM', 'NORDEN', 'ZEIGT', 'SICH', 'TEILWEISE', 'DIE', 'SONNE']] 
+ Predicted : ['DAZU', 'ZEIGT', 'SICH', 'DIE', 'SONNE', 'HÄUFIGER']
+The BLEU Score :  12.633936164103018 
+
+
+
+
+ Pair : 194
+ Target : [['DABEI', 'MUSS', 'MIT', 'KRÄFTIGEN', 'SCHAUERN', 'UND', 'GEWITTERN', 'GERECHNET', 'WERDEN']] 
+ Predicted : ['DORT', 'SIND', 'NOCH', 'MÖGLICH']
+The BLEU Score :  12.594462421966135 
+
+
+
+
+ Pair : 195
+ Target : [['SAMSTAG', 'EBENSO', 'UND', 'DANN', 'AM', 'SONNTAG', 'VIELLEICHT', 'IM', 'WESTEN', 'DIE', 'ERSTEN', 'SCHAUER', 'UND', 'GEWITTER']] 
+ Predicted : ['ABER', 'AM', 'WOCHENENDE', 'DA', 'IST', 'ES', 'DANN', 'NOCH', 'EIN', 'BISSCHEN', 'KÜHLER', 'UND', 'ES', 'WIRD', 'ES', 'WIRD', 'ES', 'AM', 'WOCHENENDE', 'DA', 'BIS', 'FÜNFUNDZWANZIG', 'GRAD']
+The BLEU Score :  12.538284948312285 
+
+
+
+
+ Pair : 196
+ Target : [['KÜHLE', 'LUFT', 'DIE', 'ZWISCHEN', 'DEM', 'TIEF', 'IM', 'NORDEN', 'UND', 'DEM', 'HOCH', 'IM', 'WESTEN', 'HERANFLIESST', 'BREITET', 'SICH', 'MORGEN', 'IN', 'GANZ', 'DEUTSCHLAND', 'AUS']] 
+ Predicted : ['DAS', 'HOCH', 'DAS', 'VON', 'GROSSBRITANNIEN', 'NACH', 'SKANDINAVIEN', 'ZIEHT', 'BESTIMMT', 'MORGEN', 'DEUTSCHLAND']
+The BLEU Score :  12.44594612421074 
+
+
+
+
+ Pair : 197
+ Target : [['ÄHNLICHES', 'WETTER', 'AUCH', 'AM', 'SAMSTAG', 'VON', 'NORDEN', 'WIRD', 'ES', 'ALLERDINGS', 'KÜHLER']] 
+ Predicted : ['AM', 'MITTWOCH', 'WIEDER', 'TEILS', 'SONNE', 'TEILS', 'WOLKEN', 'UND', 'ES', 'WIRD', 'ES', 'LANGSAM', 'WIEDER', 'FREUNDLICHER']
+The BLEU Score :  12.416626675635358 
+
+
+
+
+ Pair : 198
+ Target : [['DER', 'WIND', 'WEHT', 'MEIST', 'NUR', 'SCHWACH', 'ER', 'KOMMT', 'AUS', 'NORD']] 
+ Predicted : ['DER', 'WIND', 'WEHT', 'SCHWACH', 'BIS', 'MÄSSIG', 'IM', 'NORDEN', 'FRISCH', 'AUS', 'UNTERSCHIEDLICHEN', 'RICHTUNGEN']
+The BLEU Score :  12.42487368611628 
+
+
+
+
+ Pair : 199
+ Target : [['IN', 'ROSTOCK', 'MORGEN', 'ACHT', 'IN', 'FRANKFURT', 'AM', 'MAIN', 'UND', 'LEIPZIG', 'BIS', 'ACHTZEHN', 'GRAD']] 
+ Predicted : ['HEUTE', 'NACHT', 'ACHT', 'GRAD', 'IN', 'DER', 'EIFEL', 'BIS', 'VIERZEHN', 'GRAD', 'IN', 'DER', 'LAUSITZ']
+The BLEU Score :  12.383925657380502 
+
+
+
+
+ Pair : 200
+ Target : [['DER', 'AUSLÄUFER', 'EINES', 'TIEFS', 'VERLAGERT', 'SICH', 'MORGEN', 'VOM', 'WESTEN', 'DEUTSCHLANDS', 'WEITER', 'NACH', 'OSTEN']] 
+ Predicted : ['EIN', 'TIEF', 'DAS', 'NACH', 'SKANDINAVIEN', 'ZIEHT', 'BRINGT', 'UNS', 'MORGEN', 'IN', 'DIE', 'MITTE', 'DEUTSCHLANDS']
+The BLEU Score :  12.335941086169 
+
+
+
+
+ Pair : 201
+ Target : [['MORGEN', 'DANN', 'EIGENTLICH', 'RECHT', 'FREUNDLICH', 'IN', 'NORDDEUTSCHLAND']] 
+ Predicted : ['SONST', 'IM', 'NORDEN', 'AUCH', 'EIN', 'BISSCHEN', 'SONNIG']
+The BLEU Score :  12.308842999658138 
+
+
+
+
+ Pair : 202
+ Target : [['AM', 'SAMSTAG', 'REGENSCHAUER', 'AUF', 'DEN', 'BERGEN', 'GEHT', 'DER', 'REGEN', 'TEILWEISE', 'IN', 'SCHNEE', 'ÜBER']] 
+ Predicted : ['AM', 'DONNERSTAG', 'AB', 'UND', 'AN', 'DEN', 'ALPEN', 'SCHNEIT', 'ES', 'ETWAS']
+The BLEU Score :  12.258122012055257 
+
+
+
+
+ Pair : 203
+ Target : [['AM', 'TAG', 'BREITEN', 'SICH', 'DIE', 'TEILWEISE', 'KRÄFTIGEN', 'SCHNEEFÄLLE', 'WEITER', 'AUS']] 
+ Predicted : ['HEUTE', 'NACHT', 'REGNET', 'ES', 'IM', 'NORDWESTEN']
+The BLEU Score :  12.216185820979012 
+
+
+
+
+ Pair : 204
+ Target : [['RICHTUNG', 'ALPEN', 'WEITER', 'DAUERREGEN']] 
+ Predicted : ['IM', 'SÜDEN', 'FÄLLT', 'NOCH', 'SCHNEE']
+The BLEU Score :  12.205007981935283 
+
+
+
+
+ Pair : 205
+ Target : [['DIESER', 'KRÄFTIGE', 'REGEN', 'FÄLLT', 'HEUTE', 'NACHT', 'VON', 'DER', 'OSTSEE', 'ÜBER', 'SACHSEN', 'BIS', 'NACH', 'BAYERN', 'AUCH', 'SONST', 'OFT', 'BEDECKT', 'IN', 'SCHLESWIG', 'HOLSTEIN', 'SOWIE', 'IM', 'SÜDWESTEN', 'AUCH', 'WOLKENLÜCKEN']] 
+ Predicted : ['HEUTE', 'NACHT', 'IST', 'ES', 'VERBREITET', 'KLAR', 'IM', 'SÜDEN', 'UND', 'SÜDOSTEN', 'SOWIE', 'IN', 'KÜSTENNÄHE', 'SOWIE', 'IN', 'KÜSTENNÄHE', 'SOWIE', 'IN', 'DER', 'MITTE', 'SCHEINT', 'DIE', 'SONNE']
+The BLEU Score :  12.111988074298084 
+
+
+
+
+ Pair : 206
+ Target : [['IM', 'SÜDEN', 'BLEIBT', 'ES', 'FREUNDLICHER', 'ALS', 'RICHTUNG', 'NORDEN', 'GEBIETSWEISE', 'GIBT', 'ES', 'AUCH', 'SCHAUER', 'ODER', 'KURZE', 'GEWITTER']] 
+ Predicted : ['IM', 'NORDEN', 'UND', 'SÜDWESTEN', 'BLEIBT', 'ES', 'BIS', 'ZUM', 'TEIL', 'FREUNDLICH', 'UND', 'TROCKEN']
+The BLEU Score :  12.063722855345011 
+
+
+
+
+ Pair : 207
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'FREITAG', 'DEN', 'DREIUNDZWANZIGSTEN', 'JULI']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'FREITAG', 'DEN', 'DREISSIGSTEN', 'AUGUST']
+The BLEU Score :  12.319310237110534 
+
+
+
+
+ Pair : 208
+ Target : [['IN', 'EINEM', 'STREIFEN', 'DAZWISCHEN', 'IST', 'ES', 'NOCH', 'FÜR', 'LÄNGERE', 'ZEIT', 'FREUNDLICH']] 
+ Predicted : ['IM', 'SÜDEN', 'FREUNDLICHER']
+The BLEU Score :  12.273352574082386 
+
+
+
+
+ Pair : 209
+ Target : [['ABGESEHEN', 'VON', 'GEWITTERBÖEN', 'WEHT', 'DER', 'WIND', 'SCHWACH', 'BIS', 'MÄSSIG', 'AUS', 'SÜDOST', 'BIS', 'SÜD']] 
+ Predicted : ['IM', 'NORDEN', 'FRISCHER', 'BIS', 'STARKER', 'WIND', 'AUS', 'SÜDOST']
+The BLEU Score :  12.240081654178518 
+
+
+
+
+ Pair : 210
+ Target : [['MASSIVER', 'WIRD', 'DER', 'REGEN', 'DANN', 'ALLERDINGS', 'AM', 'MITTWOCH', 'UND', 'AM', 'DONNERSTAG']] 
+ Predicted : ['JA', 'HEUTE', 'NACHT', 'WIRD', 'ES', 'SCHON', 'WIEDER', 'EIN', 'BISSCHEN', 'REGEN', 'UND', 'VOR', 'ALLEN', 'DINGEN', 'IN', 'DEN', 'NÄCHSTEN', 'STUNDEN', 'AUCH', 'IN', 'SÜDDEUTSCHLAND']
+The BLEU Score :  12.204104735974001 
+
+
+
+
+ Pair : 211
+ Target : [['UND', 'REGEN', 'BLEIBT', 'ES', 'WAHRSCHEINLICH', 'NÖRDLICH', 'DER', 'MITTELGEBIRGE', 'UND', 'AN', 'DER', 'NORDSEE', 'KOMMT', 'AUCH', 'HIER', 'UND', 'DA', 'DIE', 'SONNE', 'WIEDER', 'RAUS']] 
+ Predicted : ['UND', 'ES', 'WIRD', 'AUCH', 'IM', 'NORDEN', 'EIN', 'BISSCHEN', 'KÜHLER', 'UND', 'DAS', 'MIT', 'SONNE', 'UND', 'WOLKEN', 'IM', 'NORDOSTEN']
+The BLEU Score :  12.130347943596218 
+
+
+
+
+ Pair : 212
+ Target : [['DIE', 'AUSSICHTEN', 'AM', 'MONTAG', 'TEILS', 'SONNE', 'TEILS', 'WOLKEN', 'IM', 'WESTEN', 'SCHNEIT', 'ES', 'ETWAS']] 
+ Predicted : ['AM', 'FREITAG', 'REGNET', 'ES', 'GEBIETSWEISE', 'IM', 'NORDOSTEN', 'IST', 'ES', 'RECHT', 'FREUNDLICH']
+The BLEU Score :  12.086150460692544 
+
+
+
+
+ Pair : 213
+ Target : [['HEUTE', 'NACHT', 'MUSS', 'STELLENWEISE', 'WIEDER', 'MIT', 'BODENFROST', 'GERECHNET', 'WERDEN']] 
+ Predicted : ['HEUTE', 'NACHT', 'IST', 'ES', 'VERBREITET', 'KLAR']
+The BLEU Score :  12.06671398909 
+
+
+
+
+ Pair : 214
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'MONTAG', 'DEN', 'FÜNFTEN', 'JULI']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'MONTAG', 'DEN', 'AN', 'DEN', 'ALPEN', 'AUGUST']
+The BLEU Score :  12.314051660586642 
+
+
+
+
+ Pair : 215
+ Target : [['UND', 'AUCH', 'IN', 'DEN', 'MITTELGEBIRGEN', 'IM', 'SCHWARZWALD', 'FÜNFUNDZWANZIG', 'ZENTIMETER', 'IM', 'HARZ', 'BIS', 'ZU', 'SECHZIG', 'ZENTIMETER']] 
+ Predicted : ['UND', 'DAZU', 'WIRD', 'ES', 'DANN', 'AUCH', 'IN', 'DER', 'MITTE', 'UND', 'IM', 'SÜDEN', 'NOCH', 'EIN', 'BISSCHEN', 'KÜHLER']
+The BLEU Score :  12.271285197059466 
+
+
+
+
+ Pair : 216
+ Target : [['MORGEN', 'IM', 'NORDEN', 'ZUNÄCHST', 'NOCH', 'STARK', 'BEWÖLKT', 'MIT', 'EIN', 'PAAR', 'TROPFEN']] 
+ Predicted : ['AM', 'TAG', 'IM', 'NORDEN', 'UND', 'NORDWESTEN', 'MITUNTER', 'DICHTE', 'WOLKEN']
+The BLEU Score :  12.241799742015743 
+
+
+
+
+ Pair : 217
+ Target : [['AM', 'MONTAG', 'GIBT', 'ES', 'VERBREITET', 'SCHAUER', 'RICHTUNG', 'OSTEN', 'AUCH', 'NOCH', 'KRÄFTIGE', 'GEWITTER', 'IM', 'SÜDWESTEN', 'LÄNGERE', 'ZEIT', 'FREUNDLICH']] 
+ Predicted : ['AM', 'MONTAG', 'IM', 'NORDEN', 'UND', 'SÜDOSTEN', 'VIELE', 'WOLKEN', 'UND', 'EINZELNE', 'SCHAUER', 'SONST', 'IST', 'ES', 'IM', 'NORDWESTEN', 'FREUNDLICH']
+The BLEU Score :  12.196925290142852 
+
+
+
+
+ Pair : 218
+ Target : [['IM', 'NORDEN', 'DEUTSCHLANDS', 'SORGT', 'DAS', 'HOCH', 'MORGEN', 'FÜR', 'ETWAS', 'SONNE', 'SONST', 'GIBT', 'DAS', 'TIEF', 'DEN', 'TON', 'AN']] 
+ Predicted : ['NUR', 'IM', 'NORDEN', 'DEUTSCHLANDS', 'SORGT', 'EIN', 'TIEF', 'FÜR', 'ZUM', 'TEIL', 'WOLKEN']
+The BLEU Score :  12.220268189522038 
+
+
+
+
+ Pair : 219
+ Target : [['IM', 'NORDEN', 'UND', 'NORDWESTEN', 'MORGEN', 'VIELE', 'WOLKEN']] 
+ Predicted : ['IM', 'NORDWESTEN', 'FÄLLT', 'HEUTE', 'NACHT', 'GEBIETSWEISE', 'SCHNEE']
+The BLEU Score :  12.202277246500444 
+
+
+
+
+ Pair : 220
+ Target : [['AM', 'SAMSTAG', 'IN', 'DER', 'SÜDWESTHÄLFTE', 'MEIST', 'TROCKEN', 'SONST', 'MAL', 'SONNE', 'MAL', 'SCHAUER', 'IM', 'NORDOSTEN', 'GEWITTER']] 
+ Predicted : ['AM', 'SAMSTAG', 'IM', 'SÜDEN', 'UND', 'OSTEN', 'ZUM', 'TEIL', 'KRÄFTIGE', 'REGENFÄLLE', 'IM', 'NORDOSTEN', 'REGNET', 'ES', 'ETWAS']
+The BLEU Score :  12.169048325120443 
+
+
+
+
+ Pair : 221
+ Target : [['JETZT', 'WÜNSCHE', 'ICH', 'IHNEN', 'NOCH', 'EINEN', 'SCHÖNEN', 'ABEND']] 
+ Predicted : ['UND', 'DAMIT', 'SCHÖNEN', 'GUTEN', 'ABEND']
+The BLEU Score :  12.146761823709108 
+
+
+
+
+ Pair : 222
+ Target : [['DA', 'KÖNNEN', 'WIR', 'MIT', 'UNSEREM', 'OSTERWETTER', 'EIGENTLICH', 'GANZ', 'ZUFRIEDEN', 'SEIN']] 
+ Predicted : ['UND', 'AUS', 'DEM', 'NORDEN', 'DAGEGEN', 'FÄLLT', 'DANN', 'WIEDER', 'SCHNEE']
+The BLEU Score :  12.108349584384657 
+
+
+
+
+ Pair : 223
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'DONNERSTAG', 'DEN', 'VIERUNDZWANZIGSTEN', 'NOVEMBER']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'FREITAG', 'DEN', 'IM', 'FEBRUAR']
+The BLEU Score :  12.255530828921616 
+
+
+
+
+ Pair : 224
+ Target : [['DAS', 'HOCH', 'ÜBER', 'DEM', 'BALTIKUM', 'ZIEHT', 'WEITER', 'NACH', 'OSTEN', 'BESTIMMT', 'ABER', 'MORGEN', 'NOCH', 'UNSER', 'WETTER']] 
+ Predicted : ['DAS', 'HOCH', 'ÜBER', 'DEM', 'ATLANTIK', 'NACH', 'MITTELEUROPA', 'BRINGT', 'UNS', 'ABER', 'AUCH', 'NOCH', 'ETWAS', 'MILDERE', 'LUFT']
+The BLEU Score :  12.290315567134812 
+
+
+
+
+ Pair : 225
+ Target : [['BESONDERS', 'IN', 'DER', 'SÜDOSTHÄLFTE', 'LOKALE', 'UNWETTER', 'MIT', 'STARKREGEN', 'HAGEL', 'UND', 'STURMBÖEN']] 
+ Predicted : ['IM', 'SÜDEN', 'UND', 'SÜDEN', 'GIBT', 'ES', 'SCHAUER', 'UND', 'GEWITTER', 'SONST', 'NUR', 'NOCH', 'EINZELNE', 'SCHAUER']
+The BLEU Score :  12.250120392144371 
+
+
+
+
+ Pair : 226
+ Target : [['EIN', 'AUSLÄUFER', 'DES', 'TIEFS', 'ÜBER', 'DEM', 'NORDMEER', 'LENKT', 'ALLERDINGS', 'VON', 'NORDWESTEN', 'WOLKENFELDER', 'INS', 'LAND']] 
+ Predicted : ['IM', 'NORDEN', 'UND', 'NORDWESTEN', 'DEUTSCHLANDS', 'SORGT', 'DAS', 'TIEF', 'ÜBER', 'DER', 'NORDSEE', 'FÜR']
+The BLEU Score :  12.199929606174246 
+
+
+
+
+ Pair : 227
+ Target : [['IM', 'SÜDEN', 'MACHT', 'SICH', 'NOCH', 'LEICHTER', 'HOCHDRUCKEINFLUSS', 'BEMERKBAR']] 
+ Predicted : ['IM', 'SÜDEN', 'DEUTSCHLANDS', 'BLEIBT', 'ES', 'UNTER', 'HOCHDRUCKEINFLUSS', 'NOCH', 'RECHT', 'FREUNDLICH']
+The BLEU Score :  12.192043096547668 
+
+
+
+
+ Pair : 228
+ Target : [['HEUTE', 'NACHT', 'TEMPERATUREN', 'ZWISCHEN', 'ELF', 'UND', 'ACHTZEHN', 'GRAD']] 
+ Predicted : ['HEUTE', 'NACHT', 'VIERZEHN', 'GRAD', 'AM', 'NIEDERRHEIN', 'UND', 'BIS', 'ZU', 'FÜNFUNDZWANZIG', 'GRAD']
+The BLEU Score :  12.184023878869418 
+
+
+
+
+ Pair : 229
+ Target : [['BEI', '<BLANK>', 'UNWETTERN', 'SIND', 'SCHWERE', 'STURMBÖEN', 'MÖGLICH']] 
+ Predicted : ['BEI', 'GEWITTERN', 'SIND', 'STURMBÖEN', 'MÖGLICH']
+The BLEU Score :  12.18114118947083 
+
+
+
+
+ Pair : 230
+ Target : [['DIENSTAG', 'UND', 'MITTWOCH', 'MACHEN', 'SICH', 'DANN', 'AUSLÄUFER', 'EINES', 'ATLANTIKTIEFS', 'MIT', 'SCHAUERN', 'UND', 'GEWITTERN', 'BEMERKBAR']] 
+ Predicted : ['MORGEN', 'ERREICHEN', 'UNS', 'DANN', 'VON', 'WESTEN', 'DEUTSCHLANDS', 'WIEDER', 'REGENWOLKEN', 'UND', 'ES', 'AUCH', 'MORGEN', 'AUCH', 'NOCH', 'FÜR', 'KRÄFTIGE', 'SCHAUER', 'UND', 'GEWITTER']
+The BLEU Score :  12.13410968599233 
+
+
+
+
+ Pair : 231
+ Target : [['KÜHLE', 'SIEBEN', 'GRAD', 'HEUTE', 'NACHT', 'IM', 'ALLGÄU', 'BIS', 'SECHZEHN', 'AN', 'DER', 'NORDSEE']] 
+ Predicted : ['HEUTE', 'NACHT', 'FÜNFZEHN', 'GRAD', 'IM', 'ALLGÄU', 'BIS', 'ACHT', 'GRAD', 'AN', 'DER', 'OSTSEE']
+The BLEU Score :  12.158098485188448 
+
+
+
+
+ Pair : 232
+ Target : [['JA', 'DAS', 'WOCHENENDE', 'WIRD', 'WARM', 'ES', 'WIRD', 'SONNIG', 'BEI', 'UNS', 'JEDEN', 'TAG', 'EIN', 'PAAR', 'GRAD', 'MEHR']] 
+ Predicted : ['UND', 'DAZU', 'GIBT', 'ES', 'IM', 'NORDOSTEN', 'EIN', 'BISSCHEN', 'SONNE', 'ABER', 'ES', 'WIRD', 'ES', 'SCHON', 'WIEDER', 'SO', 'RICHTIG', 'WARM', 'UND', 'ES', 'HEUTE']
+The BLEU Score :  12.11333420929562 
+
+
+
+
+ Pair : 233
+ Target : [['IM', 'SÜDEN', 'SCHWACHER', 'WIND', 'IM', 'NORDEN', 'WEHT', 'ER', 'MÄSSIG', 'AN', 'DEN', 'KÜSTEN', 'IN', 'BÖEN', 'AUCH', 'STARK', 'BIS', 'STÜRMISCH']] 
+ Predicted : ['IM', 'SÜDEN', 'SCHWACHER', 'BIS', 'MÄSSIGER', 'WIND', 'AUS', 'WEST', 'BIS', 'SÜDOST']
+The BLEU Score :  12.0861170844402 
+
+
+
+
+ Pair : 234
+ Target : [['AM', 'FREITAG', 'WIEDER', '<BLANK>', 'WETTER', 'UND', 'KÜHLER']] 
+ Predicted : ['AM', 'FREITAG', 'WIRD', 'ES', 'DANN', 'DEUTLICH', 'KÜHLER']
+The BLEU Score :  12.079921024279312 
+
+
+
+
+ Pair : 235
+ Target : [['AM', 'TAG', 'MEIST', 'STARK', 'BEWÖLKT', 'ODER', 'NEBLIG', 'TRÜB', 'STELLENWEISE', 'FÄLLT', 'NOCH', 'ETWAS', 'SCHNEE', 'ODER', 'REGEN']] 
+ Predicted : ['AM', 'TAG', 'SCHNEIT', 'ES', 'GEBIETSWEISE', 'LEICHT', 'RICHTUNG', 'NORDOSTEN']
+The BLEU Score :  12.03569001005087 
+
+
+
+
+ Pair : 236
+ Target : [['DAS', 'TIEF', 'ÜBER', 'SÜDWESTEUROPA', 'BESCHERT', 'DEM', 'SÜDEN', 'REGEN']] 
+ Predicted : ['DER', 'REGEN', 'DER', 'NORDSEE', 'DEUTSCHLANDS', 'NOCH', 'IM', 'NORDEN', 'UND', 'OSTEN']
+The BLEU Score :  12.011183707671643 
+
+
+
+
+ Pair : 237
+ Target : [['TIEFS', 'ÜBER', 'GROSSBRITANNIEN', 'FRANKREICH', 'UND', 'DEM', 'ÖSTLICHEN', 'MITTELEUROPA', 'SORGEN', 'BEI', 'UNS', 'NUR', 'GEBIETSWEISE', 'FÜR', 'ETWAS', 'SCHNEE']] 
+ Predicted : ['DAS', 'TIEF', 'DAS', 'VON', 'SKANDINAVIEN', 'UND', 'MORGEN', 'ABEND']
+The BLEU Score :  11.952683726190957 
+
+
+
+
+ Pair : 238
+ Target : [['HALLO', 'UND', 'GUTEN', 'ABEND', 'LIEBE', 'ZUSCHAUER']] 
+ Predicted : ['GUTEN', 'ABEND', 'LIEBE', 'ZUSCHAUER']
+The BLEU Score :  12.017589607120591 
+
+
+
+
+ Pair : 239
+ Target : [['ES', 'WEHT', 'MEIST', 'EIN', 'SCHWACHER', 'WIND', 'AUS', 'NÖRDLICHEN', 'BIS', 'WESTLICHEN', 'RICHTUNGEN']] 
+ Predicted : ['DER', 'WIND', 'WEHT', 'SCHWACH', 'BIS', 'MÄSSIG', 'AN', 'DER', 'SEE', 'AUCH', 'FRISCH']
+The BLEU Score :  11.986587922535794 
+
+
+
+
+ Pair : 240
+ Target : [['UND', 'DORT', 'GIBT', 'ES', 'MORGEN', 'ZUNÄCHST', 'GRÖSSERE', 'WOLKENLÜCKEN']] 
+ Predicted : ['AM', 'TAG', 'IM', 'SÜDEN', 'UND', 'OSTEN', 'ZUM', 'TEIL', 'DICHTE', 'WOLKEN', 'AUS']
+The BLEU Score :  11.962383305816902 
+
+
+
+
+ Pair : 241
+ Target : [['SIE', 'TRENNT', 'KALTE', 'LUFT', 'NÖRDLICH', 'DAVON', 'VON', 'MILDERER', 'LUFT', 'WEITER', 'SÜDLICH']] 
+ Predicted : ['NUR', 'DER', 'NORDWESTEN', 'DEUTSCHLANDS', 'VON', 'DEM', 'TIEF', 'ÜBER', 'DEM', 'ATLANTIK', 'MACHT', 'SICH', 'MORGEN', 'BEI', 'UNS']
+The BLEU Score :  11.925126462928795 
+
+
+
+
+ Pair : 242
+ Target : [['DIE', 'KÖNNEN', 'AM', 'SONNTAG', 'BEI', 'BIS', 'ZU', 'DREISSIG', 'GRAD', 'ÖRTLICH', 'WIEDER', 'UNWETTERPOTENZIAL', 'ENTWICKELN']] 
+ Predicted : ['AM', 'SONNTAG', 'WECHSELHAFT', 'MIT', 'VIEL', 'SONNE', 'UND', 'GEWITTERN']
+The BLEU Score :  11.890994763729903 
+
+
+
+
+ Pair : 243
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'FREITAG', 'DEN', 'ELFTEN', 'DEZEMBER']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'MITTWOCH', 'DEN', 'SÜDEN', 'DEZEMBER']
+The BLEU Score :  12.032482240815483 
+
+
+
+
+ Pair : 244
+ Target : [['DAS', 'HOCH', 'ÜBER', 'SKANDINAVIEN', 'LENKT', 'EISIGE', 'LUFT', 'AUS', 'RUSSLAND', 'HERAN']] 
+ Predicted : ['DAS', 'TIEF', 'ÜBER', 'SKANDINAVIEN', 'LENKT', 'DAS', 'TIEF', 'ÜBER', 'DEUTSCHLAND']
+The BLEU Score :  12.037385585216784 
+
+
+
+
+ Pair : 245
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'MONTAG', 'DEN', 'EINUNDZWANZIGSTEN', 'FEBRUAR']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'DONNERSTAG', 'DEN', 'IM']
+The BLEU Score :  12.174482169091657 
+
+
+
+
+ Pair : 246
+ Target : [['MORGEN', 'REGNET', 'ES', 'VOR', 'ALLEM', 'NOCH', 'IN', 'DER', 'SÜDOSTHÄLFTE']] 
+ Predicted : ['IM', 'SÜDOSTEN', 'AM', 'ALPENRAND', 'REGEN', 'IM', 'BERGLAND', 'AUCH', 'SCHNEE']
+The BLEU Score :  12.143255762064612 
+
+
+
+
+ Pair : 247
+ Target : [['IN', 'DER', 'SÜDHÄLFTE', 'PRÄSENTIERT', 'SICH', 'DAS', 'WETTER', 'FREUNDLICHER']] 
+ Predicted : ['IM', 'SÜDEN', 'BLEIBT', 'ES', 'MEIST', 'NOCH', 'FREUNDLICH', 'IM', 'SÜDEN', 'TROCKEN']
+The BLEU Score :  12.116262195787284 
+
+
+
+
+ Pair : 248
+ Target : [['AM', 'TAG', 'FÜNF', 'GRAD', 'BEI', 'NEBEL', 'UND', 'FÜNFZEHN', 'GRAD', 'BEI', 'FÖHN', 'AN', 'DEN', 'ALPEN']] 
+ Predicted : ['AM', 'TAG', 'MINUS', 'FÜNF', 'GRAD', 'IM', 'BREISGAU', 'UND', 'BIS', 'PLUS', 'FÜNF', 'GRAD']
+The BLEU Score :  12.096751541362616 
+
+
+
+
+ Pair : 249
+ Target : [['HEUTE', 'NACHT', 'SIND', 'IM', 'NORDEN', 'UND', 'IN', 'DER', 'MITTE', 'EIN', 'PAAR', 'SCHAUER', 'UNTERWEGS', 'AN', 'DEN', 'ALPEN', 'REGNET', 'ES', 'HIER', 'UND', 'DA']] 
+ Predicted : ['IM', 'NORDEN', 'UND', 'WESTEN', 'IST', 'ES', 'HEUTE', 'NACHT', 'MEIST', 'STARK', 'BEWÖLKT', 'SONST', 'REGNET', 'ES', 'AUCH', 'FÜR', 'LÄNGERE', 'ZEIT']
+The BLEU Score :  12.078000567721423 
+
+
+
+
+ Pair : 250
+ Target : [['ABER', 'IN', 'DIESEN', 'STUNDEN', 'ZIEHEN', 'JA', 'NOCH', 'ETLICHE', 'SCHAUER', 'UND', 'GEWITTER', 'NACH', 'OSTEN']] 
+ Predicted : ['UND', 'AM', 'NACHMITTAG', 'KOMMT', 'DANN', 'EIN', 'BISSCHEN', 'MILDERE', 'LUFT', 'VON', 'WESTEN']
+The BLEU Score :  12.033768512548189 
+
+
+
+
+ Pair : 251
+ Target : [['ES', 'WIRD', 'WOHL', 'EIN', '<BLANK>', 'AUF', 'UND', 'AB', 'BLEIBEN']] 
+ Predicted : ['ALSO', 'ES', 'WIRD', 'NOCH', 'EIN', 'BISSCHEN', 'WÄRMER']
+The BLEU Score :  12.01977515022772 
+
+
+
+
+ Pair : 252
+ Target : [['TIEFER', 'LUFTDRUCK', 'BESTIMMT', 'IN', 'DEN', 'NÄCHSTEN', 'TAGEN', 'UNSER', 'WETTER']] 
+ Predicted : ['TIEFER', 'LUFTDRUCK', 'BESTIMMT', 'AUCH', 'IN', 'DEN', 'NÄCHSTEN', 'TAGEN', 'HEUTE', 'NACHT']
+The BLEU Score :  12.104594634251121 
+
+
+
+
+ Pair : 253
+ Target : [['RICHTUNG', 'SÜDWESTEN', 'BEKOMMT', 'AUCH', 'DIE', 'SONNE', 'GELEGENTLICH', 'EINE', 'CHANCE']] 
+ Predicted : ['RICHTUNG', 'SÜDEN', 'RECHT', 'FREUNDLICH']
+The BLEU Score :  12.07786401662071 
+
+
+
+
+ Pair : 254
+ Target : [['AM', 'MITTWOCH', 'HIER', 'UND', 'DA', 'NIESELREGEN', 'IN', 'DER', 'NORDWESTHÄLFTE', 'AN', 'DEN', 'KÜSTEN', 'KRÄFTIGER', 'WIND']] 
+ Predicted : ['AM', 'MITTWOCH', 'TEILS', 'SONNE', 'TEILS', 'WOLKEN', 'IM', 'NORDEN', 'UND', 'AN', 'DEN', 'KÜSTEN', 'EIN', 'PAAR', 'SCHAUER']
+The BLEU Score :  12.078210079277644 
+
+
+
+
+ Pair : 255
+ Target : [['ZUSAMMEN', 'MIT', 'DIESER', 'KÜHLEN', '<BLANK>', 'LUFT', 'VERLAGERN', 'SICH', 'HEUTE', 'NACHT', 'AUCH', 'TEILWEISE', 'KRÄFTIGE', 'REGENFÄLLE', 'IN', 'DIE', 'SÜDOSTHÄLFTE', 'DEUTSCHLANDS']] 
+ Predicted : ['DER', 'REGEN', 'BRINGT', 'MORGEN', 'NOCH', 'VON', 'NORDWESTEN', 'ZIEHT', 'EIN', 'PAAR', 'TROPFEN']
+The BLEU Score :  12.01152692750333 
+
+
+
+
+ Pair : 256
+ Target : [['AM', 'MITTWOCH', 'WINDIGES', 'ZUM', 'TEIL', 'AUCH', 'STÜRMISCHES', 'REGENWETTER']] 
+ Predicted : ['AM', 'MITTWOCH', 'UNBESTÄNDIGES', 'WETTER', 'DAZU', 'IST', 'ES', 'WINDIG']
+The BLEU Score :  11.99877723971709 
+
+
+
+
+ Pair : 257
+ Target : [['IN', 'NORDDEUTSCHLAND', 'DAGEGEN', 'NUR', 'WOLKEN', 'UND', 'DER', 'FROST', 'JA', 'DEN', 'HABEN', 'WIR', 'WIEDER', 'IN', 'DER', 'SÜDHÄLFTE']] 
+ Predicted : ['HEUTE', 'NACHT', 'WIRD', 'ES', 'IM', 'SÜDEN', 'UND', 'IM', 'SÜDEN', 'KLAR', 'UND', 'DIE', 'TEMPERATUREN', 'DREI', 'BIS', 'SIEBEN', 'GRAD', 'SONST', 'VERBREITET']
+The BLEU Score :  11.94295673761606 
+
+
+
+
+ Pair : 258
+ Target : [['DER', 'LÖST', 'SICH', 'MORGEN', 'MEHR', 'ODER', 'WENIGER', 'RASCH', 'AUF', 'VOR', 'ALLEM', 'IN', 'DER', 'NORDOSTHÄLFTE', 'GIBT', 'ES', 'AUCH', 'NOCH', 'EINIGE', 'WOLKEN', 'ABER', 'ES', 'BLEIBT', 'TROCKEN']] 
+ Predicted : ['AUCH', 'IN', 'DER', 'NACHT', 'ZUM', 'TEIL', 'KLAR', 'UND', 'IM', 'SÜDEN', 'MUSS', 'MIT', 'DABEI']
+The BLEU Score :  11.869487851862102 
+
+
+
+
+ Pair : 259
+ Target : [['AM', 'FREITAG', 'IN', 'DER', 'SÜDOSTHÄLFTE', 'ZUM', 'TEIL', 'NOCH', 'FREUNDLICH', 'WÄHREND', 'SICH', 'DIE', 'WOLKEN', 'VON', 'NORDWESTEN', 'VERDICHTEN', 'UND', 'GEBIETSWEISE', 'REGEN', 'BRINGEN']] 
+ Predicted : ['AM', 'FREITAG', 'IM', 'NORDEN', 'UND', 'NORDWESTEN', 'UND', 'NORDWESTEN', 'NOCH', 'VIELE', 'WOLKEN', 'DIE', 'GEBIETSWEISE', 'REGEN', 'BRINGEN', 'SONST', 'MEIST', 'FREUNDLICH', 'UND', 'TROCKEN']
+The BLEU Score :  11.860752747799557 
+
+
+
+
+ Pair : 260
+ Target : [['AM', 'WOCHENENDE', 'SORGT', 'DANN', 'EIN', 'HOCH', 'DAS', 'SICH', 'VON', 'SPANIEN', 'AUSBREITET', 'WIEDER', 'FÜR', 'SONNENSCHEIN', 'UND', 'TEILWEISE', 'SOMMERLICHE', 'TEMPERATUREN']] 
+ Predicted : ['AM', 'WOCHENENDE', 'ERREICHT', 'UNS', 'DANN', 'EIN', 'HOCH', 'DIE', 'TEMPERATUREN', 'BIS', 'FREITAG', 'DEN', 'NORDEN', 'DEUTSCHLANDS']
+The BLEU Score :  11.846307174503785 
+
+
+
+
+ Pair : 261
+ Target : [['AM', 'TAG', 'DANN', 'VIERZEHN', 'GRAD', 'AN', 'DEN', 'KÜSTEN', 'BEI', 'REGEN', 'EINUNDZWANZIG', 'GRAD', 'AM', 'OBERRHEIN']] 
+ Predicted : ['AM', 'TAG', 'NEUN', 'GRAD', 'IM', 'NORDEN', 'UND', 'BIS', 'SECHZEHN', 'GRAD', 'AN', 'DER', 'OSTSEE']
+The BLEU Score :  11.825560703209286 
+
+
+
+
+ Pair : 262
+ Target : [['MITTWOCH', 'KEINE', 'SONNE', 'DAFÜR', 'IM', 'WESTEN', 'SCHNEEREGEN', 'UND', 'SCHNEE', 'ABER', 'DANN', 'WIRD', 'ES', 'LANGSAM', 'TROCKENER']] 
+ Predicted : ['UND', 'DAS', 'WETTER', 'WIRD', 'SICH', 'MORGEN', 'AUCH', 'MORGEN', 'LANGSAM', 'VON', 'WESTEN', 'DIE', 'REGENWOLKEN', 'ZIEHT', 'WEITER', 'RICHTUNG', 'OSTEN', 'ERREICHEN']
+The BLEU Score :  11.784375982452733 
+
+
+
+
+ Pair : 263
+ Target : [['IN', 'DEN', 'NÄCHSTEN', 'TAGEN', 'STEIGEN', 'DIE', 'TEMPERATUREN', 'AUCH', 'IM', 'ÜBRIGEN', 'LAND']] 
+ Predicted : ['DIE', 'TEMPERATUREN', 'MORGEN', 'IM', 'SÜDWESTEN', 'BIS', 'ZU', 'ZWEIUNDZWANZIG', 'GRAD']
+The BLEU Score :  11.76361204844674 
+
+
+
+
+ Pair : 264
+ Target : [['DAS', 'BEDEUTET', 'VIELE', 'WOLKEN', 'UND', 'IMMER', 'WIEDER', 'ZUM', 'TEIL', 'KRÄFTIGE', 'SCHAUER', 'UND', 'GEWITTER']] 
+ Predicted : ['AUCH', 'IN', 'DEN', 'KOMMENDEN', 'TAGEN', 'GEHT', 'DIE', 'EIN', 'WENIG', 'IN', 'DEN', 'NÄCHSTEN', 'TAGEN']
+The BLEU Score :  11.720038688038837 
+
+
+
+
+ Pair : 265
+ Target : [['SPÄTER', 'SETZT', 'IM', 'NORDOSTEN', 'VERBREITET', 'REGEN', 'EIN', 'IM', 'NORDWESTEN', 'BLEIBT', 'ES', 'TROCKEN']] 
+ Predicted : ['IM', 'ÜBRIGEN', 'LAND', 'MAL', 'SONNE', 'MAL', 'WOLKEN', 'UND', 'MEIST', 'TROCKEN']
+The BLEU Score :  11.686345200391365 
+
+
+
+
+ Pair : 266
+ Target : [['GUTEN', 'ABEND', 'LIEBE', 'ZUSCHAUER']] 
+ Predicted : ['GUTEN', 'ABEND', 'LIEBE', 'ZUSCHAUER']
+The BLEU Score :  11.75281450234784 
+
+
+
+
+ Pair : 267
+ Target : [['IM', 'WESTEN', 'LÄSST', 'DER', 'REGEN', 'LANGSAM', 'NACH']] 
+ Predicted : ['UND', 'DAMIT', 'SCHÖNEN', 'GUTEN', 'ABEND']
+The BLEU Score :  11.733001838099009 
+
+
+
+
+ Pair : 268
+ Target : [['DA', 'KOMMEN', 'DIE', 'GEWITTER', 'ERST', 'MORGEN', 'NACHMITTAG', 'HIN']] 
+ Predicted : ['UND', 'AM', 'SONNTAG', 'DANN', 'AUCH', 'WIEDER', 'AUS']
+The BLEU Score :  11.70929439568357 
+
+
+
+
+ Pair : 269
+ Target : [['DIE', 'NACHT', 'VERLÄUFT', 'WEITGEHEND', 'TROCKEN', 'EIN', 'PAAR', 'SCHNEEFLOCKEN', 'ODER', 'REGENTROPFEN', 'FALLEN', 'AM', 'EHESTEN', 'IM', 'SÜDOSTEN']] 
+ Predicted : ['IN', 'DER', 'NACHT', 'REGNET', 'ES', 'IM', 'NORDEN', 'UND', 'IM', 'SÜDEN', 'ÖRTLICH', 'NOCH', 'KRÄFTIG']
+The BLEU Score :  11.66442663572337 
+
+
+
+
+ Pair : 270
+ Target : [['ZEITWEISE', 'FÄLLT', 'REGEN', 'IM', 'BERGLAND', 'IST', 'AUCH', 'SCHNEE', 'DABEI']] 
+ Predicted : ['DA', 'ES', 'AUCH', 'NOCH', 'VIELE', 'WOLKEN', 'UND', 'REGEN']
+The BLEU Score :  11.642621210902742 
+
+
+
+
+ Pair : 271
+ Target : [['DAS', 'HEISST', 'DIE', 'MISCHUNG', 'AUS', 'NEBEL', 'HOCHNEBEL', 'UND', 'SONNE', 'DAUERT', 'AN']] 
+ Predicted : ['DIE', 'SCHNEEFALLGRENZE', 'SINKT', 'AUF', 'ETWA', 'IST', 'ES']
+The BLEU Score :  11.610956116649962 
+
+
+
+
+ Pair : 272
+ Target : [['IM', 'NORDEN', 'KANN', 'SICH', 'MORGEN', 'AUCH', 'MAL', 'DIE', 'SONNE', 'BLICKEN', 'LASSEN']] 
+ Predicted : ['UND', 'DIE', 'SONNE', 'ZEIGT', 'SICH', 'NUR', 'IN', 'DER', 'NORDSEE']
+The BLEU Score :  11.591173322732043 
+
+
+
+
+ Pair : 273
+ Target : [['IM', 'LAUFE', 'DES', 'TAGES', 'WIRD', 'ES', 'IN', 'DER', 'WESTHÄLFTE', 'FREUNDLICHER', 'MIT', 'SONNIGEN', '<BLANK>']] 
+ Predicted : ['SONST', 'MEIST', 'FREUNDLICH', 'UND', 'TROCKEN']
+The BLEU Score :  11.550067977189112 
+
+
+
+
+ Pair : 274
+ Target : [['KÜHLE', 'LUFT', 'STRÖMT', 'ZU', 'UNS']] 
+ Predicted : ['DAS', 'HOCH', 'ÜBER', 'DEM', 'ATLANTIK', 'STRÖMT']
+The BLEU Score :  11.54082811410132 
+
+
+
+
+ Pair : 275
+ Target : [['BESONDERS', 'IN', 'DEN', '<BLANK>', 'BILDET', 'SICH', 'NEBEL']] 
+ Predicted : ['NACH', 'SÜDEN', 'IST', 'ES', 'FREUNDLICHER']
+The BLEU Score :  11.52178416891299 
+
+
+
+
+ Pair : 276
+ Target : [['ÄHNLICH', 'VERLÄUFT', 'DER', 'MITTWOCH']] 
+ Predicted : ['ES', 'BLEIBT', 'NOCH', 'EIN', 'WENIG', 'WÄRMER']
+The BLEU Score :  11.513540847506684 
+
+
+
+
+ Pair : 277
+ Target : [['BEI', 'UNS', 'KOMMT', 'AUCH', 'NOCH', 'KRÄFTIGER', 'WIND', 'DAZU', 'VOR', 'ALLEN', 'DINGEN', 'IN', 'DER', 'NORDHÄLFTE', 'MIT', 'STÜRMISCHEN', 'BÖEN', 'AN', 'DER', 'KÜSTE']] 
+ Predicted : ['UND', 'MORGEN', 'WIRD', 'ES', 'ETWAS', 'KÜHLER', 'AM', 'ALPENRAND', 'DA', 'SIND', 'ES', 'EIN', 'BISSCHEN', 'KÜHLER', 'MIT', 'DABEI', 'AN', 'DER', 'OSTSEE']
+The BLEU Score :  11.460899689880145 
+
+
+
+
+ Pair : 278
+ Target : [['SPÄTER', 'IM', 'WESTEN', 'WIEDER', 'SCHAUER', 'UND', 'GEWITTER']] 
+ Predicted : ['AM', 'MONTAG', 'WIEDER', 'FREUNDLICHER', 'UND', 'WECHSELHAFT']
+The BLEU Score :  11.447323023785797 
+
+
+
+
+ Pair : 279
+ Target : [['ES', 'BLEIBT', 'MILD', 'BEI', 'UNS', 'TEMPERATUREN', 'AUCH', 'IN', 'NORDDEUTSCHLAND', 'ZWÖLF', 'BIS', 'VIERZEHN', 'IM', 'SÜDEN', 'VIERZEHN', 'BIS', 'SECHZEHN', 'GRAD']] 
+ Predicted : ['UND', 'ES', 'BLEIBT', 'ES', 'IM', 'NORDEN', 'UND', 'SÜDEN', 'ABER', 'AUCH', 'NOCH', 'EIN', 'BISSCHEN', 'KÜHLER', 'IM', 'SÜDEN']
+The BLEU Score :  11.414431781695816 
+
+
+
+
+ Pair : 280
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'FREITAG', 'DEN', 'SECHSTEN', 'MAI']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'MITTWOCH', 'DEN', 'DREISSIGSTEN', 'JANUAR']
+The BLEU Score :  11.538764675665924 
+
+
+
+
+ Pair : 281
+ Target : [['ABER', 'JETZT', 'WERDEN', 'SIE', 'NACH', 'OSTEN', 'ABZIEHEN', 'DABEI', 'DIE', 'SCHWÜLE', 'LUFT', '<BLANK>']] 
+ Predicted : ['UND', 'DIE', 'NÄCHSTEN', 'TAGE', 'WERDEN', 'ABER', 'IM', 'WESTEN', 'SCHON', 'MAL', 'EIN', 'BISSCHEN', 'MILDER']
+The BLEU Score :  11.509343576280894 
+
+
+
+
+ Pair : 282
+ Target : [['ABER', 'DAZWISCHEN', 'WIRD', 'ES', 'EIN', 'SEHR', 'MILDER', 'TAG', 'MIT', 'NEUN', 'BIS', 'VIERZEHN', 'GRAD']] 
+ Predicted : ['UND', 'WIR', 'HABEN', 'AUCH', 'TAGSÜBER', 'EINE', 'SEHR', 'KÜHLE', 'LUFT', 'DA', 'KANN', 'ES', 'DANN', 'AUCH', 'MAL', 'DIE', 'SONNE', 'IN', 'DEN', 'GANZEN', 'TAG']
+The BLEU Score :  11.475676394311634 
+
+
+
+
+ Pair : 283
+ Target : [['ES', 'GELTEN', 'ENTSPRECHENDE', 'UNWETTERWARNUNGEN', 'DES', 'DEUTSCHEN', 'WETTERDIENSTES']] 
+ Predicted : ['ES', 'GELTEN', 'ENTSPRECHENDE', 'UNWETTERWARNUNGEN', 'DES', 'DEUTSCHEN', 'WETTERDIENSTES']
+The BLEU Score :  11.64596272736991 
+
+
+
+
+ Pair : 284
+ Target : [['HEUTE', 'NACHT', 'TEMPERATUREN', 'ZWISCHEN', 'MINUS', 'DREI', 'UND', 'MINUS', 'SIEBZEHN', 'GRAD', 'WO', 'ES', 'LÄNGER', 'AUFKLART', 'WERTE', 'DARUNTER']] 
+ Predicted : ['HEUTE', 'NACHT', 'MINUS', 'FÜNF', 'GRAD', 'AM', 'OBERRHEIN', 'BIS', 'MINUS', 'FÜNFZEHN', 'GRAD', 'AN', 'DER', 'OSTSEE']
+The BLEU Score :  11.613772104393181 
+
+
+
+
+ Pair : 285
+ Target : [['JETZT', 'WÜNSCHE', 'ICH', 'IHNEN', 'NOCH', 'EINEN', 'SCHÖNEN', 'ABEND']] 
+ Predicted : ['IHNEN', 'NOCH', 'EINEN', 'SCHÖNEN', 'ABEND']
+The BLEU Score :  11.701469227087525 
+
+
+
+
+ Pair : 286
+ Target : [['MORGEN', 'AM', 'ALPENRAND', 'ZUNÄCHST', 'NOCH', 'REGEN', 'ODER', 'SCHNEE']] 
+ Predicted : ['MORGEN', 'IM', 'SÜDEN', 'NOCH', 'REGEN', 'SONST', 'MEIST', 'TROCKEN', 'UND', 'SONNIG', 'TEILWEISE', 'AUCH', 'IN', 'ALPENNÄHE']
+The BLEU Score :  11.692287520877251 
+
+
+
+
+ Pair : 287
+ Target : [['IHNEN', 'NOCH', 'EINEN', 'SCHÖNEN', 'ABEND']] 
+ Predicted : ['IHNEN', 'NOCH', 'EINEN', 'SCHÖNEN', 'ABEND']
+The BLEU Score :  11.790086502743563 
+
+
+
+
+ Pair : 288
+ Target : [['VOM', 'MEER', 'ZIEHEN', 'HEUTE', 'NACHT', 'EINIGE', 'WOLKEN', 'LANDEINWÄRTS', 'MEIST', 'BLEIBT', 'ES', 'ABER', 'KLAR']] 
+ Predicted : ['HEUTE', 'NACHT', 'IST', 'ES', 'MEIST', 'KLAR', 'NUR', 'VEREINZELT', 'EIN', 'PAAR', 'TROPFEN']
+The BLEU Score :  11.768620961320986 
+
+
+
+
+ Pair : 289
+ Target : [['IM', 'BAYERISCHEN', 'WALD', 'HEUTE', 'NACHT', 'MINUS', 'FÜNF', 'IM', 'EMSLAND', 'BIS', 'PLUS', 'DREI', 'GRAD']] 
+ Predicted : ['IM', 'NORDOSTEN', 'HEUTE', 'NACHT', 'MINUS', 'ZWEI', 'BIS', 'MINUS', 'ZWEI', 'GRAD', 'IM', 'NORDWESTEN']
+The BLEU Score :  11.770051882114252 
+
+
+
+
+ Pair : 290
+ Target : [['HINTER', 'DEM', 'TIEF', 'FLIESST', 'POLARE', 'KALTLUFT', 'HERAN', 'DIE', 'FÜR', 'SCHNEE', 'UND', 'GLÄTTEGEFAHR', 'SORGT']] 
+ Predicted : ['UND', 'DIE', 'SCHNEEFALLGRENZE', 'SINKT', 'BREITEN', 'SICH', 'MORGEN', 'WEITER', 'NACH', 'OSTEN', 'AUS', 'DEM', 'ATLANTIK', 'SORGT']
+The BLEU Score :  11.739550639932581 
+
+
+
+
+ Pair : 291
+ Target : [['UND', 'AUS', 'DIESEM', 'SCHNEE', 'KANN', 'ABER', 'AUCH', 'MAL', 'GANZ', 'SCHNELL', 'EISREGEN', 'WERDEN', 'UND', 'DAS', 'BEDEUTET', 'GEFÄHRLICH', 'GLATTE', 'STRASSEN']] 
+ Predicted : ['UND', 'IN', 'DEN', 'NÄCHSTEN', 'TAGEN', 'WIRD', 'ES', 'BEI', 'UNS', 'EHER', 'NOCH', 'EIN', 'BISSCHEN', 'MILDER', 'UND', 'REGEN']
+The BLEU Score :  11.686501979704698 
+
+
+
+
+ Pair : 292
+ Target : [['IHNEN', 'EINEN', 'SCHÖNEN', 'ABEND', 'UND', 'MACHEN', 'SIE', 'ES', 'GUT']] 
+ Predicted : ['IHNEN', 'EINEN', 'SCHÖNEN', 'ABEND', 'UND', 'MACHEN', 'SIE', 'ES', 'GUT']
+The BLEU Score :  11.92019058819251 
+
+
+
+
+ Pair : 293
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'SONNTAG', 'DEN', 'SIEBTEN', 'OKTOBER']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'SONNTAG', 'DEN', 'DREISSIGSTEN', 'AUGUST']
+The BLEU Score :  12.110256062004659 
+
+
+
+
+ Pair : 294
+ Target : [['IN', 'DER', 'NACHT', 'ZIEHEN', 'DIE', 'SCHNEEFÄLLE', 'ALLMÄHLICH', 'IN', 'DIE', 'SÜDLICHEN', 'UND', 'ÖSTLICHEN', 'LANDESTEILE', 'AM', 'TAG', 'EINIGE', 'SCHNEESCHAUER', 'IM', 'NORDOSTEN', 'SCHNEIT', 'ES', 'TEILWEISE', 'LÄNGER']] 
+ Predicted : ['HEUTE', 'NACHT', 'FÄLLT', 'IM', 'SÜDEN', 'ZUM', 'TEIL', 'KRÄFTIGER', 'SCHNEEFALL', 'IM', 'NORDEN', 'UND', 'IN', 'DER', 'SÜDHÄLFTE', 'TEILWEISE', 'KRÄFTIGER', 'REGEN']
+The BLEU Score :  12.054597215785844 
+
+
+
+
+ Pair : 295
+ Target : [['MORGEN', 'IM', 'VOGTLAND', 'KÜHLE', 'VIER', 'GRAD', 'SONST', 'WERTE', 'VON', 'SECHS', 'BIS', 'ELF', 'AM', 'OBERRHEIN', 'BIS', 'ZWÖLF', 'GRAD']] 
+ Predicted : ['IM', 'NORDEN', 'HEUTE', 'NACHT', 'ACHT', 'AM', 'OBERRHEIN', 'BIS', 'ELF', 'GRAD']
+The BLEU Score :  12.04508813612904 
+
+
+
+
+ Pair : 296
+ Target : [['ELF', 'GRAD', 'HEUTE', 'NACHT', 'IM', 'ALLGÄU', 'BIS', 'SIEBZEHN', 'AN', 'NECKAR', 'UND', 'SPREE']] 
+ Predicted : ['HEUTE', 'NACHT', 'TEMPERATUREN', 'ZWISCHEN', 'FÜNFZEHN', 'UND', 'FÜNF', 'GRAD', 'AM', 'NIEDERRHEIN', 'UND', 'ELF', 'GRAD']
+The BLEU Score :  12.032985232485375 
+
+
+
+
+ Pair : 297
+ Target : [['AM', 'SAMSTAG', 'IM', 'NORDEN', 'EINZELNE', 'SCHAUER', 'SONST', 'IST', 'ES', 'FREUNDLICH', 'GANZ', 'IM', 'SÜDEN', 'SPÄTER', 'REGEN']] 
+ Predicted : ['AM', 'MITTWOCH', 'TEILS', 'SONNE', 'TEILS', 'WOLKEN', 'IM', 'BERGLAND', 'AUCH', 'EINZELNE', 'GEWITTER']
+The BLEU Score :  11.993424660653687 
+
+
+
+
+ Pair : 298
+ Target : [['AUCH', 'IM', 'NORDEN', 'UND', 'WESTEN', 'WIRD', 'ES', 'SPÄTER', 'GEBIETSWEISE', 'REGNEN']] 
+ Predicted : ['IM', 'NORDEN', 'UND', 'NORDWESTEN', 'REGNET', 'ES', 'NUR', 'LEICHT']
+The BLEU Score :  11.99760493044745 
+
+
+
+
+ Pair : 299
+ Target : [['ERST', 'RICHTUNG', 'SÜDEN', 'SO', 'ALPENRAND', 'WERDEN', 'DIE', 'WOLKEN', 'DICHTER', 'UND', 'ZWISCHEN', 'DONAU', 'UND', 'ALPENRAND', 'KANN', 'ES', 'AUCH', 'IMMER', 'NOCH', 'EIN', 'BISSCHEN', 'SCHNEIEN', 'WIRD', 'ABER', 'AUCH', 'IM', 'LAUFE', 'DES', 'TAGES', 'WENIGER']] 
+ Predicted : ['UND', 'AUCH', 'IM', 'SÜDEN', 'REGNET', 'ES', 'NOCH', 'GEBIETSWEISE', 'AN', 'DEN', 'ALPEN', 'KANN', 'ES', 'AUCH', 'NOCH', 'ETWAS', 'SCHNEIEN']
+The BLEU Score :  11.950085782590676 
+
+
+
+
+ Pair : 300
+ Target : [['AM', 'MONTAG', 'ÄHNLICHES', 'WETTER', 'ABER', 'WIEDER', 'DEUTLICH', 'WÄRMER']] 
+ Predicted : ['AM', 'MITTWOCH', 'WIEDER', 'WECHSELHAFT', 'UND', 'KÜHLER']
+The BLEU Score :  11.933401696475753 
+
+
+
+
+ Pair : 301
+ Target : [['AUCH', 'AM', 'DONNERSTAG', 'NEBEN', 'SONNE', 'GEBIETSWEISE', 'HEFTIGE', 'SCHAUER', 'ODER', 'GEWITTER']] 
+ Predicted : ['AM', 'MONTAG', 'TEILS', 'SONNE', 'TEILS', 'WOLKEN', 'HIER', 'UND', 'DA', 'SCHAUER', 'ODER', 'GEWITTER']
+The BLEU Score :  11.93964301949517 
+
+
+
+
+ Pair : 302
+ Target : [['IN', 'DER', 'NACHT', 'IST', 'ES', 'TEILS', 'WOLKIG', 'TEILS', 'KLAR', 'STELLENWEISE', 'GIBT', 'ES', 'SCHAUER', 'ODER', 'GEWITTER']] 
+ Predicted : ['IN', 'DER', 'NACHT', 'FALLEN', 'SCHAUER', 'UND', 'GEWITTER', 'SONST', 'IST', 'ES', 'MEIST', 'KLAR']
+The BLEU Score :  11.942086401627446 
+
+
+
+
+ Pair : 303
+ Target : [['DEUTLICH', 'MILDER', 'IST', 'ES', 'UNTER', 'DEN', 'WOLKEN', 'NORDDEUTSCHLANDS']] 
+ Predicted : ['DIE', 'NÄCHSTEN', 'TAGE', 'WERDEN', 'ABER', 'GANZ', 'FREUNDLICH', 'TEILWEISE', 'SOGAR', 'MAL', 'IM', 'NORDEN']
+The BLEU Score :  11.919949019887731 
+
+
+
+
+ Pair : 304
+ Target : [['DER', 'WIND', 'WEHT', 'SCHWACH', 'BIS', 'MÄSSIG', 'AN', 'DEN', 'KÜSTEN', 'TEILWEISE', 'FRISCH']] 
+ Predicted : ['DER', 'WIND', 'WEHT', 'SCHWACH', 'BIS', 'MÄSSIG', 'AUS', 'UNTERSCHIEDLICHEN', 'RICHTUNGEN']
+The BLEU Score :  12.027196037221254 
+
+
+
+
+ Pair : 305
+ Target : [['DORT', 'MORGEN', 'NEUNZEHN', 'IM', 'BREISGAU', 'BIS', 'SIEBENUNDZWANZIG', 'GRAD']] 
+ Predicted : ['MORGEN', 'TEMPERATUREN', 'VON', 'SECHZEHN', 'GRAD', 'AM', 'OBERRHEIN', 'BIS', 'SECHSUNDZWANZIG', 'GRAD']
+The BLEU Score :  12.012603033021362 
+
+
+
+
+ Pair : 306
+ Target : [['BESONDERS', 'IN', 'KÜSTENNÄHE', 'TAUCHEN', 'AUCH', 'MAL', 'WOLKEN', 'AUF', 'DIE', 'ABER', 'KEINEN', 'REGEN', 'BRINGEN']] 
+ Predicted : ['DABEI', 'GIBT', 'ES', 'MORGEN', 'VIELE', 'WOLKEN', 'ABER', 'ES', 'IST', 'ES', 'ABER', 'KAUM', 'REGEN']
+The BLEU Score :  11.980740682743827 
+
+
+
+
+ Pair : 307
+ Target : [['IM', 'OSTEN', 'UND', 'SÜDOSTEN', 'BEGINNT', 'DER', 'TAG', 'NOCH', 'FREUNDLICH', 'WÄHREND', 'IM', 'ÜBRIGEN', 'LAND', 'SCHON', 'SCHAUER', 'UND', 'GEWITTER', 'UNTERWEGS', 'SIND']] 
+ Predicted : ['IM', 'ÜBRIGEN', 'LAND', 'ERST', 'AM', 'TAG', 'BREITEN', 'SICH', 'VON', 'WESTEN', 'DIE', 'SONNE', 'BIS', 'IN', 'DER', 'MITTE']
+The BLEU Score :  11.955908616450238 
+
+
+
+
+ Pair : 308
+ Target : [['BIS', 'IN', 'DIE', 'NACHT', 'HINEIN', 'AN', 'DER', 'OSTSEE', 'GEFAHR', 'VON', 'ORKANARTIGEN', 'BÖEN']] 
+ Predicted : ['IM', 'NORDOSTEN', 'UND', 'IM', 'NORDEN', 'FRISCHER', 'BIS', 'STARKER', 'WIND']
+The BLEU Score :  11.923413834285183 
+
+
+
+
+ Pair : 309
+ Target : [['DORT', 'MORGEN', 'BIS', 'PLUS', 'SECHS', 'GRAD', 'IN', 'VORPOMMERN', 'GIBT', 'ES', 'LEICHTEN', 'FROST']] 
+ Predicted : ['AM', 'TAG', 'WERTE', 'ZWISCHEN', 'MINUS', 'ZWEI', 'UND', 'SIEBEN', 'GRAD']
+The BLEU Score :  11.891105753318287 
+
+
+
+
+ Pair : 310
+ Target : [['IM', 'OSTEN', 'UND', 'SÜDEN', 'GIBT', 'ES', 'HEUTE', 'NACHT', 'DICHTE', 'WOLKEN', 'HIER', 'UND', 'DA', 'ETWAS', 'SCHNEE']] 
+ Predicted : ['IM', 'OSTEN', 'UND', 'SÜDOSTEN', 'BLEIBT', 'ES', 'BIS', 'ZUM', 'TEIL', 'NOCH', 'WOLKIG', 'ODER', 'SCHNEEREGEN']
+The BLEU Score :  11.87809045399088 
+
+
+
+
+ Pair : 311
+ Target : [['SPÄTER', 'WIRD', 'ES', 'IM', 'NORDWESTEN', 'WIEDER', 'WOLKIGER', 'UND', 'ES', 'GIBT', 'EINIGE', 'ZUM', 'TEIL', 'GEWITTRIGE', 'SCHAUER']] 
+ Predicted : ['IM', 'NORDEN', 'GIBT', 'ES', 'SPÄTER', 'IM', 'NORDWESTEN', 'EINZELNE', 'SCHAUER', 'ODER', 'GEWITTER']
+The BLEU Score :  11.853793797212685 
+
+
+
+
+ Pair : 312
+ Target : [['DEM', 'WESTEN', 'UND', 'SÜDEN', 'BRINGT', 'DAS', 'TIEF', 'ÜBER', 'DEM', 'BALKAN', 'WIEDER', 'KRÄFTIGE', 'SCHAUER', 'UND', 'GEWITTER', 'ES', 'BESTEHEN', 'UNWETTERWARNUNGEN', 'DES', 'DEUTSCHEN', 'WETTERDIENSTES']] 
+ Predicted : ['VOR', 'ALLEM', 'IN', 'DER', 'MITTE', 'UND', 'SÜDEN', 'DEUTSCHLANDS', 'WIRD', 'UNS', 'MORGEN', 'TEILWEISE', 'HEFTIGE', 'SCHAUER', 'UND', 'GEWITTER', 'UND', 'TROCKEN']
+The BLEU Score :  11.828920613130906 
+
+
+
+
+ Pair : 313
+ Target : [['AM', 'TAG', 'NUR', 'HIER', 'UND', 'DA', 'EINIGE', 'SONNIGE', 'MOMENTE', 'VOR', 'ALLEM', 'AN', 'DEN', 'ALPEN']] 
+ Predicted : ['AM', 'FREUNDLICHSTEN', 'WIRD', 'ES', 'IM', 'NORDOSTEN', 'AUCH', 'MAL', 'SONNIG']
+The BLEU Score :  11.790862878404587 
+
+
+
+
+ Pair : 314
+ Target : [['IM', 'OSTEN', 'MIT', 'DER', 'SONNE', 'WIRD', 'ES', 'NOCHMAL', 'AM', 'WÄRMSTEN', 'DORT', 'DURCHAUS', 'BIS', 'SECHSUNDZWANZIG', 'IM', 'SÜDEN', 'BIS', 'SIEBENUNDZWANZIG', 'GRAD']] 
+ Predicted : ['DIE', 'TEMPERATUREN', 'MORGEN', 'WIEDER', 'IM', 'SÜDEN', 'MIT', 'DREIZEHN', 'BIS', 'ZWANZIG', 'GRAD']
+The BLEU Score :  11.751808335727972 
+
+
+
+
+ Pair : 315
+ Target : [['HEUTE', 'NACHT', 'ZWANZIG', 'GRAD', 'IM', 'RUHRGEBIET', 'UND', 'ELF', 'GRAD', 'IN', 'EINIGEN', 'MITTELGEBIRGSTÄLERN']] 
+ Predicted : ['HEUTE', 'NACHT', 'ZEHN', 'GRAD', 'AM', 'NIEDERRHEIN', 'UND', 'ZWEI', 'GRAD', 'IM', 'SÜDEN']
+The BLEU Score :  11.74357849030494 
+
+
+
+
+ Pair : 316
+ Target : [['BEI', 'LEICHTEM', 'FROST', 'IST', 'HEUTE', 'NACHT', 'ÖRTLICH', 'REIFGLÄTTE', 'MÖGLICH', 'AM', 'NIEDERRHEIN', 'DAGEGEN', 'BIS', 'PLUS', 'ACHT', 'GRAD']] 
+ Predicted : ['HEUTE', 'NACHT', 'MINUS', 'ZWEI', 'GRAD', 'IM', 'ALLGÄU', 'BIS', 'PLUS', 'DREI', 'GRAD']
+The BLEU Score :  11.720184285316833 
+
+
+
+
+ Pair : 317
+ Target : [['ANSONSTEN', 'BRINGT', 'DAS', 'TIEF', 'SCHNEE']] 
+ Predicted : ['DABEI', 'STRÖMT', 'SEHR', 'KALTE', 'LUFT', 'ZU', 'UNS']
+The BLEU Score :  11.709587623921488 
+
+
+
+
+ Pair : 318
+ Target : [['IM', 'SÜDEN', 'UND', 'WESTEN', 'WIRD', 'ES', 'KLAR', 'MORGEN', 'FRÜH', 'SIND', 'ES', 'VIER', 'BIS', 'NEUN', 'GRAD']] 
+ Predicted : ['IM', 'WESTEN', 'SIND', 'ES', 'NUR', 'BIS', 'ZU', 'ZWEIUNDZWANZIG', 'GRAD']
+The BLEU Score :  11.686461830080079 
+
+
+
+
+ Pair : 319
+ Target : [['AUSSERDEM', 'BRINGT', 'ES', 'MORGEN', 'DEM', 'NORDEN', 'UNBESTÄNDIGES', 'WETTER', 'DAS', 'SICH', 'AM', 'SONNTAG', 'AUCH', 'AUF', 'DIE', 'MITTE', 'AUSBREITET']] 
+ Predicted : ['AM', 'FREUNDLICHSTEN', 'WIRD', 'ES', 'IM', 'SÜDEN', 'UND', 'IN', 'DER', 'MITTE', 'DEUTSCHLANDS']
+The BLEU Score :  11.644484584603214 
+
+
+
+
+ Pair : 320
+ Target : [['DER', 'SÜDEN', 'KOMMT', 'DABEI', 'BESSER', 'WEG', 'ALS', 'DER', 'NORDEN']] 
+ Predicted : ['SONST', 'SCHEINT', 'VERBREITET', 'DIE', 'SONNE']
+The BLEU Score :  11.62163539948579 
+
+
+
+
+ Pair : 321
+ Target : [['SCHNEESCHAUER', 'GIBT', 'ES', 'VOR', 'ALLEM', 'IN', 'KÜSTENNÄHE']] 
+ Predicted : ['AUCH', 'AN', 'DEN', 'KÜSTEN', 'IST', 'ES', 'REGNET', 'ES']
+The BLEU Score :  11.607181953289054 
+
+
+
+
+ Pair : 322
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'SAMSTAG', 'DEN', 'ZWEITEN', 'OKTOBER']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'SAMSTAG', 'DEN', 'DREISSIGSTEN', 'JULI']
+The BLEU Score :  11.781733232780438 
+
+
+
+
+ Pair : 323
+ Target : [['NACH', 'SÜDEN', 'HIN', 'WIRD', 'ES', 'RUHIGER', 'FREUNDLICHER', 'UND', 'AUCH', 'EIN', 'BISSCHEN', 'MILDER']] 
+ Predicted : ['DIE', 'NÄCHSTEN', 'TAGE', 'BRINGEN', 'AUCH', 'NICHT', 'VIEL', 'REGEN']
+The BLEU Score :  11.751293952648773 
+
+
+
+
+ Pair : 324
+ Target : [['AM', 'FREUNDLICHSTEN', 'WIRD', 'ES', 'AM', 'MEER']] 
+ Predicted : ['AM', 'FREUNDLICHSTEN', 'WIRD', 'ES', 'IM', 'NORDEN']
+The BLEU Score :  11.800297693055283 
+
+
+
+
+ Pair : 325
+ Target : [['AM', 'TAG', 'WECHSELN', 'SONNE', 'UND', 'WOLKEN', 'EINANDER', 'AB', 'TEILWEISE', 'IST', 'ES', 'AUCH', 'LÄNGERE', 'ZEIT', 'SONNIG']] 
+ Predicted : ['IM', 'SÜDEN', 'TEILWEISE', 'FREUNDLICH', 'UND', 'AUCH', 'LÄNGERE', 'ZEIT', 'SONNIG']
+The BLEU Score :  11.824925125579453 
+
+
+
+
+ Pair : 326
+ Target : [['SONST', 'SETZT', 'SICH', 'VON', 'SÜDWESTEN', 'ALLMÄHLICH', 'DIE', 'SONNE', 'DURCH']] 
+ Predicted : ['SONST', 'VIEL', 'SONNE', 'VON', 'SÜDWESTEN']
+The BLEU Score :  11.816689264384324 
+
+
+
+
+ Pair : 327
+ Target : [['AM', 'MITTWOCH', 'TEILS', 'SONNE', 'TEILS', 'WOLKEN', 'UND', 'ES', 'BLEIBT', 'MEIST', 'TROCKEN']] 
+ Predicted : ['AM', 'MONTAG', 'EIN', 'GRAD', 'IM', 'NORDEN', 'UND', 'NORDOSTEN', 'IST', 'ES', 'WINDIG']
+The BLEU Score :  11.793877174098814 
+
+
+
+
+ Pair : 328
+ Target : [['IM', 'NORDEN', 'UND', 'SPÄTER', 'AUCH', 'IM', 'SÜDOSTEN', 'SIND', 'ZUM', 'TEIL', 'KRÄFTIGE', 'SCHAUER', 'UND', 'GEWITTER', 'DABEI']] 
+ Predicted : ['IM', 'SÜDEN', 'UND', 'OSTEN', 'GIBT', 'ES', 'SCHAUER', 'UND', 'GEWITTER', 'DIE', 'IM', 'NORDEN', 'TEILWEISE', 'KRÄFTIG', 'SEIN', 'KÖNNEN']
+The BLEU Score :  11.793837982892748 
+
+
+
+
+ Pair : 329
+ Target : [['IM', 'OSTEN', 'UND', 'SÜDEN', 'BLEIBT', 'ES', 'HEUTE', 'NACHT', 'MEIST', 'TROCKEN', 'UND', 'TEILWEISE', 'AUCH', 'NOCH', 'KLAR', 'SONST', 'FÄLLT', 'ZUM', 'TEIL', 'SCHAUERARTIGER', 'REGEN']] 
+ Predicted : ['IM', 'SÜDEN', 'BEGINNT', 'DER', 'TAG', 'MAL', 'MEHR', 'MAL', 'WENIGER', 'WOLKEN', 'DIE', 'SONNE', 'EIN', 'PAAR', 'SCHAUER', 'BRINGEN']
+The BLEU Score :  11.737399155682807 
+
+
+
+
+ Pair : 330
+ Target : [['NICHT', 'NUR', 'DORT', 'SONDERN', 'AUCH', 'IN', 'DER', 'NÄHE', 'VON', 'FLÜSSEN', 'UND', 'IN', 'DEN', 'ALPEN', 'KANN', 'SICH', 'IN', 'DER', 'NACHT', 'NEBEL', 'ODER', 'HOCHNEBEL', 'BILDEN']] 
+ Predicted : ['IN', 'DER', 'SÜDHÄLFTE', 'AUCH', 'VON', 'ERZGEBIRGE', 'REGNET', 'ES', 'HEUTE', 'NACHT', 'NOCH', 'KRÄFTIGER']
+The BLEU Score :  11.6877768615609 
+
+
+
+
+ Pair : 331
+ Target : [['IHNEN', 'SCHÖNEN', 'ABEND', 'UND', 'MACHEN', 'SIE', 'ES', 'GUT']] 
+ Predicted : ['IHNEN', 'EINEN', 'SCHÖNEN', 'ABEND', 'UND', 'MACHEN', 'SIE', 'ES', 'GUT']
+The BLEU Score :  11.832105807889821 
+
+
+
+
+ Pair : 332
+ Target : [['IN', 'DER', 'MITTE', 'HALTEN', 'SICH', 'ALLERDINGS', 'WOLKEN', 'DIE', 'MORGEN', 'STELLENWEISE', 'FÜR', 'SCHAUER', 'ODER', 'GEWITTER', 'SORGEN']] 
+ Predicted : ['AM', 'TAG', 'IM', 'NORDEN', 'UND', 'NORDWESTEN', 'EINIGE', 'WOLKEN', 'SONST', 'VIEL', 'SONNE', 'GANZ', 'VEREINZELT', 'SCHAUER']
+The BLEU Score :  11.794845410716103 
+
+
+
+
+ Pair : 333
+ Target : [['AUCH', 'AM', 'OBERRHEIN', 'NEHMEN', 'GEGEN', 'ABEND', 'DIE', 'WOLKEN', 'ZU']] 
+ Predicted : ['IM', 'OSTEN', 'UND', 'SÜDEN', 'SCHEINT', 'DIE', 'SONNE', 'MORGEN', 'WIRD', 'ES', 'AUCH', 'DORT', 'ÖRTLICH', 'BILDET', 'SICH', 'NEBEL']
+The BLEU Score :  11.776127101049696 
+
+
+
+
+ Pair : 334
+ Target : [['IM', 'ÜBRIGEN', 'LAND', 'MAL', 'SONNE', 'MAL', 'WOLKEN', 'UND', 'NUR', 'VEREINZELTE', 'SCHAUER']] 
+ Predicted : ['SONST', 'MAL', 'SONNE', 'MAL', 'WOLKEN', 'UND', 'NUR', 'HIER', 'UND', 'DA', 'SCHAUER']
+The BLEU Score :  11.876347045211848 
+
+
+
+
+ Pair : 335
+ Target : [['UND', 'EHER', 'WECHSELHAFT', 'GEHT', 'ES', 'MIT', 'UNSEREM', 'WETTER', 'AUCH', 'WEITER']] 
+ Predicted : ['UND', 'DAMIT', 'SCHÖNEN', 'GUTEN', 'ABEND']
+The BLEU Score :  11.853136391720952 
+
+
+
+
+ Pair : 336
+ Target : [['ABER', 'IM', 'WESTEN', 'IST', 'DAS', 'ALLES', 'VORBEI', 'STATT', 'FÜNFUNDZWANZIG', 'GRAD', 'NOCH', 'VIERZEHN', 'BIS', 'ACHTZEHN']] 
+ Predicted : ['UND', 'DIE', 'TEMPERATUREN', 'WERDEN', 'AUCH', 'AM', 'RHEIN', 'IST', 'ES', 'NOCH', 'EIN', 'BISSCHEN', 'MILDER']
+The BLEU Score :  11.819328308280893 
+
+
+
+
+ Pair : 337
+ Target : [['SONST', 'GIBT', 'ES', 'HIER', 'UND', 'DA', 'SCHAUER', 'BESONDERS', 'RICHTUNG', 'NORDSEE']] 
+ Predicted : ['AM', 'TAG', 'IST', 'ES', 'MEIST', 'STARK', 'BEWÖLKT']
+The BLEU Score :  11.796198684930689 
+
+
+
+
+ Pair : 338
+ Target : [['DARAN', 'ÄNDERT', 'SICH', 'AUCH', 'AM', 'DONNERSTAG', 'NUR', 'WENIG']] 
+ Predicted : ['DABEI', 'IST', 'ES', 'RECHT', 'MILD']
+The BLEU Score :  11.777200323622651 
+
+
+
+
+ Pair : 339
+ Target : [['HEUTE', 'NACHT', 'MINUS', 'ZWEI', 'GRAD', 'AN', 'DER', 'NORDSEE', 'IN', 'DER', 'MITTE', 'MITUNTER', 'WERTE', 'UNTER', 'MINUS', 'ZWANZIG', 'GRAD']] 
+ Predicted : ['HEUTE', 'NACHT', 'MINUS', 'EIN', 'GRAD', 'AN', 'DER', 'OSTSEE', 'UND', 'MINUS', 'SIEBZEHN', 'GRAD', 'IM', 'NORDOSTEN']
+The BLEU Score :  11.788672183118676 
+
+
+
+
+ Pair : 340
+ Target : [['IN', 'DER', 'NEUEN', 'WOCHE', 'WIRD', 'ES', 'MILDER', 'ABER', 'ES', 'BLEIBT', 'WECHSELHAFT']] 
+ Predicted : ['AUCH', 'IN', 'DER', 'NEUEN', 'WOCHE', 'ERSTMAL', 'UNBESTÄNDIGES', 'WETTER']
+The BLEU Score :  11.820045130609527 
+
+
+
+
+ Pair : 341
+ Target : [['DIE', 'NACHT', 'AKTUELL', '<BLANK>', 'NOCH', 'SEHR', 'SEHR', 'WARM', 'DAS', 'SIND', 'ERST', 'DIE', 'TIEFSTEN', 'TEMPERATUREN', 'DIE', 'ERST', 'GEGEN', 'MORGEN', 'ERREICHT', 'WERDEN']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'DONNERSTAG', 'DEN', 'IM', 'OSTEN', 'FEBRUAR']
+The BLEU Score :  11.768833924871053 
+
+
+
+
+ Pair : 342
+ Target : [['UND', 'ES', 'WIRD', 'DANN', 'AUCH', 'BIS', 'FREITAG', 'WIEDER', 'KÜHLER']] 
+ Predicted : ['UND', 'VOR', 'ALLEN', 'DINGEN', 'IM', 'SÜDEN', 'WIRD', 'ES', 'DANN', 'WIEDER', 'ETWAS', 'WÄRMER']
+The BLEU Score :  11.75748526006984 
+
+
+
+
+ Pair : 343
+ Target : [['VON', 'DER', 'LAUSITZ', 'BIS', 'NACH', 'OSTBAYERN', 'BLEIBT', 'ES', 'BIS', 'ZUM', 'ABEND', 'NOCH', 'TROCKEN']] 
+ Predicted : ['IM', 'NORDOSTEN', 'BLEIBT', 'ES', 'TROCKEN', 'UND', 'ZUM', 'TEIL', 'FREUNDLICH']
+The BLEU Score :  11.73749336184455 
+
+
+
+
+ Pair : 344
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'FREITAG', 'DEN', 'VIERUNDZWANZIGSTEN', 'DEZEMBER']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'FREITAG', 'DEN']
+The BLEU Score :  11.900658216879567 
+
+
+
+
+ Pair : 345
+ Target : [['IM', 'LAUFE', 'DER', 'NACHT', 'WERDEN', 'IM', 'NORDEN', 'DIE', 'WOLKEN', 'DICHTER', 'ES', 'FÄLLT', 'ETWAS', 'REGEN']] 
+ Predicted : ['DIE', 'WOLKEN', 'DES', 'TIEFS', 'ÜBER', 'DEM', 'NORDEN', 'UND', 'BRINGEN', 'ETWAS', 'REGEN']
+The BLEU Score :  11.88469229718692 
+
+
+
+
+ Pair : 346
+ Target : [['ÜBER', 'DEN', 'NORDEN', 'UND', 'NORDOSTEN', 'ZIEHEN', 'WIEDER', 'EINIGE', 'WOLKEN', 'DURCH', 'ANSONSTEN', 'NUR', 'EIN', 'PAAR', 'SCHLEIERWOLKEN']] 
+ Predicted : ['IM', 'NORDEN', 'UND', 'NORDOSTEN', 'GIBT', 'ES', 'HEUTE', 'NACHT', 'NOCH', 'EIN', 'PAAR', 'SCHAUER', 'SONST', 'IST', 'ES', 'KLAR']
+The BLEU Score :  11.88017633423656 
+
+
+
+
+ Pair : 347
+ Target : [['DAS', 'IST', 'JETZT', 'LANGSAM', 'IM', 'OSTEN', 'NACH', 'ABER', 'IM', 'SÜDEN', 'HABEN', 'SIE', 'WEITER', 'IN', 'DER', 'GANZEN', 'NACHT', 'NOCH', 'SCHAUER', 'UND', 'GEWITTER', 'AN', 'DER', 'NORDSEE']] 
+ Predicted : ['UND', 'IM', 'SÜDEN', 'WERDEN', 'DIE', 'SCHAUER', 'UND', 'GEWITTER', 'DANN', 'AUCH', 'NOCH', 'NICHT', 'VIEL', 'REGEN', 'UND', 'ES', 'GIBT', 'ABER', 'NUR', 'NOCH', 'AM', 'VORMITTAG', 'NOCH', 'SCHAUER', 'GEBEN']
+The BLEU Score :  11.857618910330064 
+
+
+
+
+ Pair : 348
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'SONNTAG', 'DEN', 'ZWÖLFTEN', 'DEZEMBER']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'SONNTAG', 'DEN']
+The BLEU Score :  12.018018788338507 
+
+
+
+
+ Pair : 349
+ Target : [['IN', 'DER', 'NACHT', 'IM', 'NORDEN', 'STURMBÖEN', 'AN', 'DEN', 'KÜSTEN', 'AUCH', 'ORKANARTIGE', 'BÖEN']] 
+ Predicted : ['DER', 'WIND', 'WEHT', 'SCHWACH', 'BIS', 'MÄSSIG', 'AN', 'DER', 'NORDSEE', 'AUCH', 'FRISCH']
+The BLEU Score :  11.99332967646265 
+
+
+
+
+ Pair : 350
+ Target : [['WIR', 'HABEN', 'ES', 'ZUM', 'EINEN', 'MIT', 'DAUERREGEN', 'ZU', 'TUN', 'SCHON', 'IN', 'DIESER', 'NACHT', 'IN', 'SÜDDEUTSCHLAND']] 
+ Predicted : ['UND', 'SO', 'BLEIBT', 'ES', 'AUCH', 'NICHT', 'TROCKEN', 'UND', 'IN', 'SÜDDEUTSCHLAND', 'NOCH', 'EIN', 'PAAR', 'SCHAUER']
+The BLEU Score :  11.964744914907584 
+
+
+
+
+ Pair : 351
+ Target : [['SONST', 'WEHT', 'DER', 'WIND', 'MEIST', 'SCHWACH', 'BIS', 'MÄSSIG', 'AUS', 'SÜD', 'BIS', 'WEST']] 
+ Predicted : ['DER', 'SÜDWESTWIND', 'BLÄST', 'SCHWACH', 'BIS', 'MÄSSIG', 'AN', 'DER', 'KÜSTE', 'AUCH', 'FRISCHER', 'WIND', 'AUS', 'WEST']
+The BLEU Score :  11.968238770596036 
+
+
+
+
+ Pair : 352
+ Target : [['DER', 'WIND', 'WEHT', 'MÄSSIG', 'BIS', 'FRISCH', 'AN', 'DER', 'KÜSTE', 'STARK', 'DORT', 'SOWIE', 'BEI', 'GEWITTERN', 'SIND', 'SCHWERE', 'STURMBÖEN', 'MÖGLICH']] 
+ Predicted : ['DER', 'WIND', 'WEHT', 'SCHWACH', 'BIS', 'MÄSSIG', 'AN', 'DER', 'KÜSTE', 'TEILWEISE', 'FRISCH', 'MIT', 'STÜRMISCHEN', 'BÖEN']
+The BLEU Score :  11.97765689100998 
+
+
+
+
+ Pair : 353
+ Target : [['IM', 'NORDOSTEN', 'GIBT', 'ES', 'NOCH', 'EINZELNE', 'SCHAUER', 'DIE', 'IN', 'DER', 'NACHT', 'ABER', 'RASCH', 'ABKLINGEN']] 
+ Predicted : ['IM', 'NORDOSTEN', 'GIBT', 'ES', 'MORGEN', 'IN', 'DER', 'MITTE', 'UND', 'AN', 'DER', 'OSTSEE', 'IST', 'ES', 'ZUM', 'TEIL', 'AUCH', 'NOCH', 'WOLKIG']
+The BLEU Score :  12.009004922273329 
+
+
+
+
+ Pair : 354
+ Target : [['IN', 'DER', 'NACHT', 'DREIZEHN', 'GRAD', 'AUF', 'SYLT', 'UND', 'NULL', 'GRAD', 'IN', 'DEN', 'MITTELGEBIRGSTÄLERN']] 
+ Predicted : ['HEUTE', 'NACHT', 'ZWANZIG', 'GRAD', 'IM', 'SÜDWESTEN', 'BIS', 'VIERZEHN', 'GRAD', 'IM', 'NORDOSTEN', 'ÖRTLICH', 'NUR', 'SIEBEN', 'GRAD']
+The BLEU Score :  11.981430846902061 
+
+
+
+
+ Pair : 355
+ Target : [['HEUTE', 'NACHT', 'DAGEGEN', 'FALLEN', 'NUR', 'EIN', 'PAAR', 'SCHNEEFLOCKEN', 'NOCH', 'IM', 'NORDEN', 'UND', 'AUCH', 'IM', 'SÜDOSTEN']] 
+ Predicted : ['HEUTE', 'NACHT', 'ALLERDINGS', 'IM', 'NORDEN', 'NOCH', 'TROCKEN', 'UND', 'AUCH', 'IM', 'OSTEN']
+The BLEU Score :  11.98832124994989 
+
+
+
+
+ Pair : 356
+ Target : [['UND', 'WAS', '<BLANK>', 'IST', 'SO', 'EINE', 'BISSCHEN', 'FRISCHE', 'LUFT', 'GANZ', 'ANGENEHM', 'MORGEN', 'FÜR', 'DEN', 'GRÖSSTEN', 'TEIL', 'DEUTSCHLANDS']] 
+ Predicted : ['ALSO', 'DIE', 'TEMPERATUREN', 'MORGEN', 'FRÜH', 'SIND', 'NOCH', 'EIN', 'BISSCHEN', 'IM', 'NORDEN']
+The BLEU Score :  11.947518846127855 
+
+
+
+
+ Pair : 357
+ Target : [['ES', 'GELTEN', 'WARNUNGEN', 'DES', 'DEUTSCHEN', 'WETTERDIENSTES']] 
+ Predicted : ['ES', 'BESTEHEN', 'ENTSPRECHENDE', 'WARNUNGEN', 'DES', 'DEUTSCHEN', 'WETTERDIENSTES']
+The BLEU Score :  11.993606275155313 
+
+
+
+
+ Pair : 358
+ Target : [['HEUTE', 'NACHT', 'IM', 'NORDEN', 'ÖRTLICH', 'STURMBÖEN', 'AUF', 'DEN', 'BERGEN', 'ORKANBÖEN']] 
+ Predicted : ['IN', 'DER', 'NACHT', 'BESONDERS', 'IM', 'NORDEN', 'UND', 'SÜDEN', 'SCHWERE', 'STURMBÖEN']
+The BLEU Score :  11.982538021344784 
+
+
+
+
+ Pair : 359
+ Target : [['NEBLIG', 'TRÜB', 'WIRD', 'ES', 'WOHL', 'MEIST', 'SEIN', 'DANN', 'AB', 'MITTAG', 'WERDEN', 'DIE', 'WOLKEN', 'IM', 'WESTEN', 'DICHTER', 'ES', 'BEGINNT', 'MASSIV', 'ZU', 'REGNEN']] 
+ Predicted : ['UND', 'DAS', 'WIRD', 'AUCH', 'MORGEN', 'NOCH', 'IM', 'LAUFE', 'DES', 'TAGES', 'DANN', 'EIN', 'BISSCHEN', 'KÜHLERE', 'LUFT']
+The BLEU Score :  11.93224093543176 
+
+
+
+
+ Pair : 360
+ Target : [['IN', 'DER', 'NACHT', 'MINUS', 'DREI', 'BIS', 'PLUS', 'VIER', 'AN', 'DER', 'KÜSTE', 'BIS', 'PLUS', 'FÜNF', 'GRAD']] 
+ Predicted : ['HEUTE', 'NACHT', 'SIEBEN', 'GRAD', 'IM', 'NORDEN', 'UND', 'ZWEI', 'GRAD', 'IM', 'NORDEN']
+The BLEU Score :  11.897825442462805 
+
+
+
+
+ Pair : 361
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'MITTWOCH', 'DEN', 'SECHZEHNTEN', 'FEBRUAR']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'DONNERSTAG', 'DEN', 'IM', 'FEBRUAR']
+The BLEU Score :  11.995148397567172 
+
+
+
+
+ Pair : 362
+ Target : [['IM', 'OSTEN', 'NOCH', 'DIE', 'WARMLUFT', 'BIS', 'DREISSIG', 'GRAD', 'IM', 'WESTEN', 'DAGEGEN', 'DANN', 'NUR', 'NOCH', 'FÜNFZEHN', 'SECHZEHN', 'GRAD']] 
+ Predicted : ['IM', 'WESTEN', 'SIND', 'SCHON', 'DICHTER', 'UND', 'IN', 'DEN', 'WESTEN', 'UND', 'IN', 'DEN', 'WESTEN', 'IST', 'ES', 'TRÜB', 'UND', 'VOR', 'ALLEM', 'IM', 'WESTEN']
+The BLEU Score :  11.961243106592079 
+
+
+
+
+ Pair : 363
+ Target : [['DABEI', 'DAS', 'WETTER', 'ABER', 'NICHT', 'UNFREUNDLICH', 'HÖCHSTENS', 'MAL', 'IM', 'OSTEN', 'UND', 'AUCH', 'IM', 'SÜDEN', 'EIN', 'PAAR', 'SCHAUER']] 
+ Predicted : ['UND', 'IM', 'OSTEN', 'BLEIBT', 'ES', 'AUCH', 'NOCH', 'TROCKEN', 'UND', 'VOR', 'ALLEM', 'IM', 'OSTEN', 'UND', 'SÜDEN']
+The BLEU Score :  11.94806868306298 
+
+
+
+
+ Pair : 364
+ Target : [['HEUTE', 'NACHT', 'JA', 'SCHON', 'REGEN', 'IM', 'WESTEN', 'DEUTSCHLANDS', 'DER', 'SICH', 'AUCH', 'LANGSAM', 'RICHTUNG', 'ELBE', 'AUSBREITET']] 
+ Predicted : ['UND', 'SO', 'WIRD', 'ES', 'DANN', 'IN', 'DEN', 'NÄCHSTEN', 'TAGEN', 'INSGESAMT', 'EIN', 'BISSCHEN', 'MILDER']
+The BLEU Score :  11.909830932461299 
+
+
+
+
+ Pair : 365
+ Target : [['IN', 'DER', 'NACHT', 'LOCKERT', 'ES', 'HIER', 'UND', 'DA', 'AUF', 'STELLENWEISE', 'KANN', 'SICH', 'NEBEL', 'ODER', 'HOCHNEBEL', 'BILDEN']] 
+ Predicted : ['HEUTE', 'NACHT', 'GIBT', 'ES', 'HIER', 'UND', 'DA', 'ETWAS', 'REGEN', 'IM', 'SÜDEN', 'AUCH', 'MAL', 'KLAR']
+The BLEU Score :  11.926010041157634 
+
+
+
+
+ Pair : 366
+ Target : [['ABER', 'TAGSÜBER', 'IST', 'ES', 'DANN', 'DORT', 'KÜHLER', 'ALS', 'IN', 'SÜDDEUTSCHLAND']] 
+ Predicted : ['UND', 'AUCH', 'IN', 'DEN', 'NÄCHSTEN', 'TAGEN', 'WIRD', 'ES', 'NOCH', 'EIN', 'BISSCHEN', 'MILDER']
+The BLEU Score :  11.906283259961366 
+
+
+
+
+ Pair : 367
+ Target : [['ZUR', 'ZEIT', 'GIBT', 'ES', 'ABER', 'NOCH', 'TEILWEISE', 'UNWETTERARTIGE', 'GEWITTER', 'DER', 'DEUTSCHE', 'WETTERDIENST', 'HAT', 'ENTSPRECHENDE', 'UNWETTERWARNUNGEN', 'HERAUSGEGEBEN']] 
+ Predicted : ['DIE', 'AUSSICHTEN', 'DAS', 'WETTER', 'IN', 'DER', 'NACHT', 'UND', 'IM', 'SÜDEN', 'DEUTSCHLANDS', 'UNTER', 'IN', 'DER', 'MITTE', 'DEUTSCHLANDS', 'DAS', 'WETTER']
+The BLEU Score :  11.867348522959158 
+
+
+
+
+ Pair : 368
+ Target : [['TIEFS', 'ÜBER', 'NORDEUROPA', 'BRINGEN', 'DEN', 'NORDWESTEN', 'DEUTSCHLANDS', 'MORGEN', 'SCHAUER', 'UND', 'DEM', 'SÜDOSTEN', 'GEWITTER']] 
+ Predicted : ['IM', 'LAUFE', 'DES', 'TAGES', 'ERREICHEN', 'UNS', 'ALLERDINGS', 'IM', 'SÜDEN', 'UND', 'SÜDWESTEN', 'WOLKEN', 'EINES', 'TIEFS', 'ÜBER', 'DEM', 'ATLANTIK']
+The BLEU Score :  11.847947387403817 
+
+
+
+
+ Pair : 369
+ Target : [['ÖRTLICH', 'FALLEN', 'SCHAUER', 'BESONDERS', 'IM', 'SÜDWESTEN', 'IST', 'ABENDS', 'AUCH', 'MIT', 'GEWITTERN', 'ZU', 'RECHNEN']] 
+ Predicted : ['AM', 'FREUNDLICHSTEN', 'IST', 'ES', 'IM', 'SÜDEN', 'UND', 'SÜDEN', 'IM', 'SÜDEN', 'TEILWEISE', 'FREUNDLICH']
+The BLEU Score :  11.820199529024409 
+
+
+
+
+ Pair : 370
+ Target : [['AN', 'DEN', 'KÜSTEN', 'HEUTE', 'NACHT', 'SCHWERE', 'STURMBÖEN', 'MORGEN', 'AUCH', 'ORKANBÖEN', 'SONST', 'BLÄST', 'DER', 'SÜDWESTWIND', 'FRISCH', 'BIS', 'STARK', 'MIT', 'STÜRMISCHEN', 'BÖEN']] 
+ Predicted : ['IN', 'DER', 'NACHT', 'AN', 'DER', 'KÜSTE', 'UND', 'AUF', 'DEN', 'BERGEN', 'ORKANBÖEN']
+The BLEU Score :  11.779402460923013 
+
+
+
+
+ Pair : 371
+ Target : [['IM', 'NORDWESTEN', 'FÄLLT', 'ETWAS', 'REGEN', 'ODER', 'SCHNEE', 'VORSICHT', 'GLÄTTE']] 
+ Predicted : ['SONST', 'MAL', 'WOLKIG', 'MAL', 'FREUNDLICH', 'UND', 'MEIST', 'TROCKEN']
+The BLEU Score :  11.759300369890399 
+
+
+
+
+ Pair : 372
+ Target : [['AM', 'TAG', 'MINUS', 'SIEBEN', 'GRAD', 'IM', 'VOGTLAND', 'UND', 'NULL', 'GRAD', 'AN', 'DER', 'OSTSEE']] 
+ Predicted : ['AM', 'TAG', 'MINUS', 'SIEBEN', 'GRAD', 'IM', 'NORDEN', 'UND', 'PLUS', 'EIN', 'GRAD', 'AN', 'AN', 'DER', 'OSTSEE']
+The BLEU Score :  11.874249580006186 
+
+
+
+
+ Pair : 373
+ Target : [['IN', 'KÜSTENNÄHE', 'GIBT', 'ES', 'HEUTE', 'NACHT', 'SCHNEESCHAUER', 'SONST', 'MAL', 'MEHR', 'MAL', 'WENIGER', 'WOLKEN', 'UND', 'ES', 'BLEIBT', 'ÜBERWIEGEND', 'TROCKEN']] 
+ Predicted : ['IN', 'DER', 'MITTE', 'UND', 'IM', 'SÜDEN', 'REGNET', 'ES', 'HEUTE', 'NACHT', 'GEBIETSWEISE']
+The BLEU Score :  11.857327867025175 
+
+
+
+
+ Pair : 374
+ Target : [['ERST', 'AM', 'FREITAG', 'AUCH', 'NOCH', 'SCHWÜL', 'WARM', 'AM', 'SAMSTAG', 'DANN', 'VON', 'WESTEN', 'LANGSAM', 'MIT', 'REGEN', 'EINE', 'DEUTLICHE', 'ABKÜHLUNG']] 
+ Predicted : ['UND', 'AM', 'FREITAG', 'SIND', 'ES', 'DANN', 'SOGAR', 'NOCH', 'EIN', 'BISSCHEN', 'REGEN', 'DER', 'VOR', 'ALLEN', 'DINGEN', 'IM', 'NORDWESTEN', 'UND', 'AUCH', 'IM', 'SÜDEN']
+The BLEU Score :  11.82828887671053 
+
+
+
+
+ Pair : 375
+ Target : [['AM', 'TAG', 'IST', 'ES', 'IM', 'NORDEN', 'UND', 'SÜDLICH', 'DER', 'DONAU', 'TROCKEN', 'SONST', 'AB', 'UND', 'AN', 'REGEN']] 
+ Predicted : ['IN', 'DER', 'OSTHÄLFTE', 'DEUTSCHLANDS', 'ZEIGT', 'SICH', 'MORGEN', 'NEBEN', 'DICHTEN', 'WOLKEN']
+The BLEU Score :  11.79116979869591 
+
+
+
+
+ Pair : 376
+ Target : [['AM', 'DIENSTAG', 'ÜBERALL', 'VIEL', 'SONNE', 'NUR', 'LOCKERE', 'WOLKEN', 'UND', 'TROCKEN']] 
+ Predicted : ['AM', 'MONTAG', 'VIEL', 'SONNE', 'UND', 'TROCKEN']
+The BLEU Score :  11.788003021710702 
+
+
+
+
+ Pair : 377
+ Target : [['AM', 'SONNTAG', 'ÜBERWIEGEND', 'FREUNDLICH']] 
+ Predicted : ['AM', 'SONNTAG', 'SCHEINT', 'MEIST', 'DIE', 'SONNE']
+The BLEU Score :  11.790472122243337 
+
+
+
+
+ Pair : 378
+ Target : [['DAS', 'TIEF', 'ÜBER', 'SÜDFRANKREICH', 'BRINGT', 'UNS', 'MORGEN', 'DICHTE', 'WOLKEN', 'DIE', 'ZUM', 'TEIL', 'KRÄFTIGE', 'SCHNEEFÄLLE', 'IM', 'GEPÄCK', 'HABEN']] 
+ Predicted : ['EIN', 'TIEF', 'LENKT', 'KÜHLERE', 'LUFT', 'HERAN', 'IN', 'DEN', 'NÄCHSTEN', 'TAGEN', 'FÜR', 'SCHNEE', 'UND', 'SEHR', 'WARME', 'LUFT']
+The BLEU Score :  11.750556528269538 
+
+
+
+
+ Pair : 379
+ Target : [['AM', 'OBERRHEIN', 'HEUTE', 'NACHT', 'BIS', 'PLUS', 'DREI', 'GRAD', 'SONST', 'VERBREITET', 'WERTE', 'UM', 'DEN', 'GEFRIERPUNKT', 'ODER', 'LEICHTER', 'FROST']] 
+ Predicted : ['IM', 'OSTEN', 'HEUTE', 'NACHT', 'MINUS', 'FÜNF', 'GRAD', 'IM', 'OSTEN', 'UND', 'MINUS', 'ACHT', 'GRAD', 'IM', 'NORDWESTEN']
+The BLEU Score :  11.719536389277357 
+
+
+
+
+ Pair : 380
+ Target : [['IN', 'DEN', 'NÄCHSTEN', 'TAGEN', 'ERWARTET', 'UNS', 'WECHSELHAFTES', 'WETTER']] 
+ Predicted : ['IM', 'SÜDEN', 'BLEIBT', 'ES', 'TROCKEN']
+The BLEU Score :  11.702901623789057 
+
+
+
+
+ Pair : 381
+ Target : [['IM', 'NORDEN', 'UND', 'WESTEN', 'LOCKERT', 'ES', 'NEBEN', 'EINIGEN', 'SCHNEESCHAUERN', 'AUCH', 'MAL', 'AUF']] 
+ Predicted : ['SONST', 'GIBT', 'ES', 'NEBEN', 'WOLKEN', 'UND', 'REGEN', 'RICHTUNG', 'NORDEN', 'AUCH', 'MAL', 'SONNE', 'UND', 'ES', 'BLEIBT', 'WEITGEHEND', 'TROCKEN']
+The BLEU Score :  11.695684643385658 
+
+
+
+
+ Pair : 382
+ Target : [['VON', 'WESTEN', 'BREITET', 'SICH', 'TEILS', 'SCHNEE', 'TEILS', 'REGEN', 'AUS', 'AUCH', 'GEFRIERENDER', 'REGEN', 'IST', 'IN', 'DER', 'NACHT', 'DABEI', 'UND', 'ES', 'MUSS', 'MIT', 'GEFÄHRLICHER', 'GLÄTTE', 'GERECHNET', 'WERDEN']] 
+ Predicted : ['IN', 'DER', 'NACHT', 'MUSS', 'MIT', 'TEILWEISE', 'KRÄFTIGER', 'REGEN', 'UND', 'AUCH', 'MIT', 'BLITZ', 'UND', 'DONNER']
+The BLEU Score :  11.671424526471577 
+
+
+
+
+ Pair : 383
+ Target : [['AM', 'MONTAG', 'AN', 'DEN', 'KÜSTEN', 'SCHAUER', 'SONST', 'FREUNDLICHE', 'MOMENTE', 'SPÄTER', 'KOMMT', 'VON', 'SÜDWESTEN', 'REGEN', 'AUF']] 
+ Predicted : ['AM', 'MONTAG', 'IM', 'NORDEN', 'UND', 'OSTEN', 'DICHTE', 'WOLKEN', 'DIE', 'GEBIETSWEISE', 'REGEN', 'BRINGEN', 'SONST', 'TEILS', 'SONNE', 'TEILS', 'WOLKEN', 'UND', 'EINZELNE', 'SCHAUER', 'ODER', 'GEWITTER']
+The BLEU Score :  11.649555744632822 
+
+
+
+
+ Pair : 384
+ Target : [['IM', 'ÄUSSERSTEN', 'NORDEN', 'KANN', 'ES', 'ÖRTLICH', 'NOCH', 'LÄNGERE', 'ZEIT', 'TRÜBE', 'BLEIBEN']] 
+ Predicted : ['IM', 'NORDEN', 'MORGEN', 'NUR', 'LEICHT', 'BEWÖLKT', 'ODER', 'KLAR']
+The BLEU Score :  11.628963023453313 
+
+
+
+
+ Pair : 385
+ Target : [['IN', 'DER', 'WESTHÄLFTE', 'FÄLLT', 'AUCH', 'AM', 'TAG', 'GEBIETSWEISE', 'REGEN', 'VOR', 'ALLEM', 'ANFANGS', 'AUCH', 'SCHNEE', 'ODER', 'GEFRIERENDER', 'REGEN', 'WEITER', 'ÖSTLICH', 'TEILS', 'BEWÖLKT', 'ODER', 'NEBLIG', 'TRÜB', 'TEILS', 'FREUNDLICH']] 
+ Predicted : ['AM', 'TAG', 'IM', 'SÜDEN', 'UND', 'SÜDOSTEN', 'NOCH', 'FREUNDLICH', 'SONST', 'VIELE', 'WOLKEN', 'UND', 'GEBIETSWEISE', 'REGEN', 'ODER', 'GEFRIERENDER', 'REGEN']
+The BLEU Score :  11.606976940543323 
+
+
+
+
+ Pair : 386
+ Target : [['AM', 'WOCHENENDE', 'WIRD', 'DANN', 'SCHON', 'WIEDER', 'DER', 'EINFLUSS', 'DES', 'HOCHS', 'STÄRKER']] 
+ Predicted : ['DAS', 'HOCH', 'ÜBER', 'DEM', 'ATLANTIK', 'NACH', 'MITTELEUROPA', 'ZIEHT', 'BESTIMMT', 'UNSER', 'WETTER']
+The BLEU Score :  11.5826640526851 
+
+
+
+
+ Pair : 387
+ Target : [['IN', 'DER', 'NEUEN', 'WOCHE', 'WIEDER', 'UNBESTÄNDIG', 'UND', 'WINDIG']] 
+ Predicted : ['IM', 'SÜDEN', 'BLEIBT', 'ES', 'NOCH', 'TROCKEN', 'UND', 'ZUM', 'TEIL', 'AUCH', 'FREUNDLICH']
+The BLEU Score :  11.56803200082772 
+
+
+
+
+ Pair : 388
+ Target : [['DIE', 'WERDEN', 'AM', 'NACHMITTAG', 'IN', 'DER', 'NORDWESTHÄLFTE', 'WIEDER', 'DICHTER', 'UND', 'BRINGEN', 'REGEN']] 
+ Predicted : ['AM', 'NACHMITTAG', 'UND', 'ABEND', 'IM', 'NORDEN', 'EINIGE', 'SCHAUER', 'ODER', 'GEWITTER']
+The BLEU Score :  11.551516531292666 
+
+
+
+
+ Pair : 389
+ Target : [['IM', 'SÜDOSTEN', 'SCHWACHER', 'SONST', 'MÄSSIGER', 'BIS', 'FRISCHER', 'SÜDWIND', 'IM', 'WESTEN', 'UND', 'NORDWESTEN', 'STARKE', 'BIS', 'STÜRMISCHE', 'BÖEN']] 
+ Predicted : ['MORGEN', 'WEHT', 'DER', 'WIND', 'IM', 'WESTEN', 'FRISCH', 'BIS', 'STARK', 'BÖIG']
+The BLEU Score :  11.524864120451905 
+
+
+
+
+ Pair : 390
+ Target : [['WO', 'ES', 'AUFKLART', 'KÖNNEN', 'SICH', 'NEBELFELDER', 'BILDEN']] 
+ Predicted : ['AM', 'TAG', 'IST', 'ES', 'TEILWEISE', 'FREUNDLICH']
+The BLEU Score :  11.513295446312096 
+
+
+
+
+ Pair : 391
+ Target : [['SIE', 'WOLLEN', 'WISSEN', 'WIE', 'DER', 'SOMMER', '<BLANK>', 'MEINE', 'DAMEN', 'UND', 'HERREN']] 
+ Predicted : ['DAS', 'WAR', 'ES', 'FÜR', 'MORGEN', 'AUCH']
+The BLEU Score :  11.489757613743617 
+
+
+
+
+ Pair : 392
+ Target : [['AM', 'DIENSTAG', 'WERDEN', 'VOM', 'WESTEN', 'DIE', 'WOLKEN', 'DICHTER', 'SCHAUER', 'FOLGEN']] 
+ Predicted : ['AM', 'DIENSTAG', 'WERDEN', 'DIE', 'WOLKEN', 'VON', 'WESTEN', 'DICHTER', 'SCHAUER']
+The BLEU Score :  11.509710971713687 
+
+
+
+
+ Pair : 393
+ Target : [['AUF', 'WARMES', 'FRÜHLINGSWETTER', 'WERDEN', 'WIR', 'MORGEN', 'AUCH', 'NOCH', 'VERZICHTEN', 'MÜSSEN']] 
+ Predicted : ['UND', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'MONTAG', 'DEN', 'ALPEN', 'AUGUST']
+The BLEU Score :  11.49043400813067 
+
+
+
+
+ Pair : 394
+ Target : [['AM', 'MITTWOCH', 'ZIEHEN', 'IM', 'WESTEN', 'WOLKENFELDER', 'AUF', 'BEI', 'ACHT', 'BIS', 'SECHZEHN', 'GRAD']] 
+ Predicted : ['AM', 'MITTWOCH', 'ZIEHEN', 'VON', 'WESTEN', 'WIEDER', 'NEUE', 'REGENFÄLLE']
+The BLEU Score :  11.48903174769223 
+
+
+
+
+ Pair : 395
+ Target : [['ES', 'WEHT', 'EIN', 'SCHWACHER', 'BIS', 'MÄSSIGER', 'IM', 'BERGLAND', 'AUCH', 'FRISCHER', 'NORDOSTWIND']] 
+ Predicted : ['HEUTE', 'NACHT', 'AN', 'DER', 'OSTSEE', 'UND', 'AUF', 'DEN', 'BERGEN', 'NOCH', 'SCHWERE', 'STURMBÖEN']
+The BLEU Score :  11.465335427821648 
+
+
+
+
+ Pair : 396
+ Target : [['HEUTE', 'NACHT', 'NULL', 'GRAD', 'AM', 'HOCHRHEIN', 'WO', 'ES', 'AUFKLART', 'BIS', 'MINUS', 'ZWEIUNDZWANZIG', 'GRAD']] 
+ Predicted : ['HEUTE', 'NACHT', 'DREI', 'GRAD', 'IM', 'NORDEN', 'UND', 'MINUS', 'EIN', 'GRAD', 'IM', 'BREISGAU']
+The BLEU Score :  11.450291432933133 
+
+
+
+
+ Pair : 397
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'MITTWOCH', 'DEN', 'ZWEITEN', 'JUNI']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'MITTWOCH', 'DEN', 'DREISSIGSTEN', 'MAI']
+The BLEU Score :  11.592503062076458 
+
+
+
+
+ Pair : 398
+ Target : [['VON', '<BLANK>', 'RUNTER', 'BIS', 'ZUM', 'ALPENRAND', 'NULL', 'BIS', 'MINUS', 'SECHS', 'GRAD', 'IM', 'NORDEN', 'BLEIBT', 'ES', 'ABER', 'FROSTFREI', 'DA', 'HABEN', 'WIR', 'ES', 'MORGEN', 'AUCH', 'WIEDER', 'MILD']] 
+ Predicted : ['SONST', 'BLEIBT', 'ES', 'KALT', 'IN', 'NORDDEUTSCHLAND', 'DAZU', 'EIN', 'BISSCHEN', 'ZWISCHEN', 'MINUS', 'DREI', 'UND', 'ZEHN', 'GRAD']
+The BLEU Score :  11.54514288598612 
+
+
+
+
+ Pair : 399
+ Target : [['MORGEN', 'WERTE', 'VON', 'EINUNDZWANZIG', 'GRAD', 'AN', 'DER', 'NORDSEE', 'BIS', 'ACHTUNDZWANZIG', 'AM', 'OBERRHEIN']] 
+ Predicted : ['MORGEN', 'REICHEN', 'DIE', 'TEMPERATUREN', 'VON', 'NEUNZEHN', 'GRAD', 'IM', 'SAUERLAND', 'BIS', 'ZU', 'DREIUNDZWANZIG', 'GRAD', 'AM', 'OBERRHEIN']
+The BLEU Score :  11.534221730238627 
+
+
+
+
+ Pair : 400
+ Target : [['UND', 'DAZU', 'KRÄFTIGER', 'WIND', 'AUS', 'NORD', 'NORDOST', 'UND', 'DER', 'VERURSACHT', 'AUCH', 'SCHNEEVERWEHUNGEN']] 
+ Predicted : ['UND', 'ES', 'GIBT', 'AUCH', 'NOCH', 'EIN', 'PAAR', 'SCHAUER', 'AM', 'ALPENRAND']
+The BLEU Score :  11.51202363943376 
+
+
+
+
+ Pair : 401
+ Target : [['NUR', 'DEN', 'NORDEN', 'STREIFEN', 'WOLKEN', 'DES', 'TIEFS', 'ÜBER', 'DEM', 'NORDMEER']] 
+ Predicted : ['NUR', 'IM', 'NORDEN', 'DEUTSCHLANDS', 'MACHT', 'SICH', 'MORGEN', 'UND', 'WOLKEN', 'DES', 'TIEFS', 'BEMERKBAR']
+The BLEU Score :  11.517127926187346 
+
+
+
+
+ Pair : 402
+ Target : [['DAS', 'SIND', 'SCHON', 'MEIST', 'ZWISCHEN', 'VIERZEHN', 'UND', 'NEUNZEHN', 'GRAD', 'WIEDER']] 
+ Predicted : ['AM', 'SONNTAG', 'AN', 'DEN', 'ALPEN', 'NOCH', 'SCHNEEREGEN', 'AM', 'NACHMITTAG', 'AUCH', 'WIEDER', 'GEWITTER']
+The BLEU Score :  11.498055961953726 
+
+
+
+
+ Pair : 403
+ Target : [['AM', 'TAG', 'IM', 'SÜDEN', 'UND', 'IN', 'DER', 'MITTE', 'MITUNTER', 'DICHTE', 'NEBELFELDER']] 
+ Predicted : ['IM', 'SÜDEN', 'UND', 'IN', 'DER', 'MITTE', 'IST', 'ES', 'MEIST', 'TROCKEN']
+The BLEU Score :  11.580171977791785 
+
+
+
+
+ Pair : 404
+ Target : [['MORGEN', 'TEMPERATUREN', 'VON', 'NULL', 'BIS', 'SIEBEN', 'AM', 'NIEDERRHEIN', 'BIS', 'ACHT', 'GRAD']] 
+ Predicted : ['MORGEN', 'TEMPERATUREN', 'VON', 'MINUS', 'ZWEI', 'GRAD', 'IM', 'ALLGÄU', 'BIS', 'PLUS', 'SECHS', 'GRAD']
+The BLEU Score :  11.58265788294497 
+
+
+
+
+ Pair : 405
+ Target : [['HIER', 'UND', 'DA', 'BILDET', 'SICH', 'NEBEL']] 
+ Predicted : ['IN', 'DEN', 'NÄCHSTEN', 'TAGEN', 'WIRD', 'ES', 'NOCH', 'ETWAS', 'REGNEN']
+The BLEU Score :  11.571859425034148 
+
+
+
+
+ Pair : 406
+ Target : [['SCHON', 'HEUTE', 'NACHT', 'KLART', 'ES', 'IM', 'NORDEN', 'SOWIE', 'IN', 'DER', 'MITTE', 'VERBREITET', 'AUF']] 
+ Predicted : ['IM', 'NORDEN', 'UND', 'WESTEN', 'IST', 'ES', 'HEUTE', 'NACHT', 'MEIST', 'STARK', 'BEWÖLKT']
+The BLEU Score :  11.561358294251999 
+
+
+
+
+ Pair : 407
+ Target : [['UND', 'DIE', 'WERDEN', 'SICH', 'DANN', 'MORGEN', 'WEITGEHEND', 'ÜBER', 'DIE', 'WESTHÄLFTE', 'AUSBREITEN']] 
+ Predicted : ['UND', 'DIE', 'SONNE', 'KOMMT', 'DIE', 'WOLKEN', 'ZU', 'UNS', 'IN', 'DEN', 'NÄCHSTEN', 'TAGEN']
+The BLEU Score :  11.54781874785214 
+
+
+
+
+ Pair : 408
+ Target : [['GANZ', 'ANDERS', 'AN', 'DER', 'NORDSEE', 'DA', 'IST', 'ES', 'MILDER', 'UND', 'ES', 'BLEIBT', 'AUCH', 'IN', 'DIESER', 'NACHT', 'DORT', 'ZIEMLICH', 'MILD', 'ES', 'SCHNEIT', 'NÄMLICH']] 
+ Predicted : ['UND', 'MORGEN', 'HABEN', 'WIR', 'NOCH', 'EIN', 'PAAR', 'SCHNEESCHAUER', 'IN', 'NORDDEUTSCHLAND']
+The BLEU Score :  11.501535952133612 
+
+
+
+
+ Pair : 409
+ Target : [['DAS', 'HOCH', 'HIER', 'ÜBER', 'DER', 'NORDSEE', 'SORGT', 'FÜR', 'SONNENSCHEIN', 'UND', 'WIR', 'HIER', 'IN', 'DEUTSCHLAND', 'LIEGEN', 'GERADE', 'AN', 'DER', 'GRENZE', 'ZWISCHEN', 'HOCH', 'UND', 'TIEF']] 
+ Predicted : ['UND', 'DIE', 'TEMPERATUREN', 'WERDEN', 'MEIST', 'ZWISCHEN', 'OSTSEE', 'UND', 'MINUS', 'DREI', 'GRAD', 'AN', 'DER', 'OSTSEE', 'UND', 'SIEBEN', 'GRAD', 'AN', 'DER', 'OSTSEE', 'UND', 'PLUS', 'FÜNF', 'GRAD', 'IM', 'WESTEN']
+The BLEU Score :  11.4634937694711 
+
+
+
+
+ Pair : 410
+ Target : [['AM', 'TAG', 'IST', 'ES', 'GANZ', 'IM', 'SÜDEN', 'NOCH', 'LÄNGER', 'FREUNDLICH', 'SONST', 'BREITEN', 'SICH', 'DIE', 'WOLKEN', 'SÜDWÄRTS', 'AUS']] 
+ Predicted : ['MORGEN', 'BREITEN', 'SICH', 'VON', 'WESTEN', 'REGENWOLKEN', 'AUS', 'DIE', 'ÖRTLICH', 'SCHAUER', 'UND', 'GEWITTER']
+The BLEU Score :  11.43760359632843 
+
+
+
+
+ Pair : 411
+ Target : [['IN', 'DEN', 'NÄCHSTEN', 'TAGEN', 'GIBT', 'ES', 'TEILS', 'SONNE', 'TEILS', 'WOLKEN', 'HIER', 'UND', 'DA', 'EINZELNE', 'SCHAUER', 'ODER', 'GEWITTER']] 
+ Predicted : ['IM', 'SÜDEN', 'SCHEINT', 'MEIST', 'DIE', 'SONNE', 'UND', 'ES', 'GIBT', 'ES', 'AUCH', 'MAL', 'DICHTERE', 'WOLKEN', 'MIT', 'SCHAUERN']
+The BLEU Score :  11.413349053273542 
+
+
+
+
+ Pair : 412
+ Target : [['NACHMITTAGS', 'KANN', 'HIER', 'UND', 'DA', 'DIE', 'SONNE', 'DURCHAUS', 'MAL', 'RAUSKOMMEN']] 
+ Predicted : ['UND', 'ES', 'GIBT', 'AUCH', 'REGENSCHAUER', 'IN', 'DEN', 'MITTELGEBIRGEN']
+The BLEU Score :  11.395210235581771 
+
+
+
+
+ Pair : 413
+ Target : [['MORGEN', 'GIBT', 'ES', 'MAL', 'SONNE', 'MAL', 'WOLKEN', 'IN', 'DER', 'NORDHÄLFTE', 'ZEIGT', 'SICH', 'DIE', 'SONNE', 'HÄUFIGER']] 
+ Predicted : ['AM', 'TAG', 'IM', 'NORDOSTEN', 'UND', 'NORDOSTEN', 'VIEL', 'SONNE', 'IN', 'DER', 'MITTE', 'UND', 'WOLKEN']
+The BLEU Score :  11.37439397797397 
+
+
+
+
+ Pair : 414
+ Target : [['AM', 'DIENSTAG', 'RUHIGES', 'TROCKENES', 'HOCHDRUCKWETTER']] 
+ Predicted : ['AM', 'DIENSTAG', 'RUHIGES', 'UND', 'WEITGEHEND', 'TROCKEN']
+The BLEU Score :  11.388279603089543 
+
+
+
+
+ Pair : 415
+ Target : [['VON', 'WESTEN', 'BEKOMMT', 'DIE', 'WOLKENDECKE', 'SPÄTER', 'WIEDER', 'LÜCKEN', 'ABER', 'ES', 'MUSS', 'NOCH', 'MIT', 'EINZELNEN', 'SCHAUERN', 'GERECHNET', 'WERDEN']] 
+ Predicted : ['RICHTUNG', 'OSTEN', 'UND', 'SÜDOSTEN', 'FALLEN', 'EIN', 'PAAR', 'SCHAUER']
+The BLEU Score :  11.352008174892159 
+
+
+
+
+ Pair : 416
+ Target : [['SÜDLICH', 'DER', 'DONAU', 'KOMMT', 'AUCH', 'MAL', 'DIE', 'SONNE', 'ZUM', 'ZUGE', 'UND', 'ES', 'BLEIBT', 'TROCKEN']] 
+ Predicted : ['IN', 'DER', 'SÜDHÄLFTE', 'IST', 'ES', 'GEBIETSWEISE', 'KLAR', 'UND', 'IM', 'SÜDEN', 'BLEIBT', 'ES', 'TROCKEN']
+The BLEU Score :  11.331300377348438 
+
+
+
+
+ Pair : 417
+ Target : [['STÜRMISCHER', 'WIND', 'AUCH', 'NOCH', 'AN', 'DEN', 'KÜSTEN']] 
+ Predicted : ['UND', 'DAMIT', 'SCHÖNEN', 'GUTEN', 'ABEND']
+The BLEU Score :  11.318991418860756 
+
+
+
+
+ Pair : 418
+ Target : [['LIEBE', 'ZUSCHAUER', 'GUTEN', 'ABEND']] 
+ Predicted : ['LIEBE', 'ZUSCHAUER', 'GUTEN', 'ABEND']
+The BLEU Score :  11.362091179996172 
+
+
+
+
+ Pair : 419
+ Target : [['AM', 'TAG', 'VOR', 'ALLEM', 'IM', 'NORDEN', 'UND', 'OSTEN', 'SOWIE', 'AN', 'DEN', 'ALPEN', 'HIER', 'UND', 'DA', 'NOCH', 'SCHAUER', 'SONST', 'MAL', 'SONNE', 'MAL', 'WOLKEN', 'RICHTUNG', 'SÜDWESTEN', 'GIBT', 'ES', 'DEN', 'MEISTEN', 'SONNENSCHEIN']] 
+ Predicted : ['AM', 'TAG', 'IM', 'SÜDEN', 'UND', 'SÜDOSTEN', 'TEILWEISE', 'NOCH', 'LÄNGER', 'SONST', 'NUR', 'NOCH', 'SONNE', 'SONST', 'VIEL', 'SONNE']
+The BLEU Score :  11.313796890041452 
+
+
+
+
+ Pair : 420
+ Target : [['AM', 'MONTAG', 'WEITERHIN', 'VIEL', 'SONNE', 'IM', 'ÄUSSERSTEN', 'WESTEN', 'EINZELNE', 'SCHAUER', 'UND', 'GEWITTER']] 
+ Predicted : ['AM', 'SAMSTAG', 'IST', 'ES', 'BEI', 'BIS', 'ZU', 'DREISSIG', 'GRAD']
+The BLEU Score :  11.291436716614957 
+
+
+
+
+ Pair : 421
+ Target : [['AM', 'TAG', 'SECHZEHN', 'GRAD', 'IM', 'NORDOSTEN', 'UND', 'DREIUNDZWANZIG', 'GRAD', 'IM', 'BREISGAU']] 
+ Predicted : ['AM', 'TAG', 'ACHT', 'GRAD', 'IM', 'VOGTLAND', 'UND', 'VIERZEHN', 'GRAD', 'AM', 'OBERRHEIN']
+The BLEU Score :  11.288178693322838 
+
+
+
+
+ Pair : 422
+ Target : [['ES', 'BESTEHEN', 'ENTSPRECHENDE', 'UNWETTERWARNUNG', 'DES', 'DEUTSCHEN', 'WETTERDIENSTES']] 
+ Predicted : ['ES', 'BESTEHEN', 'ENTSPRECHENDE', 'UNWETTERWARNUNGEN', 'DES', 'DEUTSCHEN', 'WETTERDIENSTES']
+The BLEU Score :  11.318387853170753 
+
+
+
+
+ Pair : 423
+ Target : [['TAGSÜBER', 'IN', 'NORDDEUTSCHLAND', 'KOMMT', 'DIESES', 'REGENGEBIET', 'NOCH', 'NICHT', 'SO', 'RICHTIG', 'AN', 'DORT', 'RECHT', 'FREUNDLICHES', 'WETTER', 'MIT', 'SONNENSCHEIN', 'UND', 'EINEM', 'STARKEN', 'SÜDOSTWIND']] 
+ Predicted : ['DIE', 'TEMPERATUREN', 'IN', 'DER', 'MITTE', 'UND', 'IM', 'SÜDEN', 'MIT', 'ZWANZIG', 'GRAD']
+The BLEU Score :  11.27859183048839 
+
+
+
+
+ Pair : 424
+ Target : [['AM', 'TAG', 'SCHNEIT', 'ES', 'IM', 'SÜDEN', 'UND', 'OSTEN', 'GEBIETSWEISE', 'IM', 'FLACHLAND', 'AUCH', 'SCHNEEREGEN']] 
+ Predicted : ['IM', 'SÜDEN', 'UND', 'SÜDOSTEN', 'FÄLLT', 'HEUTE', 'NACHT', 'GEBIETSWEISE', 'REGEN', 'SONST', 'NUR', 'HIER', 'UND', 'DA', 'ETWAS', 'SCHNEE']
+The BLEU Score :  11.274888111689654 
+
+
+
+
+ Pair : 425
+ Target : [['AM', 'MITTWOCH', 'DANN', 'ÜBERALL', 'FREUNDLICHES', 'HOCHDRUCKWETTER', 'BEI', 'SECHZEHN', 'BIS', 'FÜNFUNDZWANZIG', 'GRAD']] 
+ Predicted : ['AM', 'MITTWOCH', 'TEILS', 'SONNE', 'TEILS', 'WOLKEN', 'UND', 'EINZELNE', 'SCHAUER']
+The BLEU Score :  11.260931680830277 
+
+
+
+
+ Pair : 426
+ Target : [['DAS', 'HOCH', 'BRINGT', 'UNS', 'BIS', 'MINDESTENS', 'KARFREITAG', 'ÜBERWIEGEND', 'FREUNDLICHES', 'WETTER', 'UND', 'STEIGENDE', 'TEMPERATUREN']] 
+ Predicted : ['DAS', 'HOCH', 'DAS', 'SICH', 'VON', 'DER', 'OSTSEE', 'BIS', 'NACH', 'SACHSEN', 'UND', 'BRINGT', 'UNS', 'IN', 'DIE', 'MITTE']
+The BLEU Score :  11.25283504742335 
+
+
+
+
+ Pair : 427
+ Target : [['VOR', 'ALLEM', 'IM', 'NORDWESTEN', 'IST', 'ES', 'SEHR', 'WINDIG']] 
+ Predicted : ['IM', 'NORDEN', 'UND', 'WESTEN', 'IST', 'ES', 'WINDIG']
+The BLEU Score :  11.249244684788401 
+
+
+
+
+ Pair : 428
+ Target : [['UND', 'VOR', 'ALLEN', 'DINGEN', 'IM', 'BERGLAND', 'WIRD', 'ES', 'DANN', 'AUCH', 'WIEDER', 'SCHNEIEN']] 
+ Predicted : ['UND', 'IN', 'DEN', 'NÄCHSTEN', 'TAGEN', 'WIRD', 'ES', 'BEI', 'UNS', 'WIEDER', 'SCHNEE']
+The BLEU Score :  11.236320937954043 
+
+
+
+
+ Pair : 429
+ Target : [['IN', 'DER', 'LAUSITZ', 'HEUTE', 'NACHT', 'BIS', 'FÜNFZEHN', 'IM', 'SAUERLAND', 'NUR', 'KÜHLE', 'SECHS', 'GRAD']] 
+ Predicted : ['AM', 'TAG', 'FÜNFZEHN', 'GRAD', 'IM', 'VOGTLAND', 'UND', 'BIS', 'ZU', 'ZWANZIG', 'GRAD', 'IM', 'BREISGAU']
+The BLEU Score :  11.217001091380753 
+
+
+
+
+ Pair : 430
+ Target : [['SONST', 'TEILS', 'SONNE', 'TEILS', 'WOLKEN', 'UND', 'NUR', 'EINZELNE', 'SCHAUER', 'IM', 'SÜDWESTEN', 'ZEIGT', 'SICH', 'DIE', 'SONNE', 'AM', 'HÄUFIGSTEN']] 
+ Predicted : ['SONST', 'IST', 'ES', 'MEIST', 'KLAR', 'IM', 'SÜDEN', 'UND', 'TROCKEN']
+The BLEU Score :  11.18732527587734 
+
+
+
+
+ Pair : 431
+ Target : [['AM', 'FREITAG', 'MEHR', 'WOLKEN', 'ALS', 'SONNE', 'VOR', 'ALLEM', 'IM', 'NORDOSTEN', 'SCHNEIT', 'ES', 'HIER', 'UND', 'DA']] 
+ Predicted : ['AM', 'MONTAG', 'IM', 'NORDEN', 'UND', 'OSTEN', 'HIER', 'UND', 'DA', 'REGEN', 'SONST', 'IST', 'ES', 'TEILWEISE', 'FREUNDLICH']
+The BLEU Score :  11.182674595505752 
+
+
+
+
+ Pair : 432
+ Target : [['AM', 'MILDESTEN', 'HIER', 'IM', 'WESTEN', 'ETWA', 'ACHT', 'ODER', 'NEUN', 'GRAD']] 
+ Predicted : ['SONST', 'NUR', 'EIN', 'BISSCHEN', 'KÜHLER']
+The BLEU Score :  11.164219549910952 
+
+
+
+
+ Pair : 433
+ Target : [['TEILWEISE', 'ZWANZIG', 'ODER', 'AUCH', 'KNAPP', 'ÜBER', 'ZWANZIG', 'GRAD']] 
+ Predicted : ['UND', 'DIE', 'TEMPERATUREN', 'WERDEN', 'AUCH', 'IN', 'DEN', 'NÄCHSTEN', 'TAGEN']
+The BLEU Score :  11.151709378572443 
+
+
+
+
+ Pair : 434
+ Target : [['ETWAS', 'MILDER', 'VOR', 'ALLEN', 'DINGEN', 'AN', 'DEN', 'KÜSTEN', 'ODER', 'AUCH', 'IM', 'SÜDWESTEN', 'MINUS', 'EIN', 'ODER', 'MINUS', 'ZWEI', 'GRAD']] 
+ Predicted : ['DIE', 'TEMPERATUREN', 'WERDEN', 'ABER', 'AUCH', 'IN', 'DER', 'MITTE', 'NULL', 'GRAD', 'SONST', 'ÜBERALL']
+The BLEU Score :  11.118454066337616 
+
+
+
+
+ Pair : 435
+ Target : [['AM', 'MITTWOCH', 'IM', 'SÜDEN', 'UND', 'AN', 'DEN', 'KÜSTEN', 'ETWAS', 'REGEN', 'SONST', 'IST', 'ES', 'MEIST', 'FREUNDLICH']] 
+ Predicted : ['AM', 'MONTAG', 'IM', 'NORDEN', 'UND', 'OSTEN', 'NOCH', 'REGEN', 'SONST', 'RECHT', 'FREUNDLICH']
+The BLEU Score :  11.102573072833767 
+
+
+
+
+ Pair : 436
+ Target : [['IN', 'DER', 'NACHT', 'FÜNF', 'GRAD', 'AN', 'DER', 'NORDFRIESISCHEN', 'KÜSTE', 'UND', 'MINUS', 'VIER', 'GRAD', 'AN', 'DEN', 'ALPEN']] 
+ Predicted : ['HEUTE', 'NACHT', 'MINUS', 'EIN', 'GRAD', 'AM', 'ALPENRAND', 'BIS', 'MINUS', 'ACHT', 'GRAD', 'AN', 'DEN', 'ALPEN']
+The BLEU Score :  11.12188807483335 
+
+
+
+
+ Pair : 437
+ Target : [['DAS', 'TIEF', 'ÜBER', 'DEM', 'BALTIKUM', 'WIRD', 'SCHWÄCHER', 'BESTIMMT', 'ABER', 'MORGEN', 'NOCH', 'DAS', 'WETTER', 'IM', 'OSTEN', 'UND', 'SÜDEN', 'DEUTSCHLANDS']] 
+ Predicted : ['DEM', 'SÜDEN', 'DEUTSCHLANDS', 'BRINGT', 'DAS', 'HOCH', 'MORGEN', 'NOCH', 'UNBESTÄNDIGES', 'WETTER']
+The BLEU Score :  11.105093219804733 
+
+
+
+
+ Pair : 438
+ Target : [['AM', 'TAG', 'WEHT', 'DER', 'WIND', 'SCHWACH', 'BIS', 'MÄSSIG', 'IM', 'NORDEN', 'UND', 'NORDOSTEN', 'MÄSSIG', 'BIS', 'FRISCH', 'AN', 'DER', 'OSTSEE', 'STARK']] 
+ Predicted : ['AM', 'TAG', 'IM', 'NORDEN', 'UND', 'NORDOSTEN', 'MÄSSIGER', 'BIS', 'STARKER', 'WIND', 'AUS', 'WEST', 'BIS', 'SÜDWEST']
+The BLEU Score :  11.124854969184126 
+
+
+
+
+ Pair : 439
+ Target : [['GUTEN', 'ABEND', 'LIEBE', 'ZUSCHAUER']] 
+ Predicted : ['GUTEN', 'ABEND', 'LIEBE', 'ZUSCHAUER']
+The BLEU Score :  11.166032366660039 
+
+
+
+
+ Pair : 440
+ Target : [['DORT', 'MORGEN', 'ZEHN', 'BIS', 'FÜNFZEHN', 'SONST', 'SECHZEHN', 'BIS', 'DREIUNDZWANZIG', 'GRAD']] 
+ Predicted : ['DORT', 'MORGEN', 'KÜHLE', 'SIEBEN', 'GRAD']
+The BLEU Score :  11.156679804027734 
+
+
+
+
+ Pair : 441
+ Target : [['MORGEN', 'SORGT', 'EIN', 'ABLEGER', 'DES', 'AZORENHOCHS', 'VIELERORTS', 'FÜR', 'FREUNDLICHES', 'WETTER']] 
+ Predicted : ['MORGEN', 'ERREICHT', 'UNS', 'MORGEN', 'SCHON', 'WIEDER', 'EIN', 'TIEFAUSLÄUFER', 'MIT', 'DEM', 'ATLANTIK']
+The BLEU Score :  11.141531406378835 
+
+
+
+
+ Pair : 442
+ Target : [['MORGEN', 'SETZT', 'SICH', 'DAS', 'RUHIGE', 'UND', 'TEILWEISE', 'FREUNDLICHE', 'HOCHDRUCKWETTER', 'FORT']] 
+ Predicted : ['MORGEN', 'BESCHERT', 'UNS', 'DAS', 'HOCH', 'AUCH', 'NOCH', 'EINEN', 'RECHT', 'FREUNDLICHES', 'WETTER']
+The BLEU Score :  11.126424331328224 
+
+
+
+
+ Pair : 443
+ Target : [['DER', 'WINTER', '<BLANK>', 'SEINE', '<BLANK>', '<BLANK>', 'DIE', 'MITTELGEBIRGE', 'TEILWEISE', 'SCHON', 'IN', '<BLANK>', '<BLANK>']] 
+ Predicted : ['UND', 'DAS', 'WIRD', 'UNS', 'BIS', 'DONNERSTAG', 'IM', 'SÜDEN', 'ABER', 'AUCH', 'WIEDER', 'ETWAS', 'MILDERE', 'LUFT']
+The BLEU Score :  11.101504376957092 
+
+
+
+
+ Pair : 444
+ Target : [['IM', 'WESTEN', 'KÖNNTE', 'ES', 'HIER', 'WESTLICH', 'DES', 'RHEINS', 'NACHMITTAGS', 'EIN', 'BISSCHEN', 'FREUNDLICHER', 'WERDEN', 'UND', 'DIE', 'SONNE', 'DURCHAUS', 'MAL', 'RAUSKOMMEN']] 
+ Predicted : ['SONST', 'IM', 'WESTEN', 'UND', 'SÜDWESTEN', 'SIND', 'ES', 'DANN', 'EIN', 'PAAR', 'SCHAUER', 'AN', 'DER', 'NORDSEE']
+The BLEU Score :  11.075528077839802 
+
+
+
+
+ Pair : 445
+ Target : [['AM', 'TAG', 'ZEHN', 'GRAD', 'WO', 'ES', 'TRÜB', 'BLEIBT', 'UND', 'BIS', 'ACHTZEHN', 'GRAD', 'AM', 'OBERRHEIN']] 
+ Predicted : ['AM', 'TAG', 'ACHT', 'GRAD', 'IM', 'NORDEN', 'UND', 'SECHZEHN', 'GRAD', 'AM', 'OBERRHEIN']
+The BLEU Score :  11.079067916264524 
+
+
+
+
+ Pair : 446
+ Target : [['DAS', 'HOCH', 'ÜBER', 'DEM', 'NORDATLANTIK', 'BREITET', 'SICH', 'OSTWÄRTS', 'AUS', 'UND', 'BESTIMMT', 'MORGEN', 'DAS', 'WETTER', 'IN', 'WEITEN', 'TEILEN', 'DEUTSCHLANDS', 'MIT', 'VIEL', 'SONNE', 'UND', 'TROCKENER', 'LUFT']] 
+ Predicted : ['DAS', 'HOCH', 'ÜBER', 'DEM', 'ATLANTIK', 'SORGT', 'MORGEN', 'IM', 'NORDEN', 'DEUTSCHLANDS', 'FÜR', 'FREUNDLICHES', 'WETTER']
+The BLEU Score :  11.080808742587314 
+
+
+
+
+ Pair : 447
+ Target : [['IM', 'NORDEN', 'UND', 'NORDWESTEN', 'NEBEN', 'WOLKEN', 'GELEGENTLICH', 'AUCH', 'SONNE', 'EIN', 'PAAR', 'TROPFEN', 'FALLEN', 'AM', 'EHESTEN', 'IN', 'SCHLESWIG', 'HOLSTEIN']] 
+ Predicted : ['IM', 'NORDEN', 'IST', 'ES', 'HEUTE', 'NACHT', 'MEIST', 'STARK', 'BEWÖLKT', 'IN', 'KÜSTENNÄHE', 'REGNET', 'ES', 'ETWAS']
+The BLEU Score :  11.054143309999233 
+
+
+
+
+ Pair : 448
+ Target : [['DIESE', 'GANZEN', 'GEWITTER', 'WERDEN', '<BLANK>', 'VON', 'EINEM', '<BLANK>', 'ÜBER', 'NORDEUROPA', 'DAS', 'WIRD', 'DIESE', 'WARMLUFT', '<BLANK>', 'UND', 'DURCH', 'DEUTLICH', 'KÜHLERE', 'VON', 'WESTEN', 'HER', '<BLANK>']] 
+ Predicted : ['HEUTE', 'NACHT', 'HAT', 'SICH', 'DAS', 'WETTER', 'ABER', 'IM', 'OSTEN', 'UND', 'MORGEN', 'DANN', 'IN', 'DEN', 'NÄCHSTEN', 'STUNDEN', 'RICHTUNG', 'OSTEN']
+The BLEU Score :  11.011409831962608 
+
+
+
+
+ Pair : 449
+ Target : [['AUCH', 'AM', 'SONNTAG', 'REGNET', 'ES', 'AN', 'DEN', 'ALPEN', 'AB', 'UND', 'AN', 'IM', 'NORDEN', 'EINZELNE', 'SCHAUER', 'UND', 'IN', 'DER', 'MITTE', 'IST', 'ES', 'RECHT', 'FREUNDLICH']] 
+ Predicted : ['AUCH', 'AM', 'SONNTAG', 'WECHSELHAFTES', 'WETTER', 'MIT', 'SCHAUERN', 'UND', 'EINZELNEN', 'GEWITTERN', 'AUCH', 'FREUNDLICHE', 'WETTER']
+The BLEU Score :  10.98734618921857 
+
+
+
+
+ Pair : 450
+ Target : [['WO', 'SICH', 'NEBEL', 'HÄLT', 'IST', 'ES', 'KÄLTER']] 
+ Predicted : ['DABEI', 'IST', 'ES', 'TEILWEISE', 'MILD']
+The BLEU Score :  10.983267559171779 
+
+
+
+
+ Pair : 451
+ Target : [['AM', 'TAG', 'TEILWEISE', 'NUR', 'EINSTELLIGE', 'WERTE', 'AN', 'DER', 'NORDSEE']] 
+ Predicted : ['AM', 'TAG', 'FÜNFZEHN', 'GRAD', 'IM', 'VOGTLAND', 'UND', 'DREIUNDZWANZIG', 'GRAD', 'AM', 'OBERRHEIN']
+The BLEU Score :  10.974749477064485 
+
+
+
+
+ Pair : 452
+ Target : [['DABEI', 'MUSS', 'HEUTE', 'NACHT', 'VERBREITET', 'MIT', 'TEILWEISE', 'ERGIEBIGEN', 'SCHNEEFÄLLEN', 'GERECHNET', 'WERDEN']] 
+ Predicted : ['DABEI', 'GIBT', 'ES', 'ZUM', 'TEIL', 'KRÄFTIGE', 'SCHNEEFÄLLE', 'DABEI', 'SEHR', 'MILDE', 'LUFT', 'UND', 'AUCH', 'DIE', 'SICH', 'HEUTE', 'NACHT', 'SCHNEE', 'ODER', 'AUCH', 'REGEN']
+The BLEU Score :  10.963175895949703 
+
+
+
+
+ Pair : 453
+ Target : [['MORGEN', 'IM', 'ÄUSSERSTEN', 'NORDOSTEN', 'NOCH', 'REGEN', 'ODER', 'SCHNEEREGEN', 'IM', 'ALPENRAND', 'AUCH', 'LÄNGER', 'ANDAUERNDE', 'SCHNEEFÄLLE']] 
+ Predicted : ['MORGEN', 'IM', 'NORDEN', 'UND', 'SÜDOSTEN', 'NOCH', 'EINZELNE', 'SCHAUER', 'IM', 'NORDEN', 'AUCH', 'IM', 'NORDEN', 'ZUM', 'TEIL', 'KRÄFTIG']
+The BLEU Score :  10.948599572200918 
+
+
+
+
+ Pair : 454
+ Target : [['WOLKEN', 'EINES', 'TIEFS', 'ÜBERQUEREN', 'HEUTE', 'NACHT', 'DIE', 'NORDWESTHÄLFTE', 'DEUTSCHLANDS', 'UND', 'BRINGEN', 'ETWAS', 'REGEN']] 
+ Predicted : ['DER', 'AUSLÄUFER', 'EINES', 'TIEFS', 'ÜBER', 'DER', 'NORDSEE']
+The BLEU Score :  10.931962683733994 
+
+
+
+
+ Pair : 455
+ Target : [['AUCH', 'ÜBER', 'DAS', 'WOCHENENDE', 'HINAUS', 'BLEIBT', 'ES', 'IM', 'NORDOSTEN', 'KALT']] 
+ Predicted : ['AM', 'SONNTAG', 'DANN', 'VIEL', 'SONNENSCHEIN']
+The BLEU Score :  10.914880898273637 
+
+
+
+
+ Pair : 456
+ Target : [['HEUTE', 'NACHT', 'VIERZEHN', 'GRAD', 'AN', 'DER', 'NORDSEE', 'SECHS', 'GRAD', 'IM', 'ALLGÄU']] 
+ Predicted : ['AM', 'TAG', 'FÜNFZEHN', 'GRAD', 'AN', 'DER', 'OSTSEE', 'UND', 'BIS', 'FÜNFUNDZWANZIG', 'GRAD', 'IM', 'BREISGAU']
+The BLEU Score :  10.921681414184196 
+
+
+
+
+ Pair : 457
+ Target : [['HEUTE', 'NACHT', 'DAS', 'IST', 'ABER', 'KAUM', 'VON', 'BEDEUTUNG', 'DA', 'GIBT', 'ES', 'EIN', 'PAAR', 'REGENTROPFEN', 'IM', 'NORDWESTEN', 'SONST', 'BLEIBT', 'ALLES', 'RUHIG']] 
+ Predicted : ['HEUTE', 'NACHT', 'AM', 'RHEIN', 'UND', 'DANN', 'AUCH', 'NOCH', 'EIN', 'PAAR', 'SCHNEESCHAUER', 'AM', 'RHEIN', 'AUS', 'DEM', 'NORDEN', 'UND', 'AM', 'RHEIN', 'AUS', 'DEM', 'NORDEN']
+The BLEU Score :  10.896889079861797 
+
+
+
+
+ Pair : 458
+ Target : [['UND', 'DAS', 'SIND', 'SCHWERE', 'GEWITTER', 'DIE', 'VON', 'WESTEN', 'SÜDWESTEN', 'BIS', 'MORGEN', 'ABEND', 'RICHTUNG', 'NORDOSTEN', 'ZIEHEN']] 
+ Predicted : ['UND', 'DAS', 'WETTER', 'WIRD', 'SICH', 'HEUTE', 'NACHT', 'IN', 'DEN', 'NÄCHSTEN', 'STUNDEN', 'IN', 'DER', 'NACHT', 'ZIEHEN']
+The BLEU Score :  10.877558988322447 
+
+
+
+
+ Pair : 459
+ Target : [['IM', 'SÜDEN', 'FUNKELN', 'OHNEHIN', 'HÄUFIG', 'DIE', 'STERNE']] 
+ Predicted : ['SONST', 'MEIST', 'FREUNDLICH', 'UND', 'TROCKEN']
+The BLEU Score :  10.866869566177337 
+
+
+
+
+ Pair : 460
+ Target : [['MORGEN', 'SCHEINT', 'VERBREITET', 'DIE', 'SONNE']] 
+ Predicted : ['AM', 'FREUNDLICHSTEN', 'WIRD', 'ES', 'IM', 'NORDEN']
+The BLEU Score :  10.86025048247244 
+
+
+
+
+ Pair : 461
+ Target : [['AUCH', 'DER', 'MONTAG', 'VERLÄUFT', 'UNBESTÄNDIG', 'UND', 'ES', 'WIRD', 'KÜHLER']] 
+ Predicted : ['AM', 'MONTAG', 'WIEDER', 'WECHSELHAFT', 'UND', 'KÜHLER']
+The BLEU Score :  10.849977693253537 
+
+
+
+
+ Pair : 462
+ Target : [['AM', 'TAG', 'DANN', 'TEMPERATUREN', 'ZWISCHEN', 'ACHTZEHN', 'UND', 'DREIUNDZWANZIG', 'GRAD']] 
+ Predicted : ['AM', 'TAG', 'FÜNFZEHN', 'GRAD', 'IM', 'SÜDEN', 'BIS', 'DREIUNDZWANZIG', 'GRAD', 'AN', 'DER', 'NORDSEE']
+The BLEU Score :  10.848414092960052 
+
+
+
+
+ Pair : 463
+ Target : [['IN', 'DER', 'NACHT', 'MUSS', 'VOR', 'ALLEM', 'IM', 'NORDEN', 'UND', 'IN', 'DER', 'MITTE', 'MIT', 'TEILWEISE', 'HEFTIGEN', 'GEWITTERSCHAUERN', 'GERECHNET', 'WERDEN']] 
+ Predicted : ['IM', 'NORDEN', 'UND', 'NORDOSTEN', 'REGNET', 'ES', 'HEUTE', 'NACHT', 'STELLENWEISE', 'ETWAS']
+The BLEU Score :  10.835877760072393 
+
+
+
+
+ Pair : 464
+ Target : [['ABER', 'VIEL', 'REGEN', 'GIBT', 'ES', 'WOHL', 'NICHT']] 
+ Predicted : ['SCHAUER', 'UND', 'GEWITTER', 'ZIEHEN', 'WEITER']
+The BLEU Score :  10.825309995148219 
+
+
+
+
+ Pair : 465
+ Target : [['IN', 'DER', 'NEUEN', 'WOCHE', 'UNBESTÄNDIG', 'MIT', 'VIELEN', 'WOLKEN', 'DIE', 'ZEITWEISE', 'REGEN', 'BRINGEN']] 
+ Predicted : ['AM', 'SONNTAG', 'UND', 'MONTAG', 'LIEGEN', 'DIE', 'WOLKEN', 'UNTERSCHIEDLICH', 'DICHT', 'BEIEINANDER']
+The BLEU Score :  10.807427302034831 
+
+
+
+
+ Pair : 466
+ Target : [['IN', 'DER', 'SÜDHÄLFTE', 'WEHT', 'DER', 'WIND', 'SCHWACH', 'AUS', 'UNTERSCHIEDLICHEN', 'RICHTUNGEN', 'IM', 'NORDEN', 'MÄSSIG', 'AN', 'DEN', 'KÜSTEN', 'FRISCH', 'AUS', 'WESTLICHEN', 'RICHTUNGEN']] 
+ Predicted : ['IM', 'SÜDEN', 'UND', 'SÜDEN', 'WEHT', 'DER', 'WIND', 'SCHWACH', 'BIS', 'MÄSSIG', 'IM', 'NORDEN', 'FRISCH', 'AUS', 'OST']
+The BLEU Score :  10.828559140895106 
+
+
+
+
+ Pair : 467
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'DONNERSTAG', 'DEN', 'VIERTEN', 'OKTOBER']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'DONNERSTAG', 'DEN', 'IM', 'OSTEN', 'JULI']
+The BLEU Score :  10.952445713288052 
+
+
+
+
+ Pair : 468
+ Target : [['AM', 'FREITAG', 'LOCKERT', 'ES', 'KAUM', 'AUF', 'IM', 'NORDEN', 'HIER', 'UND', 'DA', 'REGEN', 'BIS', 'MAXIMAL', 'VIERZEHN', 'GRAD']] 
+ Predicted : ['AM', 'FREITAG', 'IST', 'ES', 'IM', 'NORDEN', 'UND', 'WESTEN', 'MEIST', 'FREUNDLICH']
+The BLEU Score :  10.93965428739634 
+
+
+
+
+ Pair : 469
+ Target : [['ICH', 'WÜNSCHE', 'EINEN', 'SCHÖNEN', 'ABEND', 'UND', 'MACHEN', 'SIE', 'ES', 'GUT']] 
+ Predicted : ['IHNEN', 'EINEN', 'SCHÖNEN', 'ABEND', 'UND', 'MACHEN', 'SIE', 'ES', 'GUT']
+The BLEU Score :  11.0625625629363 
+
+
+
+
+ Pair : 470
+ Target : [['IN', 'DER', 'KÖLNER', 'BUCHT', 'HEUTE', 'NACHT', 'MILDE', 'DREIZEHN', 'AM', 'ALPENRAND', 'DREI', 'GRAD']] 
+ Predicted : ['DORT', 'MORGEN', 'BIS', 'SIEBEN', 'GRAD', 'IM', 'NORDEN', 'WERTE', 'ZWISCHEN', 'NULL', 'GRAD']
+The BLEU Score :  11.042933267692947 
+
+
+
+
+ Pair : 471
+ Target : [['MORGEN', 'GIBT', 'ES', 'DANN', 'KEINE', 'GROSSEN', '<BLANK>', 'FÜNF', 'GRAD', 'IM', 'NORDOSTEN', 'AM', 'MILDESTEN', 'WIRD', 'ES', 'IM', 'SÜDWESTEN']] 
+ Predicted : ['ABER', 'DIE', 'SONNE', 'ZEIGT', 'SICH', 'DIE', 'SONNE', 'UND', 'AUCH', 'GANZ', 'SO', 'EIN', 'PAAR', 'REGENSCHAUER', 'UND', 'GEWITTER', 'IST', 'ES', 'AUF', 'JEDEN', 'FALL', 'IST', 'ES', 'NICHT', 'VIEL', 'SONNE']
+The BLEU Score :  11.014077168724722 
+
+
+
+
+ Pair : 472
+ Target : [['LIEBE', 'ZUSCHAUER', 'GUTEN', 'ABEND']] 
+ Predicted : ['LIEBE', 'ZUSCHAUER', 'GUTEN', 'ABEND']
+The BLEU Score :  11.052468239923035 
+
+
+
+
+ Pair : 473
+ Target : [['UND', 'KOMMEN', 'NUN', 'ZUR', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'SONNTAG', 'DEN', 'ZEHNTEN', 'JANUAR']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'SONNTAG', 'DEN']
+The BLEU Score :  11.103279315214424 
+
+
+
+
+ Pair : 474
+ Target : [['RICHTUNG', 'SÜDOSTEN', 'IST', 'AUCH', 'NOCH', 'SCHNEE', 'DABEI']] 
+ Predicted : ['IM', 'SÜDEN', 'FÄLLT', 'NOCH', 'SCHNEE']
+The BLEU Score :  11.099286898539102 
+
+
+
+
+ Pair : 475
+ Target : [['SPÄTER', 'KANN', 'ES', 'AUCH', 'IN', 'DER', 'MITTE', 'AUFLOCKERN']] 
+ Predicted : ['SONST', 'IST', 'ES', 'HEUTE', 'NACHT', 'MEIST', 'KLAR', 'UND', 'TROCKEN']
+The BLEU Score :  11.08795172404608 
+
+
+
+
+ Pair : 476
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'MITTWOCH', 'DEN', 'EINUNDDREISSIGSTEN', 'MÄRZ']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'MITTWOCH', 'DEN', 'DREISSIGSTEN', 'MÄRZ']
+The BLEU Score :  11.210247809652415 
+
+
+
+
+ Pair : 477
+ Target : [['DAHINTER', 'FLIESST', 'ETWAS', 'KÜHLERE', 'LUFT', 'NACH', 'DEUTSCHLAND', 'ABER', 'AB', 'DIENSTAG', 'STEIGEN', 'LUFTDRUCK', 'UND', 'TEMPERATUREN', 'LANGSAM', 'WIEDER', 'UND', 'ES', 'WIRD', 'FREUNDLICHER']] 
+ Predicted : ['IM', 'LAUFE', 'DES', 'TAGES', 'MORGEN', 'ZUM', 'TEIL', 'FREUNDLICHES', 'WETTER', 'MIT', 'VIEL', 'SONNENSCHEIN']
+The BLEU Score :  11.172703137864934 
+
+
+
+
+ Pair : 478
+ Target : [['HEUTE', 'NACHT', 'SECHS', 'BIS', 'DREIZEHN', 'GRAD', 'AM', 'TAG', 'STEIGEN', 'DIE', 'TEMPERATUREN', 'AN', 'AUF', 'ZEHN', 'GRAD', 'AN', 'DEN', 'ALPEN', 'UND', 'BIS', 'FÜNFUNDZWANZIG', 'GRAD', 'AM', 'NIEDERRHEIN']] 
+ Predicted : ['HEUTE', 'NACHT', 'ZEHN', 'GRAD', 'AM', 'NIEDERRHEIN', 'UND', 'ACHT', 'GRAD', 'IM', 'SÜDEN']
+The BLEU Score :  11.160651977422994 
+
+
+
+
+ Pair : 479
+ Target : [['WENN', 'DIE', 'SONNE', 'RAUSKOMMT', 'DANN', 'WERDEN', 'ELF', 'GRAD', 'ERREICHT', 'IM', 'NEBEL', 'BLEIBT', 'ALLERDINGS', 'NUR', 'BEI', 'DREI', 'GRAD']] 
+ Predicted : ['SO', 'WIRD', 'ES', 'DANN', 'AUCH', 'AM', 'WOCHENENDE', 'DA', 'IST', 'DIE', 'SONNE', 'WIEDER', 'SO', 'EIN', 'BISSCHEN']
+The BLEU Score :  11.13749962030469 
+
+
+
+
+ Pair : 480
+ Target : [['IN', 'DER', 'MITTE', 'TEILWEISE', 'SCHNEE', 'ODER', 'GEFRIERENDER', 'REGEN']] 
+ Predicted : ['AM', 'TAG', 'SCHNEIT', 'ES', 'VOR', 'ALLEM', 'IN', 'DER', 'MITTE', 'UND', 'IM', 'BERGLAND', 'SCHNEE', 'ODER', 'GEFRIERENDER', 'REGEN']
+The BLEU Score :  11.185144941315343 
+
+
+
+
+ Pair : 481
+ Target : [['IM', 'NORDEN', 'NOCH', 'SCHAUER']] 
+ Predicted : ['IM', 'NORDEN', 'IST', 'ES', 'WINDIG']
+The BLEU Score :  11.187218311578398 
+
+
+
+
+ Pair : 482
+ Target : [['IM', 'SÜDEN', 'BLEIBT', 'ES', 'UNTER', 'HOCHDRUCKEINFLUSS', 'BEI', 'DEM', 'RUHIGEN', 'UND', 'TEILWEISE', 'FREUNDLICHEN', 'HERBSTWETTER']] 
+ Predicted : ['AUCH', 'IN', 'DEN', 'KOMMENDEN', 'TAGEN', 'ERWARTET', 'UNS', 'RUHIGES', 'RUHIGES', 'UND', 'MEIST', 'RUHIGES', 'UND', 'MEIST', 'RUHIGES', 'HERBSTWETTER']
+The BLEU Score :  11.167033765814827 
+
+
+
+
+ Pair : 483
+ Target : [['ENDLICH', 'MAL', 'SONNENSCHEIN', 'ABER', 'ES', '<BLANK>', 'LEIDER', 'DIE', 'AUSNAHME', 'IN', 'DEUTSCHLAND']] 
+ Predicted : ['UND', 'MORGEN', 'WIRD', 'ES', 'DANN', 'AUCH', 'MORGEN', 'ETWAS', 'WÄRMER']
+The BLEU Score :  11.149789010966934 
+
+
+
+
+ Pair : 484
+ Target : [['DAS', 'TEMPERATURNIVEAU', 'ÄNDERT', 'SICH', 'AUCH', 'ÜBER', 'DAS', 'WOCHENENDE', 'HINAUS', 'KAUM']] 
+ Predicted : ['IN', 'DEN', 'NÄCHSTEN', 'TAGEN', 'WIRD', 'NOCH', 'EIN', 'TIEF']
+The BLEU Score :  11.133178748192474 
+
+
+
+
+ Pair : 485
+ Target : [['IM', 'NORDOSTEN', 'SCHWACHER', 'BIS', 'MÄSSIGER', 'WIND']] 
+ Predicted : ['AM', 'TAG', 'DANN', 'EIN', 'GRAD', 'IM', 'NORDEN']
+The BLEU Score :  11.126119642014762 
+
+
+
+
+ Pair : 486
+ Target : [['HEUTE', 'NACHT', 'VIERZEHN', 'GRAD', 'AM', 'OBERRHEIN', 'BIS', 'NULL', 'GRAD', 'IM', 'NORDEN']] 
+ Predicted : ['AM', 'TAG', 'ACHT', 'GRAD', 'IM', 'VOGTLAND', 'UND', 'BIS', 'VIERZEHN', 'GRAD', 'AM', 'OBERRHEIN']
+The BLEU Score :  11.157101133790674 
+
+
+
+
+ Pair : 487
+ Target : [['ABER', 'HIER', 'IM', 'OSTEN', 'SÜDLICH', 'VON', 'BERLIN', 'UND', 'DANN', 'VOR', 'ALLEN', 'DINGEN', 'IN', 'SÜDDEUTSCHLAND', 'SIND', 'ES', 'VIERUNDZWANZIG', 'BIS', 'ACHTUNDZWANZIG', 'GRAD']] 
+ Predicted : ['AM', 'ALPENRAND', 'UND', 'AUCH', 'IM', 'SÜDEN', 'NOCH', 'EIN', 'PAAR', 'SCHAUER', 'UND', 'GEWITTER']
+The BLEU Score :  11.12337875441954 
+
+
+
+
+ Pair : 488
+ Target : [['AM', 'TAG', 'EINUNDZWANZIG', 'GRAD', 'AUF', 'SYLT', 'UND', 'NEUNUNDZWANZIG', 'GRAD', 'IN', 'DER', 'LAUSITZ', 'UND', 'IN', 'NIEDERBAYERN']] 
+ Predicted : ['MORGEN', 'TEMPERATUREN', 'VON', 'EINUNDZWANZIG', 'GRAD', 'AN', 'DER', 'OSTSEE', 'BIS', 'DREISSIG', 'GRAD']
+The BLEU Score :  11.106256299322002 
+
+
+
+
+ Pair : 489
+ Target : [['AM', 'TAG', 'MINUS', 'DREI', 'GRAD', 'IM', 'NORDOSTEN', 'PLUS', 'VIERZEHN', 'GRAD', 'IM', 'SÜDEN']] 
+ Predicted : ['AM', 'TAG', 'MINUS', 'FÜNF', 'GRAD', 'IM', 'NORDOSTEN', 'UND', 'PLUS', 'DREI', 'GRAD', 'AN', 'DER', 'OSTSEE']
+The BLEU Score :  11.130033441679556 
+
+
+
+
+ Pair : 490
+ Target : [['VON', 'WESTEN', 'MACHT', 'SICH', 'TIEFER', 'LUFTDRUCK', 'BEMERKBAR', 'DER', 'AM', 'SONNTAG', 'FÜR', 'SCHNEE', 'UND', 'GEFRIERENDEN', 'REGEN', 'SORGT']] 
+ Predicted : ['VON', 'WESTEN', 'MACHT', 'SICH', 'DAS', 'TIEF', 'ÜBER', 'DEM', 'ATLANTIK', 'BEMERKBAR']
+The BLEU Score :  11.144486199735493 
+
+
+
+
+ Pair : 491
+ Target : [['AN', 'DER', 'NORDSEE', 'MORGEN', 'SIEBEN', 'IM', 'BREISGAU', 'UND', 'AN', 'DER', 'ISAR', 'BIS', 'FÜNFZEHN', 'GRAD']] 
+ Predicted : ['IM', 'NORDEN', 'UNTER', 'KLAREM', 'HIMMEL', 'HEUTE', 'NACHT', 'NUR', 'SIEBEN', 'BIS', 'NEUN', 'GRAD']
+The BLEU Score :  11.125827752228073 
+
+
+
+
+ Pair : 492
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'SAMSTAG', 'DEN', 'SIEBTEN', 'AUGUST']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'MITTWOCH', 'DEN', 'DREISSIGSTEN', 'AUGUST']
+The BLEU Score :  11.199566586991075 
+
+
+
+
+ Pair : 493
+ Target : [['AB', 'DIENSTAG', 'ZUM', 'TEIL', 'AUCH', 'STÜRMISCH']] 
+ Predicted : ['AM', 'FREITAG', 'INSGESAMT', 'WECHSELHAFTES', 'WETTER']
+The BLEU Score :  11.191217565652533 
+
+
+
+
+ Pair : 494
+ Target : [['KLINGT', 'SCHON', 'LEICHT', 'HERBSTLICH']] 
+ Predicted : ['SCHÖNEN', 'ABEND', 'NOCH']
+The BLEU Score :  11.186920519590553 
+
+
+
+
+ Pair : 495
+ Target : [['AB', 'MITTWOCH', 'WIRD', 'ES', 'WIEDER', 'KÜHLER', 'DABEI', 'GESTALTET', 'SICH', 'DAS', 'WETTER', 'WECHSELHAFT', 'MIT', 'ETWAS', 'SONNE', 'VIELEN', 'WOLKEN', 'UND', 'SCHAUERN', 'ODER', 'GEWITTERN']] 
+ Predicted : ['AM', 'MITTWOCH', 'MAL', 'SONNE', 'MAL', 'WOLKEN', 'UND', 'EINZELNE', 'SCHAUER', 'UND', 'GEWITTER']
+The BLEU Score :  11.158040428109594 
+
+
+
+
+ Pair : 496
+ Target : [['IN', 'DER', 'TEILWEISE', 'KLAREN', 'NACHT', 'GIBT', 'ES', 'ÖRTLICH', 'LEICHTEN', 'FROST']] 
+ Predicted : ['IN', 'DER', 'NACHT', 'IST', 'ES', 'VERBREITET', 'NOCH', 'TROCKEN']
+The BLEU Score :  11.151018039106084 
+
+
+
+
+ Pair : 497
+ Target : [['AM', 'TAG', 'REGNET', 'ES', 'AB', 'UND', 'AN', 'IM', 'NORDEN', 'UND', 'AN', 'ODER', 'UND', 'NEISSE', 'MITUNTER', 'KRÄFTIG', 'RICHTUNG', 'SÜDOSTEN', 'FREUNDLICHE', 'MOMENTE']] 
+ Predicted : ['IM', 'SÜDEN', 'UND', 'OSTEN', 'FÄLLT', 'HEUTE', 'NACHT', 'GEBIETSWEISE', 'REGEN', 'SONST', 'NUR', 'HIER', 'UND', 'DA', 'SCHAUER', 'IM', 'NORDEN', 'TEILWEISE', 'AUCH', 'MAL', 'KLAR']
+The BLEU Score :  11.123910965144027 
+
+
+
+
+ Pair : 498
+ Target : [['IN', 'DEN', 'NÖRDLICHEN', 'UND', 'ÖSTLICHEN', 'MITTELGEBIRGEN', 'SCHNEIT', 'ES', 'TEILWEISE', 'GEGEN', 'ABEND', 'KANN', 'ES', 'IN', 'DER', 'NORDHÄLFTE', 'AUCH', 'MAL', 'BIS', 'INS', 'FLACHLAND', 'SCHNEIEN']] 
+ Predicted : ['AM', 'TAG', 'SCHNEIT', 'ES', 'ZUNÄCHST', 'IM', 'SÜDEN', 'UND', 'SÜDEN', 'GEBIETSWEISE', 'IM', 'SÜDEN', 'SPÄTER', 'AUCH', 'MAL', 'KRÄFTIGER', 'SCHNEEFALL']
+The BLEU Score :  11.098137902359547 
+
+
+
+
+ Pair : 499
+ Target : [['ES', 'ZIEHT', 'DANN', 'HEUTE', 'NACHT', 'AUF', 'UND', 'WIRD', 'MORGEN', 'NACHMITTAG', 'DANN', 'SCHON', 'DIE', 'NORDSEEKÜSTE', 'ERREICHEN', 'MIT', 'EIN', 'BISSCHEN', 'REGEN', 'UND', 'MILDERER', 'LUFT', 'VOR', 'ALLEN', 'DINGEN']] 
+ Predicted : ['UND', 'DAS', 'GANZE', 'ZIEHT', 'WEITER', 'RICHTUNG', 'NORDEN', 'EIN', 'BISSCHEN', 'REGEN', 'DAS', 'WIRD', 'FREUNDLICHER']
+The BLEU Score :  11.074975903350781 
+
+
+
+
+ Pair : 500
+ Target : [['DIE', '<BLANK>', 'ZEIGEN', 'ES', 'ABER', 'RICHTUNG', 'SÜDEN', 'WIRD', 'ES', 'DEUTLICH', 'WÄRMER', 'ALS', 'BEI', 'UNS']] 
+ Predicted : ['UND', 'DIE', 'TEMPERATUREN', 'WERDEN', 'SICH', 'DIE', 'TEMPERATUREN', 'MORGEN', 'AUCH', 'IN', 'DEN', 'NÄCHSTEN', 'TAGEN']
+The BLEU Score :  11.052559714045683 
+
+
+
+
+ Pair : 501
+ Target : [['AM', 'SONNTAG', 'IM', 'WESTEN', 'UND', 'NORDWESTEN', 'WIEDER', 'VIELE', 'WOLKEN', 'UND', 'ETWAS', 'REGEN', 'RICHTUNG', 'OSTEN', 'IST', 'ES', 'WEITERHIN', 'RECHT', 'FREUNDLICH']] 
+ Predicted : ['AM', 'MITTWOCH', 'IST', 'ES', 'IM', 'NORDEN', 'RECHT', 'FREUNDLICH', 'SONST', 'REGNET', 'ES', 'GEBIETSWEISE', 'IM', 'NORDEN']
+The BLEU Score :  11.03450286777056 
+
+
+
+
+ Pair : 502
+ Target : [['ALSO', 'DER', 'HERBST', 'GEHT', 'SOZUSAGEN', 'WEITER', 'DER', '<BLANK>']] 
+ Predicted : ['ALSO', 'ES', 'WIRD', 'WÄRMER', 'AM', 'WOCHENENDE']
+The BLEU Score :  11.024000232624369 
+
+
+
+
+ Pair : 503
+ Target : [['AM', 'TAG', 'LIEGEN', 'ÜBER', 'DER', 'NORDHÄLFTE', 'DICHTE', 'WOLKEN', 'VERBREITET', 'FÄLLT', 'REGEN', 'ODER', 'SPRÜHREGEN']] 
+ Predicted : ['IM', 'NORDEN', 'UND', 'WESTEN', 'IST', 'ES', 'HEUTE', 'NACHT', 'MEIST', 'STARK', 'BEWÖLKT', 'GEBIETSWEISE', 'REGNET', 'ES']
+The BLEU Score :  11.002301322715022 
+
+
+
+
+ Pair : 504
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'FREITAG', 'DEN', 'EINUNDZWANZIGSTEN', 'MAI']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'FREITAG', 'DEN', 'DREISSIGSTEN', 'MAI']
+The BLEU Score :  11.117875193705885 
+
+
+
+
+ Pair : 505
+ Target : [['IM', 'SÜDEN', 'WEHT', 'DER', 'WIND', 'SCHWACH', 'IM', 'NORDEN', 'MÄSSIG', 'BIS', 'FRISCH', 'BEI', 'SCHAUERN', 'SOWIE', 'AN', 'DEN', 'KÜSTEN', 'UND', 'AUF', 'DEN', 'BERGEN', 'TEILWEISE', 'STÜRMISCHE', 'BÖEN']] 
+ Predicted : ['IM', 'SÜDEN', 'HEUTE', 'NACHT', 'ÖRTLICH', 'SCHAUER', 'UND', 'GEWITTER', 'SONST', 'MEIST', 'FREUNDLICH']
+The BLEU Score :  11.082747512528911 
+
+
+
+
+ Pair : 506
+ Target : [['DORT', 'MORGEN', 'MILDE', 'ZWÖLF', 'IM', 'HOHEN', 'NORDEN', 'KÜHLER', 'ZWEI', 'GRAD']] 
+ Predicted : ['MORGEN', 'TEMPERATUREN', 'VON', 'SIEBEN', 'GRAD', 'IM', 'VOGTLAND', 'BIS', 'SECHZEHN', 'GRAD']
+The BLEU Score :  11.071137773938894 
+
+
+
+
+ Pair : 507
+ Target : [['AM', 'TAG', 'REGNET', 'ES', 'IM', 'NORDEN', 'UND', 'WESTEN', 'AB', 'UND', 'ZU', 'IM', 'SÜDEN', 'NEBEN', 'WOLKEN', 'MITUNTER', 'ZÄHER', 'NEBEL']] 
+ Predicted : ['AM', 'TAG', 'SCHEINT', 'IM', 'SÜDEN', 'UND', 'OSTEN', 'HÄUFIG', 'DIE', 'SONNE', 'IN', 'DER', 'MITTE', 'UND', 'ES', 'ZEITWEISE', 'REGEN']
+The BLEU Score :  11.056475748802587 
+
+
+
+
+ Pair : 508
+ Target : [['MORGEN', 'ÜBERQUERT', 'UNS', 'DER', 'AUSLÄUFER', 'EINES', 'TIEFS', 'ÜBER', 'NORDEUROPA', 'VON', 'NORDWEST', 'NACH', 'SÜDOST']] 
+ Predicted : ['EIN', 'TIEF', 'ZIEHT', 'VON', 'DER', 'NORDSEE']
+The BLEU Score :  11.038003544598688 
+
+
+
+
+ Pair : 509
+ Target : [['WO', 'ES', 'HEUTE', 'NACHT', 'AUFKLART', 'ÖRTLICH', 'BIS', 'MINUS', 'FÜNFZEHN', 'AN', 'DER', 'OSTSEE', 'BEI', 'SEEWIND', 'UND', 'IM', 'BREISGAU', 'MINUS', 'DREI', 'GRAD']] 
+ Predicted : ['HEUTE', 'NACHT', 'MINUS', 'DREI', 'GRAD', 'AN', 'DER', 'OSTSEE', 'UND', 'MINUS', 'SECHS', 'GRAD', 'IM', 'NORDOSTEN']
+The BLEU Score :  11.048497807987355 
+
+
+
+
+ Pair : 510
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'FREITAG', 'DEN', 'VIERZEHNTEN', 'MAI']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'FREITAG', 'DEN', 'DREISSIGSTEN', 'MAI']
+The BLEU Score :  11.162290413497706 
+
+
+
+
+ Pair : 511
+ Target : [['LIEBE', 'ZUSCHAUER', 'GUTEN', 'ABEND']] 
+ Predicted : ['LIEBE', 'ZUSCHAUER', 'GUTEN', 'ABEND']
+The BLEU Score :  11.197632862075078 
+
+
+
+
+ Pair : 512
+ Target : [['AM', 'TAG', 'NEUN', 'GRAD', 'IM', 'BREISGAU', 'UND', 'MINUS', 'ACHT', 'GRAD', 'IM', 'NORDOSTEN']] 
+ Predicted : ['AM', 'TAG', 'SIEBEN', 'GRAD', 'IM', 'NORDEN', 'UND', 'PLUS', 'EIN', 'GRAD']
+The BLEU Score :  11.193079962791709 
+
+
+
+
+ Pair : 513
+ Target : [['IM', 'SÜDOSTEN', 'SCHWACHER', 'SONST', 'MÄSSIGER', 'BIS', 'FRISCHER', 'SÜDWESTWIND']] 
+ Predicted : ['IM', 'SÜDEN', 'SCHWACHER', 'BIS', 'MÄSSIGER', 'WIND', 'AUS', 'SÜD', 'BIS', 'SÜDWEST']
+The BLEU Score :  11.186657320067749 
+
+
+
+
+ Pair : 514
+ Target : [['MORGEN', 'JEDENFALLS', 'WIRD', 'DER', 'REGEN', 'IM', 'NORDOSTEN', 'RELATIV', 'SCHNELL', 'ABZIEHEN', 'ES', 'GIBT', 'DANN', 'IMMER', 'NOCH', 'EIN', 'PAAR', 'SCHAUER']] 
+ Predicted : ['MORGEN', 'VORMITTAG', 'REGNET', 'ES', 'NUR', 'NOCH', 'IM', 'NORDOSTEN', 'NOCH', 'IM', 'NORDOSTEN', 'NOCH', 'NUR', 'NOCH', 'IM', 'NORDOSTEN', 'NOCH', 'IM', 'NORDOSTEN', 'AB', 'UND', 'ZU', 'MAL']
+The BLEU Score :  11.165565961256318 
+
+
+
+
+ Pair : 515
+ Target : [['MORGEN', 'REGNET', 'ES', 'VERBREITET', 'IM', 'BERGLAND', 'ZUM', 'TEIL', 'SCHNEE', 'WOBEI', 'DIE', 'SCHNEEFALLGRENZE', 'IM', 'SÜDEN', 'VORÜBERGEHEND', 'AUF', 'ETWA', '<BLANK>', 'METER', 'STEIGT']] 
+ Predicted : ['IN', 'DER', 'NACHT', 'REGNET', 'ES', 'IM', 'SÜDEN', 'UND', 'IM', 'SÜDEN', 'TEILWEISE', 'KRÄFTIG', 'IM', 'NORDEN', 'FÄLLT', 'VERBREITET', 'REGEN']
+The BLEU Score :  11.145724114885976 
+
+
+
+
+ Pair : 516
+ Target : [['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'SAMSTAG', 'DEN', 'ZEHNTEN', 'APRIL']] 
+ Predicted : ['UND', 'NUN', 'DIE', 'WETTERVORHERSAGE', 'FÜR', 'MORGEN', 'MITTWOCH', 'DEN', 'AUCH', 'MORGEN', 'MITTWOCH', 'DEN', 'SÜDEN', 'DEN', 'SÜDEN', 'APRIL']
+The BLEU Score :  11.215529054041538 
+
+
+
+
+ Pair : 517
+ Target : [['AM', 'SAMSTAG', 'VIEL', 'SONNE', 'GANZ', 'IM', 'NORDEN', 'EINZELNE', 'SCHAUER']] 
+ Predicted : ['AM', 'MONTAG', 'IM', 'NORDEN', 'UND', 'NORDOSTEN', 'MAL', 'SONNE', 'MAL', 'WOLKEN']
+The BLEU Score :  11.210558268498174 
+
+
+
+
+ Pair : 518
+ Target : [['DIE', '<BLANK>', 'STEIGEN', 'IN', 'DEN', 'KOMMENDEN', 'TAGEN', 'DEUTLICH', 'AN']] 
+ Predicted : ['IN', 'DEN', 'SÜDWESTEN', 'DEUTSCHLANDS', 'BRINGT', 'EIN', 'UND', 'NOCH', 'ETWAS', 'FREUNDLICHER']
+The BLEU Score :  11.202863154845591 
+
+
+
+
+ Pair : 519
+ Target : [['DAS', '<BLANK>', 'GEGEN', 'DIE', 'TROCKENHEIT']] 
+ Predicted : ['ALSO', 'ES', 'WIRD', 'VOR', 'ALLEM']
+The BLEU Score :  11.196831598364563 
+
+
